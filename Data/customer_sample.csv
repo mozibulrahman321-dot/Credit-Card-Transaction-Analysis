@@ -1,0 +1,3001 @@
+Client_Num,Customer_Age,Gender,Dependent_Count,Education_Level,Marital_Status,state_cd,Car_Owner,House_Owner,Personal_loan,contact,Cust_Satisfaction_Score
+CUST_00001,24,F,1,Uneducated,Single,FL,no,yes,no,unknown,3
+CUST_00004,38,M,2,Uneducated,Single,NY,no,no,no,cellular,1
+CUST_00009,48,M,2,High School,Married,NJ,yes,no,no,telephone,2
+CUST_00011,31,F,0,Post-Graduate,Single,CA,no,yes,no,telephone,2
+CUST_00013,51,F,2,Graduate,Single,NJ,yes,yes,no,cellular,2
+CUST_00015,49,F,4,Graduate,Married,CA,no,yes,no,unknown,1
+CUST_00018,47,F,5,Graduate,Married,FL,no,no,no,cellular,2
+CUST_00020,47,M,3,Graduate,Married,NY,no,no,no,cellular,2
+CUST_00021,34,F,3,Uneducated,Single,TX,yes,yes,yes,telephone,1
+CUST_00024,55,M,2,Doctorate,Married,MO,yes,yes,no,cellular,2
+CUST_00030,46,M,3,Graduate,Married,NY,yes,yes,no,cellular,2
+CUST_00031,44,M,4,Graduate,Unknown,IA,no,no,no,telephone,3
+CUST_00032,40,F,3,Graduate,Married,NJ,yes,yes,no,cellular,2
+CUST_00034,51,F,2,Uneducated,Single,NY,yes,no,no,cellular,2
+CUST_00036,49,F,2,Unknown,Single,TX,yes,yes,no,cellular,3
+CUST_00037,43,F,5,Graduate,Married,TX,no,yes,no,cellular,2
+CUST_00038,54,M,1,Graduate,Single,NY,no,yes,no,unknown,1
+CUST_00040,52,F,3,Graduate,Married,NY,no,yes,no,unknown,1
+CUST_00042,49,F,0,Graduate,Single,NY,yes,no,no,cellular,1
+CUST_00046,47,F,2,Doctorate,Single,CA,no,yes,no,cellular,2
+CUST_00047,47,F,4,Unknown,Unknown,CA,no,yes,no,cellular,1
+CUST_00048,47,F,3,Unknown,Single,NY,no,yes,no,unknown,3
+CUST_00049,53,F,2,Graduate,Married,CA,no,no,yes,telephone,2
+CUST_00051,42,M,1,Uneducated,Married,AK,no,no,yes,cellular,1
+CUST_00058,58,F,1,Unknown,Married,NY,no,yes,no,cellular,3
+CUST_00059,57,F,1,Graduate,Single,CA,no,yes,no,cellular,3
+CUST_00060,38,M,2,Graduate,Married,CA,yes,no,no,cellular,3
+CUST_00062,60,F,1,Uneducated,Single,NJ,no,no,no,cellular,3
+CUST_00064,39,M,4,Graduate,Single,NJ,yes,no,no,cellular,2
+CUST_00066,50,M,2,High School,Married,NY,no,no,no,unknown,3
+CUST_00069,62,M,0,High School,Single,TX,no,yes,no,cellular,3
+CUST_00071,38,F,1,Graduate,Married,CA,no,yes,no,unknown,1
+CUST_00074,26,M,0,Graduate,Single,NY,no,yes,no,cellular,3
+CUST_00077,39,F,2,Graduate,Single,CA,yes,no,no,cellular,1
+CUST_00080,56,M,2,Graduate,Married,CA,no,no,no,unknown,2
+CUST_00081,47,F,3,Graduate,Single,FL,yes,yes,no,telephone,2
+CUST_00082,48,F,3,Graduate,Married,TX,no,yes,no,cellular,1
+CUST_00085,41,F,1,High School,Single,NY,no,no,no,cellular,3
+CUST_00088,39,F,1,Graduate,Single,NY,no,no,no,cellular,1
+CUST_00089,54,F,2,Graduate,Married,TX,no,no,no,cellular,2
+CUST_00093,29,M,0,Graduate,Single,NJ,no,no,no,cellular,3
+CUST_00094,63,F,2,Graduate,Single,NY,yes,no,no,cellular,2
+CUST_00096,41,F,2,Graduate,Married,CA,yes,no,no,cellular,3
+CUST_00097,55,M,2,Unknown,Single,FL,no,no,no,cellular,2
+CUST_00100,46,F,4,Doctorate,Married,NY,no,yes,no,cellular,1
+CUST_00102,36,M,3,High School,Married,NJ,yes,yes,no,cellular,1
+CUST_00103,37,M,4,Post-Graduate,Married,NY,yes,no,no,cellular,2
+CUST_00104,59,F,1,Graduate,Married,NJ,no,no,no,cellular,3
+CUST_00105,49,F,3,Uneducated,Single,TX,no,yes,no,cellular,3
+CUST_00107,56,M,1,Graduate,Single,TX,yes,yes,no,unknown,3
+CUST_00108,45,F,5,Doctorate,Married,TX,no,no,yes,unknown,1
+CUST_00109,63,M,0,Unknown,Unknown,CA,no,no,yes,cellular,2
+CUST_00112,49,F,4,Uneducated,Married,TX,no,no,no,cellular,2
+CUST_00119,39,F,0,Graduate,Married,CA,no,yes,no,unknown,2
+CUST_00120,41,M,2,Graduate,Married,CA,no,no,no,telephone,1
+CUST_00132,42,M,2,Uneducated,Single,NJ,yes,no,no,cellular,1
+CUST_00133,35,F,1,Unknown,Married,TX,no,no,no,cellular,2
+CUST_00136,42,F,5,Graduate,Married,GA,yes,no,no,cellular,3
+CUST_00145,57,M,3,Unknown,Single,NY,yes,yes,yes,telephone,3
+CUST_00150,45,F,3,Graduate,Single,NY,no,yes,no,cellular,3
+CUST_00158,41,F,2,Graduate,Married,CA,no,no,no,telephone,3
+CUST_00165,40,F,2,High School,Married,MA,yes,yes,no,cellular,2
+CUST_00169,33,F,0,Graduate,Single,TX,no,yes,no,cellular,2
+CUST_00170,45,F,5,Uneducated,Married,NY,no,yes,yes,unknown,2
+CUST_00173,47,M,2,Graduate,Married,CA,no,yes,yes,cellular,2
+CUST_00178,65,F,0,Uneducated,Single,FL,no,no,no,cellular,3
+CUST_00181,59,F,0,Doctorate,Single,CA,yes,no,no,cellular,3
+CUST_00182,45,F,3,Uneducated,Married,TX,yes,yes,yes,cellular,3
+CUST_00186,48,F,5,Post-Graduate,Married,CA,no,no,no,cellular,3
+CUST_00197,55,F,2,High School,Single,CA,no,no,no,unknown,2
+CUST_00200,55,F,4,Uneducated,Married,FL,no,yes,no,cellular,2
+CUST_00210,36,F,2,Graduate,Single,NY,no,no,no,cellular,2
+CUST_00211,50,F,2,Uneducated,Married,NJ,no,no,yes,telephone,3
+CUST_00212,51,F,1,Post-Graduate,Single,NY,no,yes,no,cellular,3
+CUST_00213,38,M,1,Graduate,Single,CA,yes,no,no,cellular,2
+CUST_00215,59,M,0,High School,Single,NY,yes,no,no,cellular,2
+CUST_00218,49,M,4,Doctorate,Married,NJ,yes,no,no,cellular,1
+CUST_00222,43,M,1,High School,Married,TX,yes,no,yes,cellular,2
+CUST_00223,37,M,3,High School,Single,CA,no,yes,no,cellular,3
+CUST_00230,58,M,0,Graduate,Single,CA,no,no,no,cellular,2
+CUST_00231,51,F,1,Doctorate,Married,TX,no,yes,no,cellular,1
+CUST_00234,44,F,2,Graduate,Single,TX,no,yes,no,cellular,2
+CUST_00240,56,F,3,Graduate,Single,FL,yes,yes,no,unknown,1
+CUST_00246,40,M,3,Unknown,Single,NJ,no,no,no,cellular,1
+CUST_00248,36,F,4,Graduate,Single,CA,yes,no,no,unknown,1
+CUST_00249,48,F,2,Graduate,Single,NY,yes,yes,no,unknown,1
+CUST_00252,53,M,3,Unknown,Married,NJ,no,no,no,cellular,3
+CUST_00253,33,F,3,Graduate,Married,FL,no,yes,no,cellular,2
+CUST_00258,35,F,1,Uneducated,Married,NJ,no,no,no,cellular,2
+CUST_00260,56,F,1,Graduate,Single,CA,yes,yes,no,unknown,2
+CUST_00262,60,F,1,High School,Single,TX,yes,yes,yes,unknown,3
+CUST_00264,42,F,2,Graduate,Unknown,TX,yes,yes,no,cellular,1
+CUST_00266,57,F,1,Graduate,Married,TX,no,no,no,unknown,2
+CUST_00268,39,F,0,High School,Single,CA,no,no,no,telephone,1
+CUST_00275,43,F,5,Uneducated,Married,CA,yes,yes,no,cellular,3
+CUST_00287,46,M,0,Graduate,Single,TX,no,yes,no,unknown,2
+CUST_00291,40,F,3,Graduate,Single,TX,yes,no,no,cellular,3
+CUST_00292,52,F,1,Uneducated,Single,TX,no,yes,no,cellular,3
+CUST_00293,50,F,3,Uneducated,Married,NY,no,no,no,cellular,2
+CUST_00294,37,F,2,High School,Single,FL,yes,no,no,cellular,3
+CUST_00296,32,F,0,Uneducated,Married,TX,yes,yes,no,cellular,2
+CUST_00304,45,F,0,Graduate,Single,FL,yes,no,no,cellular,2
+CUST_00305,38,F,3,Unknown,Married,FL,no,yes,no,cellular,3
+CUST_00312,33,F,3,Graduate,Single,FL,yes,yes,no,cellular,3
+CUST_00316,45,F,3,Graduate,Single,CA,no,yes,yes,cellular,2
+CUST_00317,46,M,2,Graduate,Married,TX,no,no,no,telephone,3
+CUST_00319,51,M,3,Unknown,Married,NY,yes,no,no,cellular,2
+CUST_00320,43,F,3,Graduate,Single,NY,no,no,no,unknown,3
+CUST_00322,48,F,3,Post-Graduate,Unknown,NY,no,no,no,cellular,2
+CUST_00324,54,M,5,Graduate,Married,NY,no,yes,no,telephone,2
+CUST_00331,46,M,2,Post-Graduate,Single,HI,yes,no,no,cellular,2
+CUST_00333,43,F,3,Graduate,Married,CA,yes,no,yes,cellular,3
+CUST_00334,54,M,4,Unknown,Married,CA,no,no,no,telephone,2
+CUST_00335,52,F,2,Post-Graduate,Single,NY,no,yes,no,unknown,2
+CUST_00336,36,F,4,Unknown,Married,NY,no,yes,yes,unknown,2
+CUST_00338,51,F,4,Doctorate,Married,NY,yes,yes,yes,cellular,3
+CUST_00347,35,F,3,Unknown,Married,NY,no,yes,no,unknown,2
+CUST_00348,54,F,2,Graduate,Single,TX,no,yes,no,cellular,2
+CUST_00350,44,F,4,High School,Single,NY,no,yes,yes,cellular,2
+CUST_00351,32,F,1,Unknown,Married,TX,yes,yes,no,unknown,2
+CUST_00354,49,F,2,Uneducated,Married,NY,yes,no,no,unknown,2
+CUST_00355,44,M,5,Unknown,Single,AZ,no,yes,no,cellular,3
+CUST_00361,62,F,1,High School,Unknown,CA,no,yes,no,cellular,3
+CUST_00368,42,F,5,Graduate,Married,CA,yes,yes,no,cellular,2
+CUST_00373,39,F,3,Uneducated,Single,NY,no,no,no,unknown,2
+CUST_00374,35,M,3,Doctorate,Married,TX,no,yes,no,unknown,2
+CUST_00377,53,M,4,Graduate,Married,TX,yes,no,no,cellular,2
+CUST_00380,64,M,0,Graduate,Single,FL,no,yes,no,unknown,3
+CUST_00382,61,F,0,High School,Married,NJ,no,no,no,unknown,1
+CUST_00386,51,M,3,Graduate,Married,NY,no,yes,no,cellular,2
+CUST_00389,52,M,2,Graduate,Married,CA,yes,no,no,unknown,3
+CUST_00394,40,F,3,Uneducated,Unknown,CA,no,no,yes,cellular,2
+CUST_00395,48,F,4,Graduate,Single,NY,yes,no,no,cellular,3
+CUST_00400,40,F,4,Uneducated,Married,NY,yes,yes,no,cellular,3
+CUST_00401,42,M,3,High School,Single,FL,yes,no,no,cellular,3
+CUST_00403,42,F,1,Doctorate,Married,NJ,no,no,no,cellular,3
+CUST_00404,60,F,0,Doctorate,Single,TX,no,yes,no,unknown,2
+CUST_00409,50,F,0,Graduate,Single,NY,yes,yes,no,cellular,2
+CUST_00411,44,M,4,Unknown,Married,FL,yes,no,no,cellular,2
+CUST_00412,26,F,0,Unknown,Married,NY,yes,yes,no,cellular,2
+CUST_00417,48,M,3,Graduate,Unknown,FL,no,yes,no,unknown,1
+CUST_00419,52,M,4,Uneducated,Married,FL,no,no,no,cellular,2
+CUST_00428,59,F,0,Unknown,Married,TX,no,yes,no,cellular,3
+CUST_00430,29,F,0,Post-Graduate,Single,CA,no,yes,no,cellular,1
+CUST_00433,50,M,2,Graduate,Married,NY,no,yes,no,unknown,1
+CUST_00434,50,F,4,Unknown,Married,NJ,yes,yes,no,cellular,1
+CUST_00439,55,F,2,Graduate,Single,FL,yes,no,no,unknown,3
+CUST_00440,45,F,3,Graduate,Married,NY,no,no,no,cellular,2
+CUST_00441,52,F,3,Uneducated,Single,TX,no,yes,yes,cellular,2
+CUST_00446,37,M,2,Graduate,Married,TX,no,no,no,cellular,1
+CUST_00448,30,M,0,Graduate,Married,IA,yes,yes,no,cellular,1
+CUST_00450,49,F,3,Uneducated,Married,CA,no,no,no,unknown,1
+CUST_00451,51,F,3,High School,Married,CA,no,no,no,unknown,3
+CUST_00454,48,M,1,Unknown,Married,NY,no,no,no,cellular,3
+CUST_00456,45,F,4,Graduate,Single,FL,yes,yes,no,cellular,1
+CUST_00457,43,F,3,Unknown,Single,FL,yes,yes,no,cellular,2
+CUST_00458,42,M,4,Uneducated,Married,CA,no,no,no,cellular,3
+CUST_00462,39,F,2,Unknown,Single,TX,yes,yes,no,cellular,1
+CUST_00463,43,F,4,High School,Unknown,NY,no,no,no,cellular,2
+CUST_00466,43,F,3,High School,Single,FL,no,yes,no,telephone,2
+CUST_00468,45,F,3,High School,Married,TX,yes,no,yes,cellular,2
+CUST_00473,45,M,4,Graduate,Single,CA,no,no,no,cellular,1
+CUST_00474,47,M,3,Graduate,Single,FL,yes,no,no,cellular,1
+CUST_00475,36,F,1,High School,Single,CA,yes,no,no,cellular,2
+CUST_00481,47,M,2,High School,Married,NY,yes,yes,yes,cellular,1
+CUST_00484,38,M,1,Doctorate,Single,IA,yes,yes,no,cellular,3
+CUST_00486,53,M,1,Graduate,Married,TX,yes,yes,yes,cellular,2
+CUST_00488,41,M,3,Graduate,Single,NY,no,no,no,cellular,2
+CUST_00497,41,F,3,Graduate,Married,NY,no,yes,no,telephone,1
+CUST_00501,29,F,1,High School,Single,FL,yes,no,no,unknown,2
+CUST_00504,48,F,4,Unknown,Married,FL,yes,no,no,cellular,1
+CUST_00510,46,M,2,Doctorate,Single,NJ,no,no,no,cellular,1
+CUST_00511,50,M,2,Post-Graduate,Married,TX,no,no,no,cellular,1
+CUST_00512,44,F,3,Unknown,Single,TX,no,yes,no,cellular,2
+CUST_00514,65,M,0,Unknown,Single,CA,no,no,no,cellular,3
+CUST_00519,43,F,3,Uneducated,Single,NY,no,no,no,cellular,3
+CUST_00528,50,F,1,Unknown,Single,NY,no,yes,no,unknown,3
+CUST_00529,48,F,4,High School,Single,TX,yes,yes,yes,cellular,3
+CUST_00533,52,F,2,Graduate,Single,CA,yes,no,no,unknown,1
+CUST_00534,41,M,2,Graduate,Single,NY,yes,no,yes,unknown,2
+CUST_00539,38,F,2,Doctorate,Single,NY,no,no,no,unknown,3
+CUST_00541,48,F,3,Unknown,Single,TX,no,yes,no,cellular,1
+CUST_00543,54,F,3,High School,Married,NY,yes,no,no,cellular,1
+CUST_00544,54,F,4,Unknown,Married,CA,yes,no,no,cellular,1
+CUST_00545,34,F,0,Graduate,Single,TX,yes,yes,no,cellular,2
+CUST_00551,47,M,2,High School,Single,TX,no,yes,no,cellular,3
+CUST_00552,48,M,3,Uneducated,Married,NJ,yes,no,no,cellular,1
+CUST_00555,44,F,4,High School,Married,NJ,no,no,no,cellular,1
+CUST_00564,40,M,3,High School,Single,FL,no,yes,yes,cellular,3
+CUST_00565,45,F,4,Uneducated,Married,CA,yes,yes,no,cellular,3
+CUST_00568,46,M,3,Graduate,Unknown,NY,no,yes,no,cellular,2
+CUST_00569,52,F,0,Graduate,Married,NY,yes,yes,no,cellular,2
+CUST_00577,33,M,1,Post-Graduate,Married,NJ,yes,no,no,cellular,1
+CUST_00578,39,M,3,High School,Single,TX,no,yes,no,unknown,1
+CUST_00580,38,F,3,Unknown,Single,NJ,no,yes,no,cellular,1
+CUST_00583,42,M,1,Uneducated,Unknown,CA,yes,no,yes,telephone,3
+CUST_00587,29,M,1,Unknown,Single,CA,yes,yes,no,cellular,3
+CUST_00591,50,F,1,Graduate,Single,NY,no,yes,no,unknown,3
+CUST_00592,39,F,2,High School,Married,FL,yes,yes,no,cellular,3
+CUST_00593,53,F,3,Uneducated,Married,CA,yes,no,no,cellular,3
+CUST_00595,60,M,0,Graduate,Unknown,FL,no,no,no,cellular,2
+CUST_00602,38,M,3,Graduate,Married,NJ,no,no,no,cellular,2
+CUST_00604,34,F,2,Graduate,Single,CA,yes,yes,yes,cellular,3
+CUST_00605,61,M,0,Graduate,Married,CA,yes,no,no,cellular,1
+CUST_00606,48,M,3,Graduate,Married,TX,yes,yes,yes,cellular,1
+CUST_00612,49,F,5,Uneducated,Married,NY,yes,yes,no,unknown,2
+CUST_00614,54,F,3,High School,Married,CA,no,no,no,cellular,1
+CUST_00618,41,M,3,Uneducated,Married,NJ,yes,no,no,telephone,2
+CUST_00619,61,F,0,High School,Married,TX,no,no,no,cellular,1
+CUST_00621,46,F,1,Uneducated,Unknown,NY,no,yes,no,unknown,1
+CUST_00622,40,F,4,High School,Married,TX,no,yes,no,cellular,3
+CUST_00624,52,F,1,Graduate,Married,TX,yes,no,no,unknown,1
+CUST_00625,48,F,2,Graduate,Married,CA,no,no,yes,unknown,3
+CUST_00626,53,M,2,Graduate,Single,CA,no,no,no,telephone,2
+CUST_00638,62,F,2,Graduate,Married,FL,no,no,no,cellular,1
+CUST_00648,49,F,1,High School,Single,TX,yes,no,no,cellular,2
+CUST_00649,52,M,2,Graduate,Single,FL,no,no,no,unknown,1
+CUST_00654,56,F,3,Graduate,Married,CA,no,yes,no,unknown,1
+CUST_00656,50,F,3,Graduate,Single,CO,no,no,no,unknown,3
+CUST_00665,56,M,2,High School,Married,CA,yes,no,no,unknown,2
+CUST_00669,42,F,4,Graduate,Single,NJ,yes,yes,no,cellular,1
+CUST_00674,50,F,2,Graduate,Married,FL,yes,yes,no,cellular,3
+CUST_00676,60,F,0,High School,Single,FL,no,no,no,cellular,2
+CUST_00677,39,M,3,High School,Married,TX,no,yes,no,cellular,3
+CUST_00679,43,F,3,Doctorate,Married,NY,yes,no,yes,cellular,1
+CUST_00683,38,F,3,Unknown,Single,NY,yes,no,no,unknown,2
+CUST_00684,59,M,0,Graduate,Single,TX,yes,no,no,unknown,3
+CUST_00694,51,F,3,Graduate,Single,FL,no,no,no,unknown,2
+CUST_00697,40,M,2,Graduate,Married,CA,no,yes,no,cellular,3
+CUST_00701,57,F,2,Uneducated,Single,FL,yes,yes,no,unknown,2
+CUST_00705,47,F,2,Graduate,Single,TX,no,no,no,cellular,2
+CUST_00706,45,M,2,High School,Married,NY,no,yes,yes,cellular,3
+CUST_00707,29,F,0,Graduate,Married,CA,no,yes,no,unknown,2
+CUST_00709,47,F,5,Unknown,Married,CA,yes,no,no,cellular,2
+CUST_00711,45,F,2,Graduate,Married,CA,no,no,no,unknown,3
+CUST_00712,44,F,4,Unknown,Married,CA,yes,no,no,cellular,3
+CUST_00713,61,F,1,Graduate,Married,CA,no,yes,no,cellular,2
+CUST_00714,45,F,4,Graduate,Married,AR,no,no,no,unknown,2
+CUST_00716,48,F,5,Graduate,Single,NY,yes,no,no,cellular,2
+CUST_00719,40,F,1,High School,Married,NJ,no,no,no,unknown,2
+CUST_00723,59,M,0,High School,Single,NY,no,no,no,cellular,2
+CUST_00725,44,F,3,Graduate,Unknown,CA,no,yes,yes,cellular,2
+CUST_00731,55,F,1,Graduate,Single,NJ,yes,no,no,cellular,3
+CUST_00734,45,F,3,Graduate,Married,NY,yes,yes,no,unknown,2
+CUST_00736,37,M,4,Uneducated,Married,FL,no,yes,no,cellular,2
+CUST_00737,42,M,3,Uneducated,Single,NY,no,no,no,cellular,2
+CUST_00739,49,F,3,Graduate,Married,NY,yes,no,no,cellular,2
+CUST_00743,54,M,2,Uneducated,Married,FL,no,yes,no,cellular,3
+CUST_00744,65,F,0,Unknown,Single,NY,no,yes,no,cellular,3
+CUST_00745,51,M,4,High School,Married,NY,no,no,no,cellular,2
+CUST_00746,48,M,5,High School,Married,IL,yes,no,no,cellular,2
+CUST_00748,48,M,4,High School,Single,NY,no,yes,no,cellular,2
+CUST_00749,53,M,4,Graduate,Single,TX,no,yes,no,cellular,3
+CUST_00750,48,F,1,Unknown,Single,CA,yes,yes,no,cellular,3
+CUST_00754,44,F,2,Uneducated,Married,TX,yes,yes,no,cellular,2
+CUST_00755,39,M,4,Uneducated,Married,CA,yes,no,no,telephone,3
+CUST_00759,63,M,1,Graduate,Single,CA,no,no,no,cellular,2
+CUST_00762,45,M,3,Graduate,Married,FL,yes,no,no,cellular,3
+CUST_00764,40,F,4,Graduate,Married,NY,no,yes,no,telephone,2
+CUST_00765,53,F,2,Graduate,Married,CA,no,yes,no,cellular,2
+CUST_00766,45,M,4,Graduate,Married,WA,yes,no,no,cellular,2
+CUST_00767,54,M,4,Unknown,Married,CA,no,yes,no,cellular,3
+CUST_00775,38,M,3,High School,Single,NJ,no,no,no,unknown,3
+CUST_00778,54,M,1,High School,Married,TX,yes,no,no,cellular,2
+CUST_00780,59,F,1,Graduate,Single,NY,no,yes,no,cellular,2
+CUST_00783,51,F,3,Unknown,Married,CA,yes,no,no,cellular,2
+CUST_00790,30,F,1,Graduate,Single,TX,no,no,no,cellular,2
+CUST_00793,40,F,2,Uneducated,Single,CA,no,yes,no,cellular,2
+CUST_00795,54,F,1,Graduate,Married,FL,yes,yes,no,unknown,2
+CUST_00796,65,F,0,Graduate,Unknown,NY,no,no,no,unknown,2
+CUST_00800,35,M,2,Graduate,Married,TX,yes,no,no,cellular,3
+CUST_00810,58,F,0,Graduate,Married,CA,no,yes,yes,cellular,2
+CUST_00811,43,M,3,Unknown,Married,CA,no,yes,yes,cellular,2
+CUST_00812,55,F,3,Uneducated,Single,TX,no,no,no,cellular,2
+CUST_00813,58,F,3,High School,Married,NY,no,yes,no,telephone,3
+CUST_00822,48,M,2,High School,Married,NY,no,no,no,cellular,2
+CUST_00829,56,F,1,High School,Single,CA,no,no,no,unknown,2
+CUST_00832,52,M,0,Unknown,Married,TX,yes,no,no,cellular,3
+CUST_00834,52,M,3,Graduate,Married,NY,no,no,no,cellular,3
+CUST_00835,47,F,3,Uneducated,Single,TX,yes,yes,yes,cellular,2
+CUST_00836,47,F,4,Unknown,Single,FL,yes,yes,yes,cellular,1
+CUST_00838,48,F,3,Uneducated,Single,NJ,no,no,no,cellular,2
+CUST_00842,44,F,3,Graduate,Married,NY,yes,yes,no,unknown,2
+CUST_00851,30,M,1,Unknown,Single,NJ,yes,no,no,cellular,3
+CUST_00853,45,F,5,Graduate,Married,NY,no,yes,no,cellular,2
+CUST_00857,29,F,2,Uneducated,Single,NJ,no,no,no,unknown,3
+CUST_00859,42,F,3,Unknown,Married,NJ,no,yes,no,cellular,2
+CUST_00863,29,M,1,Uneducated,Married,TX,no,no,no,cellular,1
+CUST_00867,32,M,1,High School,Single,HI,yes,yes,no,cellular,2
+CUST_00869,54,F,2,High School,Single,NY,yes,no,no,cellular,2
+CUST_00872,36,F,2,Unknown,Unknown,TX,yes,no,no,cellular,1
+CUST_00873,56,F,1,Graduate,Married,PA,no,yes,no,cellular,1
+CUST_00878,33,F,1,Graduate,Married,FL,yes,yes,no,unknown,3
+CUST_00880,49,M,2,Post-Graduate,Married,NY,yes,yes,no,cellular,2
+CUST_00881,44,M,4,Unknown,Single,CA,yes,yes,no,cellular,1
+CUST_00884,41,M,3,Doctorate,Single,TX,yes,no,no,cellular,3
+CUST_00907,57,M,2,Graduate,Unknown,NY,no,no,no,cellular,1
+CUST_00909,42,F,3,Uneducated,Single,CA,yes,yes,no,cellular,3
+CUST_00915,46,M,3,Uneducated,Married,NY,no,no,yes,telephone,2
+CUST_00922,38,M,2,High School,Married,NY,yes,no,no,cellular,1
+CUST_00928,57,F,2,Graduate,Married,FL,no,no,no,cellular,1
+CUST_00933,45,M,2,Uneducated,Unknown,NJ,no,no,no,cellular,1
+CUST_00935,27,F,0,Unknown,Single,CA,yes,yes,no,cellular,1
+CUST_00941,49,M,2,High School,Married,NY,no,no,no,cellular,2
+CUST_00948,36,M,2,Graduate,Single,CA,yes,no,no,cellular,3
+CUST_00953,38,F,1,High School,Unknown,MO,yes,no,no,unknown,2
+CUST_00958,42,F,2,Unknown,Married,TX,yes,yes,no,cellular,3
+CUST_00959,48,M,2,High School,Single,CA,no,no,no,cellular,1
+CUST_00961,55,F,3,Post-Graduate,Unknown,TX,no,no,yes,cellular,3
+CUST_00965,54,M,2,High School,Married,CA,no,no,no,cellular,2
+CUST_00966,49,F,0,Graduate,Married,TX,no,yes,no,unknown,1
+CUST_00968,47,M,1,Graduate,Married,TX,no,no,no,cellular,1
+CUST_00971,42,M,3,Graduate,Single,FL,yes,no,no,cellular,2
+CUST_00972,41,M,5,Unknown,Unknown,GA,yes,no,no,unknown,1
+CUST_00983,49,M,2,Doctorate,Single,CA,no,no,yes,cellular,2
+CUST_00994,54,F,1,Graduate,Married,TX,yes,yes,yes,cellular,2
+CUST_00995,51,F,2,Unknown,Married,TX,no,no,no,cellular,2
+CUST_00998,59,M,0,Unknown,Married,NJ,no,no,no,telephone,1
+CUST_01003,47,F,4,Unknown,Single,TX,no,yes,no,unknown,1
+CUST_01006,51,F,0,Doctorate,Married,TX,no,no,no,cellular,2
+CUST_01010,36,M,4,Graduate,Married,CA,no,no,yes,cellular,2
+CUST_01011,57,M,2,Unknown,Single,IA,yes,yes,no,cellular,3
+CUST_01018,51,M,3,High School,Single,CA,no,no,no,cellular,3
+CUST_01019,23,M,3,Graduate,Single,NY,yes,no,yes,cellular,3
+CUST_01021,39,M,1,High School,Single,TX,no,yes,yes,cellular,1
+CUST_01023,55,F,1,Uneducated,Unknown,TX,yes,no,no,unknown,3
+CUST_01027,47,M,1,High School,Married,FL,no,no,yes,unknown,2
+CUST_01028,53,M,1,Graduate,Single,TX,no,yes,no,cellular,1
+CUST_01035,56,F,3,High School,Married,CA,yes,no,no,unknown,2
+CUST_01039,37,M,3,Uneducated,Unknown,NY,yes,no,no,cellular,2
+CUST_01043,50,F,3,High School,Married,NY,no,no,yes,cellular,3
+CUST_01045,40,M,5,High School,Single,NY,yes,yes,yes,cellular,3
+CUST_01047,53,M,2,Graduate,Single,CA,no,yes,no,cellular,2
+CUST_01053,40,M,2,Graduate,Married,CA,yes,yes,no,cellular,2
+CUST_01054,50,M,3,High School,Married,FL,yes,no,no,cellular,2
+CUST_01056,52,F,4,Graduate,Unknown,FL,no,yes,no,cellular,2
+CUST_01057,47,F,4,Post-Graduate,Single,CA,no,yes,no,cellular,2
+CUST_01058,45,F,2,High School,Single,TX,no,no,no,unknown,2
+CUST_01062,48,F,2,High School,Married,CA,no,yes,yes,cellular,2
+CUST_01069,51,M,1,High School,Single,FL,no,no,no,unknown,2
+CUST_01072,56,F,1,Uneducated,Married,PA,no,no,no,cellular,3
+CUST_01076,42,M,4,Doctorate,Married,FL,no,no,no,cellular,2
+CUST_01077,41,F,0,High School,Married,TX,no,no,no,telephone,2
+CUST_01079,42,M,4,Uneducated,Married,NY,no,no,no,cellular,2
+CUST_01085,49,F,4,Unknown,Single,FL,no,yes,no,cellular,2
+CUST_01088,52,M,4,Graduate,Single,TX,yes,no,no,cellular,2
+CUST_01091,60,F,0,Uneducated,Married,NY,yes,no,no,cellular,3
+CUST_01096,52,M,2,Post-Graduate,Single,FL,no,yes,no,cellular,1
+CUST_01102,55,M,2,High School,Married,MO,no,yes,no,cellular,1
+CUST_01104,50,F,1,Unknown,Single,FL,no,yes,no,cellular,2
+CUST_01108,40,F,4,Uneducated,Married,TX,no,no,yes,cellular,2
+CUST_01110,51,M,1,Unknown,Single,CA,no,no,no,unknown,1
+CUST_01112,40,F,4,Unknown,Single,CA,no,no,no,unknown,1
+CUST_01113,39,F,1,Graduate,Single,TX,yes,yes,no,cellular,3
+CUST_01114,53,F,3,Graduate,Married,CO,yes,yes,no,cellular,3
+CUST_01116,55,F,0,Graduate,Single,TX,yes,no,yes,cellular,3
+CUST_01122,30,M,0,Graduate,Married,FL,yes,no,no,cellular,1
+CUST_01124,33,F,2,Doctorate,Unknown,TX,no,no,no,unknown,3
+CUST_01127,46,F,3,Graduate,Married,CA,no,yes,yes,cellular,1
+CUST_01128,50,M,4,Graduate,Married,FL,yes,no,no,cellular,3
+CUST_01140,48,M,3,High School,Unknown,FL,no,no,no,cellular,3
+CUST_01143,48,M,4,Unknown,Single,NY,no,yes,no,cellular,3
+CUST_01145,49,M,5,Graduate,Married,TX,no,yes,no,cellular,3
+CUST_01146,54,F,2,Uneducated,Single,CA,no,yes,no,cellular,3
+CUST_01148,41,M,2,Graduate,Married,NY,no,yes,no,cellular,1
+CUST_01150,38,F,2,Graduate,Single,TX,no,no,no,cellular,3
+CUST_01154,57,F,1,High School,Single,CA,no,yes,no,unknown,2
+CUST_01156,48,F,3,Graduate,Single,CA,no,no,no,cellular,2
+CUST_01157,44,M,3,Post-Graduate,Married,FL,yes,no,no,telephone,1
+CUST_01163,43,M,2,High School,Married,NY,no,yes,yes,unknown,2
+CUST_01169,34,M,3,Post-Graduate,Unknown,CA,yes,yes,no,cellular,2
+CUST_01176,55,M,2,Unknown,Single,NY,no,yes,no,cellular,1
+CUST_01177,56,F,2,High School,Married,TX,yes,no,no,telephone,3
+CUST_01181,22,M,2,Graduate,Married,TX,yes,no,no,cellular,3
+CUST_01184,50,F,3,High School,Married,TX,no,no,no,unknown,2
+CUST_01189,34,M,3,Unknown,Unknown,NY,no,no,no,cellular,2
+CUST_01191,42,F,3,Graduate,Unknown,CA,yes,no,no,unknown,1
+CUST_01194,62,M,1,High School,Single,TX,yes,yes,no,cellular,3
+CUST_01195,47,F,4,Post-Graduate,Married,CA,no,yes,yes,unknown,2
+CUST_01196,42,F,3,Unknown,Unknown,NY,no,no,no,cellular,3
+CUST_01198,26,M,0,Graduate,Single,NY,no,yes,no,cellular,1
+CUST_01200,45,M,4,High School,Married,TX,no,no,no,unknown,1
+CUST_01205,48,F,4,Graduate,Married,NJ,no,no,no,cellular,1
+CUST_01209,57,F,3,High School,Single,CA,no,yes,no,cellular,3
+CUST_01211,49,M,1,Unknown,Single,FL,no,no,no,cellular,2
+CUST_01218,43,F,3,Graduate,Married,NY,no,no,no,unknown,2
+CUST_01220,65,M,0,Graduate,Single,MI,no,yes,yes,cellular,3
+CUST_01221,41,F,3,Graduate,Married,CA,no,yes,no,cellular,1
+CUST_01223,60,F,0,Graduate,Married,NY,no,yes,yes,unknown,1
+CUST_01225,43,F,3,Graduate,Single,TX,no,no,no,unknown,3
+CUST_01227,36,F,1,Uneducated,Single,NJ,no,no,no,cellular,3
+CUST_01234,42,F,1,Graduate,Married,TX,no,yes,no,cellular,3
+CUST_01246,42,M,5,Uneducated,Married,NJ,no,yes,no,telephone,1
+CUST_01248,64,M,1,Unknown,Married,CA,no,yes,no,cellular,3
+CUST_01251,33,M,4,High School,Single,NY,no,yes,no,cellular,1
+CUST_01254,36,M,3,Post-Graduate,Married,CA,yes,no,no,unknown,1
+CUST_01255,40,F,1,Uneducated,Single,TX,no,yes,no,unknown,2
+CUST_01262,47,M,2,Graduate,Married,TX,no,no,no,cellular,3
+CUST_01264,37,M,2,High School,Single,CA,no,no,no,cellular,2
+CUST_01273,45,F,1,Unknown,Married,NY,no,no,no,unknown,2
+CUST_01278,51,F,0,Uneducated,Married,CA,no,no,no,unknown,2
+CUST_01279,53,F,2,Graduate,Single,NY,no,yes,no,telephone,2
+CUST_01281,55,F,3,High School,Single,TX,yes,yes,no,cellular,2
+CUST_01286,35,M,2,Graduate,Married,FL,no,no,no,cellular,2
+CUST_01288,46,F,4,Graduate,Single,FL,yes,no,no,unknown,2
+CUST_01296,50,F,2,High School,Married,TX,yes,yes,no,cellular,2
+CUST_01298,31,M,1,Graduate,Single,WA,no,no,no,cellular,3
+CUST_01299,55,F,0,Graduate,Married,NJ,no,no,no,unknown,2
+CUST_01311,47,M,2,Unknown,Married,TX,no,yes,no,cellular,2
+CUST_01314,52,M,2,Uneducated,Unknown,NY,no,no,no,cellular,1
+CUST_01315,50,M,1,Uneducated,Married,NY,yes,yes,no,cellular,1
+CUST_01316,45,M,5,Unknown,Married,TX,no,yes,no,cellular,1
+CUST_01319,49,F,2,Graduate,Single,TX,no,yes,yes,cellular,3
+CUST_01321,31,F,0,Graduate,Married,FL,yes,no,yes,cellular,3
+CUST_01323,51,F,5,Unknown,Married,FL,no,no,no,unknown,1
+CUST_01324,39,M,3,Uneducated,Married,NJ,yes,no,yes,cellular,2
+CUST_01329,43,F,3,Doctorate,Married,FL,no,yes,no,unknown,3
+CUST_01331,40,M,4,Graduate,Married,NY,no,no,no,unknown,2
+CUST_01333,56,F,3,High School,Married,NJ,no,no,no,cellular,2
+CUST_01335,59,F,2,Unknown,Single,TX,no,no,no,unknown,2
+CUST_01340,45,F,4,Doctorate,Married,CA,no,yes,no,cellular,1
+CUST_01346,43,M,2,Graduate,Married,TX,no,yes,no,unknown,2
+CUST_01347,50,F,1,Graduate,Married,CA,yes,no,no,cellular,2
+CUST_01348,53,M,1,Graduate,Single,NY,no,no,no,cellular,2
+CUST_01350,45,F,3,Post-Graduate,Married,FL,no,yes,no,cellular,1
+CUST_01353,41,M,3,Graduate,Married,NJ,no,yes,no,cellular,1
+CUST_01355,33,F,0,Unknown,Married,NY,yes,no,no,unknown,2
+CUST_01356,34,M,2,Graduate,Single,TX,yes,no,yes,cellular,2
+CUST_01361,55,M,2,Graduate,Single,CA,no,no,no,unknown,1
+CUST_01370,45,M,1,Graduate,Married,TX,yes,no,no,cellular,1
+CUST_01373,37,M,5,Post-Graduate,Married,FL,yes,no,no,cellular,1
+CUST_01374,48,M,4,Graduate,Single,TX,yes,yes,no,cellular,1
+CUST_01375,44,F,4,Graduate,Married,FL,no,no,no,unknown,1
+CUST_01380,55,M,3,Graduate,Single,NY,no,no,no,cellular,2
+CUST_01384,60,M,1,Uneducated,Married,NJ,yes,no,no,cellular,3
+CUST_01393,54,M,2,Post-Graduate,Single,CA,yes,no,no,cellular,1
+CUST_01394,38,M,2,Graduate,Single,TX,no,yes,no,cellular,1
+CUST_01397,44,F,3,Unknown,Single,CA,no,no,no,cellular,2
+CUST_01401,37,M,2,Unknown,Single,FL,no,no,no,cellular,3
+CUST_01403,50,F,4,Unknown,Married,FL,no,no,no,telephone,2
+CUST_01407,51,F,1,Graduate,Married,NY,yes,no,no,unknown,3
+CUST_01409,47,F,1,Unknown,Single,TX,yes,no,no,cellular,1
+CUST_01414,49,F,3,Post-Graduate,Married,NJ,no,no,no,telephone,3
+CUST_01415,51,M,3,Uneducated,Married,TX,yes,yes,no,cellular,1
+CUST_01417,51,F,2,Graduate,Single,NY,yes,yes,no,cellular,2
+CUST_01418,38,M,2,Graduate,Single,FL,no,no,no,cellular,3
+CUST_01419,29,M,0,High School,Single,NY,yes,yes,yes,telephone,2
+CUST_01420,46,M,2,Graduate,Single,FL,no,no,no,cellular,3
+CUST_01422,32,F,0,Uneducated,Married,CA,no,no,no,cellular,2
+CUST_01426,38,M,1,High School,Married,CA,no,yes,no,cellular,3
+CUST_01427,44,F,5,Graduate,Married,TX,no,yes,no,cellular,1
+CUST_01430,39,F,1,Graduate,Married,NJ,yes,no,no,unknown,2
+CUST_01431,46,F,3,Unknown,Unknown,NY,no,no,no,unknown,2
+CUST_01433,43,F,3,Graduate,Married,TX,no,no,no,cellular,2
+CUST_01439,37,M,3,Graduate,Married,NJ,no,yes,no,cellular,3
+CUST_01442,44,F,4,Graduate,Married,CA,no,no,no,cellular,1
+CUST_01444,57,F,4,Doctorate,Married,MI,yes,no,no,cellular,2
+CUST_01445,41,M,5,Graduate,Married,FL,no,yes,no,cellular,3
+CUST_01447,40,M,3,Unknown,Married,TX,yes,no,yes,cellular,2
+CUST_01453,46,F,2,Unknown,Married,CA,no,no,no,cellular,3
+CUST_01454,61,M,1,Graduate,Unknown,NY,yes,no,no,telephone,3
+CUST_01457,55,F,2,High School,Married,NJ,yes,yes,no,telephone,3
+CUST_01459,30,M,0,Graduate,Married,NJ,no,yes,no,cellular,2
+CUST_01468,39,M,3,Graduate,Single,TX,no,yes,no,cellular,2
+CUST_01469,23,M,3,Unknown,Unknown,TX,no,no,yes,unknown,2
+CUST_01471,45,F,3,High School,Unknown,CA,no,yes,no,cellular,2
+CUST_01473,53,M,1,Unknown,Married,FL,no,no,no,cellular,2
+CUST_01478,45,M,4,High School,Single,MI,yes,no,no,cellular,2
+CUST_01480,50,F,1,Graduate,Single,CA,yes,yes,no,cellular,3
+CUST_01483,42,F,3,Doctorate,Single,FL,no,no,no,cellular,2
+CUST_01484,37,F,4,Unknown,Single,FL,yes,yes,yes,cellular,3
+CUST_01489,43,M,3,Post-Graduate,Single,CA,no,no,no,cellular,2
+CUST_01490,32,M,0,Uneducated,Single,CA,no,no,no,cellular,2
+CUST_01492,40,F,4,Post-Graduate,Single,CA,yes,no,no,cellular,3
+CUST_01495,38,M,1,Graduate,Married,CA,yes,no,no,cellular,2
+CUST_01497,45,M,2,Graduate,Single,NY,no,no,no,cellular,2
+CUST_01499,35,M,3,Post-Graduate,Unknown,FL,no,yes,no,cellular,2
+CUST_01502,31,F,1,Post-Graduate,Single,TX,yes,no,no,cellular,2
+CUST_01503,26,F,0,Post-Graduate,Single,FL,no,yes,no,cellular,2
+CUST_01507,36,F,1,Graduate,Married,TX,yes,yes,yes,cellular,3
+CUST_01510,37,M,1,Graduate,Single,CA,no,no,no,cellular,2
+CUST_01513,50,F,4,Doctorate,Single,CA,no,no,no,cellular,2
+CUST_01514,36,F,0,Graduate,Unknown,TX,yes,yes,yes,unknown,2
+CUST_01517,44,F,3,Graduate,Single,TX,yes,yes,no,cellular,1
+CUST_01524,39,F,2,High School,Single,IA,no,yes,no,cellular,3
+CUST_01528,55,F,2,Graduate,Single,NY,yes,no,yes,cellular,1
+CUST_01531,37,M,1,High School,Married,FL,no,yes,no,cellular,1
+CUST_01534,43,F,2,Uneducated,Married,NY,yes,yes,no,cellular,2
+CUST_01537,46,F,4,Graduate,Married,NJ,yes,yes,no,cellular,2
+CUST_01544,60,F,0,Doctorate,Married,NJ,yes,no,no,unknown,3
+CUST_01545,38,F,0,Unknown,Married,CA,no,yes,no,cellular,2
+CUST_01551,45,F,2,Post-Graduate,Single,CA,no,no,no,cellular,2
+CUST_01555,44,M,3,Graduate,Married,CA,no,no,no,cellular,2
+CUST_01558,32,F,1,Graduate,Married,TX,no,yes,no,unknown,2
+CUST_01559,49,F,3,Graduate,Single,TX,no,no,yes,unknown,3
+CUST_01560,38,F,2,Graduate,Married,FL,no,yes,no,cellular,3
+CUST_01562,50,F,2,Uneducated,Married,NY,yes,yes,no,unknown,2
+CUST_01563,41,F,4,Graduate,Married,CA,yes,yes,no,telephone,3
+CUST_01564,43,F,1,High School,Married,NY,no,no,no,cellular,3
+CUST_01569,55,F,1,High School,Married,NY,no,yes,no,cellular,3
+CUST_01570,47,F,4,Graduate,Single,CA,yes,yes,yes,cellular,3
+CUST_01571,52,F,3,High School,Married,FL,no,no,no,cellular,2
+CUST_01576,50,M,3,Graduate,Single,NJ,no,no,no,cellular,2
+CUST_01577,36,M,2,High School,Single,MO,no,no,no,cellular,2
+CUST_01579,35,M,2,High School,Single,NJ,no,no,no,cellular,2
+CUST_01583,46,F,2,Graduate,Single,TX,no,no,no,cellular,2
+CUST_01594,49,F,4,High School,Married,CA,no,no,no,cellular,2
+CUST_01596,56,M,2,Uneducated,Married,FL,no,no,no,cellular,2
+CUST_01598,50,F,3,Graduate,Married,CA,no,no,no,telephone,2
+CUST_01600,39,F,3,Graduate,Single,TX,no,no,no,cellular,3
+CUST_01601,46,F,2,High School,Single,FL,no,no,no,cellular,3
+CUST_01604,47,F,4,High School,Married,NY,no,yes,no,cellular,2
+CUST_01607,43,M,1,Unknown,Married,CA,no,no,no,cellular,2
+CUST_01609,55,F,2,Graduate,Single,NY,yes,no,no,cellular,2
+CUST_01613,35,M,1,Graduate,Single,VA,no,no,no,cellular,2
+CUST_01615,50,F,1,Uneducated,Married,CA,no,no,no,cellular,3
+CUST_01616,46,F,3,Graduate,Single,NJ,no,no,no,cellular,3
+CUST_01617,53,M,4,High School,Married,FL,no,yes,no,cellular,2
+CUST_01618,40,M,4,Post-Graduate,Married,NY,no,no,yes,cellular,2
+CUST_01619,41,M,3,Graduate,Married,FL,yes,no,no,cellular,2
+CUST_01624,57,M,2,High School,Married,AK,no,no,no,cellular,2
+CUST_01627,54,F,0,Graduate,Married,CA,yes,no,no,cellular,2
+CUST_01632,26,F,0,Graduate,Married,CA,yes,no,no,cellular,2
+CUST_01643,46,F,3,High School,Married,TX,no,yes,no,cellular,1
+CUST_01644,30,M,0,Graduate,Unknown,NJ,yes,yes,yes,cellular,2
+CUST_01650,49,F,3,Graduate,Single,CA,yes,yes,no,cellular,3
+CUST_01651,59,M,1,Doctorate,Married,TX,yes,yes,no,cellular,1
+CUST_01656,37,M,2,Uneducated,Married,NY,no,no,no,telephone,2
+CUST_01657,49,M,3,High School,Unknown,FL,no,yes,no,cellular,3
+CUST_01659,53,F,2,Unknown,Married,NJ,yes,no,no,cellular,3
+CUST_01660,45,M,5,Graduate,Single,TX,no,no,no,cellular,3
+CUST_01661,52,F,2,Graduate,Married,NY,yes,yes,no,unknown,3
+CUST_01663,50,F,2,Graduate,Single,NY,no,no,no,cellular,3
+CUST_01666,51,M,1,Doctorate,Married,FL,yes,no,no,cellular,3
+CUST_01670,38,F,2,Graduate,Single,NY,yes,yes,no,cellular,3
+CUST_01671,46,M,3,Graduate,Married,NY,yes,yes,no,telephone,3
+CUST_01672,42,M,3,Graduate,Single,FL,no,no,no,cellular,2
+CUST_01673,56,M,3,Graduate,Married,FL,no,no,no,cellular,3
+CUST_01684,47,F,3,High School,Married,FL,no,yes,no,cellular,3
+CUST_01685,53,F,2,High School,Married,NY,yes,yes,no,cellular,2
+CUST_01689,38,F,3,Graduate,Married,TX,no,no,no,unknown,3
+CUST_01692,45,F,1,Uneducated,Single,CA,yes,no,no,cellular,1
+CUST_01693,51,M,1,High School,Married,TX,no,yes,no,cellular,3
+CUST_01700,46,M,4,Graduate,Married,FL,no,no,no,cellular,1
+CUST_01702,47,F,3,Uneducated,Married,NY,no,no,no,cellular,1
+CUST_01703,56,F,2,Graduate,Married,TX,no,yes,no,unknown,2
+CUST_01714,34,F,3,Graduate,Single,SC,yes,no,no,cellular,1
+CUST_01719,51,M,1,Unknown,Single,CA,no,no,no,cellular,1
+CUST_01721,47,M,2,Graduate,Married,TX,no,no,no,unknown,3
+CUST_01722,50,F,2,Graduate,Single,NY,no,no,no,unknown,1
+CUST_01727,35,M,1,High School,Married,NJ,yes,no,yes,cellular,1
+CUST_01729,43,F,3,Graduate,Unknown,NY,yes,no,no,cellular,1
+CUST_01730,29,M,2,Graduate,Single,FL,no,yes,no,cellular,1
+CUST_01731,45,F,3,Unknown,Single,CA,no,yes,no,cellular,2
+CUST_01732,55,M,2,Graduate,Single,TX,yes,yes,no,cellular,3
+CUST_01733,35,M,3,Graduate,Married,CA,yes,no,no,cellular,1
+CUST_01738,52,M,2,High School,Married,TX,yes,yes,no,telephone,2
+CUST_01740,48,F,1,Uneducated,Single,TX,no,no,no,cellular,1
+CUST_01741,47,M,3,High School,Married,CA,no,no,yes,cellular,1
+CUST_01742,48,F,5,Uneducated,Married,CA,yes,yes,no,cellular,2
+CUST_01746,51,M,1,Unknown,Single,TX,yes,yes,no,cellular,1
+CUST_01747,45,F,2,Graduate,Unknown,FL,yes,yes,no,cellular,1
+CUST_01748,46,M,3,High School,Single,FL,yes,no,no,telephone,1
+CUST_01759,35,F,1,Graduate,Single,CA,no,yes,no,unknown,2
+CUST_01761,39,F,2,Uneducated,Married,CA,yes,yes,no,telephone,1
+CUST_01766,58,M,1,Uneducated,Single,CA,no,yes,no,cellular,3
+CUST_01767,43,F,1,Uneducated,Single,NY,no,yes,no,unknown,3
+CUST_01769,57,F,2,Unknown,Married,NJ,no,no,no,cellular,1
+CUST_01771,42,F,2,Graduate,Single,TX,no,yes,no,cellular,2
+CUST_01776,42,M,3,Unknown,Married,NY,no,yes,no,cellular,2
+CUST_01781,45,M,2,Unknown,Single,FL,yes,no,no,cellular,3
+CUST_01784,44,F,2,High School,Married,TX,no,no,yes,cellular,1
+CUST_01786,49,F,3,Graduate,Unknown,FL,yes,no,no,cellular,1
+CUST_01791,50,M,2,Unknown,Married,NY,yes,yes,no,cellular,2
+CUST_01792,56,F,2,High School,Married,FL,yes,yes,no,cellular,3
+CUST_01794,36,F,2,Post-Graduate,Single,CA,yes,no,no,unknown,1
+CUST_01795,47,F,3,Post-Graduate,Married,FL,no,no,no,cellular,3
+CUST_01796,57,M,0,Graduate,Married,CA,no,no,no,cellular,1
+CUST_01804,44,F,3,Graduate,Single,TX,no,yes,no,unknown,3
+CUST_01806,51,F,3,Graduate,Married,TX,yes,yes,no,cellular,1
+CUST_01808,45,M,3,Graduate,Married,TX,yes,yes,no,cellular,1
+CUST_01818,49,F,2,Graduate,Married,CA,yes,no,no,cellular,2
+CUST_01826,45,M,2,Graduate,Married,NY,no,no,no,cellular,2
+CUST_01833,63,M,0,Doctorate,Single,NY,no,no,no,cellular,2
+CUST_01834,40,M,2,Uneducated,Married,NY,no,no,no,telephone,3
+CUST_01835,45,M,1,Graduate,Married,MN,yes,no,no,cellular,2
+CUST_01836,57,M,2,Uneducated,Single,CA,no,yes,no,telephone,2
+CUST_01841,65,M,0,Doctorate,Single,NY,yes,no,no,cellular,1
+CUST_01852,48,M,2,Uneducated,Single,NY,no,yes,no,telephone,3
+CUST_01861,49,F,4,Graduate,Married,CA,yes,yes,no,telephone,1
+CUST_01863,46,F,1,Graduate,Unknown,TX,yes,yes,no,cellular,3
+CUST_01865,49,M,2,Post-Graduate,Married,IA,no,yes,yes,cellular,1
+CUST_01878,48,F,3,Graduate,Married,CA,yes,yes,no,cellular,3
+CUST_01881,46,F,2,Unknown,Unknown,NY,no,no,no,unknown,1
+CUST_01884,55,M,2,Graduate,Single,FL,yes,no,no,telephone,1
+CUST_01887,45,F,1,Unknown,Single,TX,no,yes,yes,unknown,1
+CUST_01889,44,F,2,Unknown,Single,FL,no,no,no,cellular,2
+CUST_01892,45,F,2,Doctorate,Single,TX,no,yes,no,cellular,3
+CUST_01898,34,M,1,Graduate,Unknown,NY,yes,yes,no,cellular,3
+CUST_01902,54,M,4,Graduate,Married,NY,no,no,no,cellular,1
+CUST_01916,54,F,1,Graduate,Single,TX,no,no,no,unknown,1
+CUST_01919,44,F,2,Graduate,Single,NY,yes,yes,no,cellular,1
+CUST_01920,53,M,2,Graduate,Married,FL,yes,yes,no,cellular,1
+CUST_01922,32,F,0,Graduate,Single,NY,yes,no,no,cellular,1
+CUST_01923,41,F,1,High School,Single,NY,no,no,no,cellular,3
+CUST_01924,56,F,2,Graduate,Single,CA,no,yes,no,cellular,2
+CUST_01929,48,F,1,Graduate,Unknown,TX,no,no,no,cellular,2
+CUST_01935,51,F,3,Unknown,Single,CA,no,no,no,cellular,3
+CUST_01938,52,F,2,Graduate,Married,TX,no,no,no,cellular,2
+CUST_01942,36,F,4,High School,Married,CA,no,no,no,cellular,2
+CUST_01946,52,M,3,Graduate,Married,CA,no,no,no,unknown,3
+CUST_01948,41,F,3,Graduate,Single,CA,no,yes,no,cellular,3
+CUST_01954,36,M,2,High School,Single,NY,yes,no,no,cellular,2
+CUST_01955,44,F,2,Uneducated,Single,TX,no,yes,no,cellular,3
+CUST_01958,58,M,2,High School,Single,TX,no,yes,yes,cellular,2
+CUST_01963,49,F,4,Graduate,Married,TX,no,no,no,cellular,3
+CUST_01964,40,F,2,Graduate,Single,FL,no,no,no,unknown,3
+CUST_01965,49,F,2,Post-Graduate,Married,TX,yes,no,no,unknown,2
+CUST_01966,53,F,2,Uneducated,Married,NY,yes,no,no,cellular,2
+CUST_01979,54,F,4,Graduate,Single,NY,yes,yes,no,cellular,2
+CUST_01982,53,M,3,Graduate,Married,FL,yes,yes,no,cellular,3
+CUST_01983,44,F,2,Graduate,Married,NY,no,no,no,cellular,2
+CUST_01993,49,F,2,Graduate,Single,FL,yes,no,no,cellular,2
+CUST_02003,47,F,3,Graduate,Married,TX,yes,yes,no,cellular,2
+CUST_02005,38,F,2,Graduate,Single,CA,yes,yes,no,cellular,2
+CUST_02007,40,F,4,Graduate,Married,NY,yes,yes,no,cellular,3
+CUST_02009,43,M,2,Post-Graduate,Married,NY,yes,yes,no,cellular,2
+CUST_02013,42,F,2,Doctorate,Unknown,FL,yes,no,no,cellular,1
+CUST_02014,40,F,4,Post-Graduate,Single,TX,yes,yes,no,cellular,1
+CUST_02019,48,M,4,Graduate,Unknown,NJ,no,yes,no,cellular,2
+CUST_02021,46,M,3,Graduate,Single,FL,no,no,no,cellular,2
+CUST_02023,49,F,2,Uneducated,Married,CA,yes,no,no,cellular,1
+CUST_02026,57,M,2,Graduate,Married,TX,no,no,yes,unknown,3
+CUST_02030,56,F,4,Graduate,Single,TX,no,yes,no,cellular,1
+CUST_02031,43,F,2,Post-Graduate,Married,NY,no,yes,yes,cellular,1
+CUST_02035,49,M,5,Graduate,Single,IA,no,no,no,cellular,2
+CUST_02037,58,F,1,Unknown,Single,CA,no,no,no,cellular,1
+CUST_02040,40,F,3,Uneducated,Single,FL,no,yes,no,cellular,3
+CUST_02046,49,F,2,Post-Graduate,Single,CA,yes,yes,yes,cellular,2
+CUST_02055,37,M,3,Uneducated,Married,FL,no,yes,no,cellular,3
+CUST_02056,57,F,4,Post-Graduate,Single,CA,no,yes,yes,cellular,1
+CUST_02058,53,F,4,Graduate,Married,FL,no,no,no,cellular,3
+CUST_02068,62,F,0,Graduate,Married,MI,no,yes,no,cellular,1
+CUST_02070,37,M,3,Uneducated,Single,IA,yes,yes,no,telephone,1
+CUST_02073,50,F,2,Unknown,Married,FL,no,no,no,cellular,3
+CUST_02076,48,F,2,Graduate,Single,CA,no,no,no,cellular,3
+CUST_02084,43,M,1,Graduate,Single,TX,no,yes,yes,cellular,1
+CUST_02085,44,F,1,Graduate,Single,CA,yes,yes,no,unknown,1
+CUST_02088,53,F,1,Graduate,Single,TX,no,yes,no,cellular,2
+CUST_02089,59,F,2,Uneducated,Single,CA,no,no,no,cellular,2
+CUST_02090,55,M,4,Graduate,Single,NJ,yes,yes,yes,unknown,3
+CUST_02095,49,M,4,Graduate,Single,FL,yes,yes,yes,unknown,3
+CUST_02099,41,M,2,Uneducated,Married,TX,yes,yes,no,cellular,3
+CUST_02103,49,F,4,Graduate,Married,TX,yes,yes,yes,cellular,1
+CUST_02108,61,F,0,Graduate,Married,NJ,no,yes,no,cellular,3
+CUST_02109,53,F,2,Graduate,Single,NJ,yes,yes,no,cellular,3
+CUST_02110,51,M,1,High School,Unknown,NY,yes,no,no,cellular,3
+CUST_02111,62,F,1,High School,Married,TX,no,no,no,cellular,3
+CUST_02112,52,F,3,Unknown,Single,TX,no,yes,no,cellular,3
+CUST_02115,63,F,1,Graduate,Married,FL,no,yes,yes,unknown,3
+CUST_02116,39,M,2,Graduate,Married,TX,yes,no,no,cellular,3
+CUST_02120,49,M,2,Uneducated,Married,NY,no,no,yes,unknown,2
+CUST_02123,65,F,0,Graduate,Married,NY,no,no,no,cellular,2
+CUST_02125,32,F,0,Unknown,Married,CA,no,yes,no,cellular,3
+CUST_02128,57,F,4,Uneducated,Married,NY,no,yes,no,unknown,2
+CUST_02129,59,F,1,Graduate,Married,FL,yes,yes,no,cellular,3
+CUST_02130,65,F,1,Graduate,Married,NY,yes,no,no,unknown,3
+CUST_02133,37,F,2,High School,Single,CA,yes,no,no,cellular,3
+CUST_02134,63,M,1,Graduate,Single,CA,yes,no,no,cellular,1
+CUST_02139,43,M,2,Unknown,Single,FL,no,no,no,cellular,1
+CUST_02143,45,F,2,Uneducated,Married,NY,yes,yes,yes,cellular,2
+CUST_02146,43,M,3,Graduate,Unknown,NY,no,yes,yes,cellular,1
+CUST_02148,60,M,0,Graduate,Married,AK,yes,yes,no,cellular,2
+CUST_02150,51,M,2,Post-Graduate,Unknown,FL,no,no,no,cellular,2
+CUST_02151,50,M,4,High School,Married,TX,no,yes,no,unknown,1
+CUST_02153,42,F,3,Unknown,Single,TX,yes,no,no,cellular,3
+CUST_02158,32,F,0,Unknown,Single,FL,no,no,no,unknown,1
+CUST_02165,55,F,1,Unknown,Married,CA,no,yes,no,unknown,1
+CUST_02166,44,F,4,Graduate,Married,VA,no,yes,no,unknown,3
+CUST_02168,52,F,3,High School,Married,CA,no,no,no,unknown,1
+CUST_02169,37,M,1,Uneducated,Married,TX,yes,yes,no,cellular,2
+CUST_02176,40,M,3,Graduate,Married,FL,yes,no,no,cellular,3
+CUST_02179,44,F,2,Graduate,Single,FL,yes,yes,no,cellular,3
+CUST_02184,38,M,1,High School,Single,IA,yes,yes,no,cellular,2
+CUST_02185,44,M,3,Graduate,Married,TX,no,yes,yes,cellular,3
+CUST_02190,46,F,4,Graduate,Married,FL,no,no,no,unknown,3
+CUST_02192,47,F,4,Uneducated,Married,CA,yes,no,no,cellular,2
+CUST_02200,38,M,3,Graduate,Single,FL,no,yes,no,telephone,3
+CUST_02211,43,F,2,Uneducated,Unknown,TX,yes,yes,no,cellular,3
+CUST_02214,47,F,1,High School,Single,FL,no,no,no,cellular,1
+CUST_02215,38,M,2,Unknown,Married,NY,no,no,no,cellular,2
+CUST_02216,50,F,0,Graduate,Married,NY,yes,yes,no,cellular,3
+CUST_02222,37,F,4,Graduate,Married,FL,no,no,no,unknown,1
+CUST_02226,55,F,2,Unknown,Single,TX,no,no,no,unknown,1
+CUST_02228,44,F,3,Unknown,Married,TX,no,yes,no,cellular,3
+CUST_02229,44,M,2,Graduate,Married,TX,no,yes,no,cellular,1
+CUST_02232,50,F,2,High School,Married,NY,yes,yes,yes,cellular,3
+CUST_02233,44,F,1,High School,Married,TX,yes,yes,no,cellular,1
+CUST_02234,36,F,3,Graduate,Married,IL,yes,no,no,cellular,2
+CUST_02237,48,M,3,Graduate,Single,CA,no,no,no,cellular,3
+CUST_02240,55,F,2,Graduate,Married,FL,yes,no,yes,unknown,3
+CUST_02246,28,F,0,Graduate,Married,TX,no,no,no,cellular,1
+CUST_02247,39,M,1,Unknown,Single,FL,yes,yes,no,cellular,3
+CUST_02249,48,F,3,Graduate,Married,NY,no,no,no,cellular,3
+CUST_02250,44,M,2,Graduate,Married,CA,no,yes,no,cellular,1
+CUST_02252,47,F,3,Graduate,Unknown,CA,yes,yes,yes,unknown,1
+CUST_02253,28,M,0,Graduate,Married,CA,yes,no,no,unknown,3
+CUST_02255,46,M,3,Graduate,Married,TX,yes,no,no,cellular,3
+CUST_02261,50,F,2,Graduate,Married,TX,no,no,no,cellular,1
+CUST_02265,43,F,3,Uneducated,Single,NY,no,yes,no,cellular,1
+CUST_02269,53,M,1,Graduate,Single,TX,no,yes,no,unknown,1
+CUST_02271,44,M,4,Unknown,Married,NY,no,no,no,cellular,2
+CUST_02273,37,M,2,Graduate,Single,FL,no,yes,no,cellular,3
+CUST_02274,50,M,3,Uneducated,Married,NY,no,no,no,cellular,3
+CUST_02276,41,F,3,Graduate,Married,FL,no,yes,yes,cellular,1
+CUST_02287,54,F,1,Graduate,Married,FL,no,yes,no,cellular,2
+CUST_02288,39,F,3,Graduate,Single,NY,no,no,no,cellular,3
+CUST_02289,32,M,2,Graduate,Married,NY,no,no,no,telephone,1
+CUST_02292,53,M,1,Unknown,Married,CA,no,yes,no,unknown,3
+CUST_02300,42,F,2,High School,Married,TX,yes,no,no,unknown,1
+CUST_02302,54,M,2,Graduate,Single,FL,yes,yes,yes,cellular,2
+CUST_02303,43,M,3,Graduate,Married,NY,no,no,no,cellular,3
+CUST_02304,49,F,2,High School,Married,FL,yes,no,no,cellular,2
+CUST_02305,56,F,2,Uneducated,Single,FL,yes,no,no,cellular,2
+CUST_02311,47,M,4,High School,Married,NJ,no,no,no,cellular,3
+CUST_02317,65,F,1,High School,Single,CA,no,yes,no,unknown,2
+CUST_02320,33,M,3,High School,Married,FL,no,yes,no,cellular,1
+CUST_02329,57,F,3,Unknown,Married,NY,yes,no,no,cellular,3
+CUST_02336,37,M,2,Graduate,Single,NY,yes,no,no,cellular,2
+CUST_02338,36,F,1,Unknown,Single,NY,yes,yes,no,cellular,3
+CUST_02341,31,F,0,High School,Married,TX,yes,yes,no,unknown,2
+CUST_02345,38,F,2,Doctorate,Married,TX,no,no,no,cellular,2
+CUST_02349,50,F,3,Graduate,Single,TX,no,no,no,unknown,2
+CUST_02359,49,F,3,Graduate,Single,NY,no,no,no,cellular,2
+CUST_02361,42,M,5,Graduate,Married,NY,yes,no,no,cellular,2
+CUST_02363,54,F,1,Unknown,Married,CA,yes,no,no,telephone,2
+CUST_02374,58,F,2,High School,Single,TX,no,yes,no,cellular,2
+CUST_02376,42,F,2,Graduate,Married,IA,yes,no,no,cellular,3
+CUST_02378,38,F,2,Unknown,Married,CA,no,no,no,cellular,2
+CUST_02389,55,F,2,Graduate,Married,NY,yes,yes,no,cellular,2
+CUST_02390,56,F,5,Doctorate,Married,NY,no,no,no,cellular,2
+CUST_02392,53,F,1,Graduate,Married,NY,yes,yes,no,cellular,2
+CUST_02393,38,F,2,Graduate,Unknown,CA,no,yes,no,telephone,2
+CUST_02406,43,F,3,High School,Married,TX,no,no,no,cellular,2
+CUST_02407,42,F,3,Post-Graduate,Married,CA,no,yes,yes,unknown,3
+CUST_02408,45,F,3,Uneducated,Married,CA,no,yes,yes,unknown,2
+CUST_02413,54,M,1,Unknown,Single,TX,no,no,no,cellular,2
+CUST_02418,49,M,3,Graduate,Single,FL,no,yes,no,cellular,3
+CUST_02421,43,M,2,Graduate,Single,NY,yes,no,no,unknown,1
+CUST_02424,41,F,2,Doctorate,Unknown,FL,no,yes,no,unknown,2
+CUST_02426,42,M,4,Uneducated,Married,TX,no,no,no,cellular,1
+CUST_02437,49,F,3,Uneducated,Married,NV,no,no,no,cellular,2
+CUST_02440,52,F,2,Unknown,Married,NY,no,no,no,cellular,3
+CUST_02442,43,F,3,High School,Unknown,FL,no,yes,no,unknown,2
+CUST_02447,49,F,2,Graduate,Single,TX,no,yes,yes,cellular,1
+CUST_02448,56,F,2,Doctorate,Married,NY,yes,no,no,cellular,2
+CUST_02454,47,M,3,Uneducated,Unknown,CA,no,no,no,cellular,3
+CUST_02456,48,M,4,Unknown,Single,CA,yes,no,no,cellular,3
+CUST_02457,50,F,1,Graduate,Married,FL,yes,no,no,cellular,3
+CUST_02458,33,F,3,Uneducated,Single,CA,no,no,no,telephone,1
+CUST_02459,43,F,3,Post-Graduate,Married,TX,no,no,no,telephone,3
+CUST_02465,48,M,2,Graduate,Married,CA,no,no,no,cellular,1
+CUST_02466,46,M,3,Graduate,Married,FL,no,yes,yes,cellular,2
+CUST_02471,44,F,5,Unknown,Married,TX,yes,no,yes,cellular,3
+CUST_02472,29,M,0,Post-Graduate,Married,TX,yes,yes,no,cellular,3
+CUST_02474,56,M,1,Unknown,Married,NJ,no,no,no,telephone,2
+CUST_02475,73,M,0,High School,Married,IL,yes,yes,no,cellular,1
+CUST_02479,46,F,4,Post-Graduate,Married,CA,yes,yes,no,cellular,1
+CUST_02484,32,M,3,Unknown,Single,NJ,no,no,no,cellular,3
+CUST_02485,58,F,1,Unknown,Married,NY,yes,no,no,unknown,1
+CUST_02486,44,M,4,Doctorate,Married,FL,yes,yes,no,cellular,3
+CUST_02487,46,F,3,Graduate,Married,TX,no,yes,no,cellular,3
+CUST_02488,41,M,3,Unknown,Married,CA,no,no,no,cellular,3
+CUST_02493,37,M,1,High School,Married,FL,yes,no,no,cellular,1
+CUST_02499,58,F,4,Graduate,Married,FL,no,no,no,cellular,3
+CUST_02508,35,M,3,Unknown,Single,TX,no,yes,no,cellular,2
+CUST_02511,36,F,3,Graduate,Single,CA,yes,no,no,telephone,2
+CUST_02514,49,M,4,Uneducated,Unknown,NY,yes,no,yes,cellular,2
+CUST_02516,45,M,4,Unknown,Unknown,CA,yes,no,no,cellular,3
+CUST_02517,44,F,3,Unknown,Single,CA,yes,yes,no,unknown,2
+CUST_02518,30,F,0,Unknown,Married,CA,no,no,no,unknown,1
+CUST_02520,55,F,2,Graduate,Unknown,CA,no,no,no,cellular,3
+CUST_02523,34,M,3,Graduate,Married,FL,no,no,no,cellular,3
+CUST_02524,44,F,4,High School,Single,CA,yes,yes,no,cellular,1
+CUST_02527,56,F,1,Graduate,Single,NY,no,no,no,cellular,3
+CUST_02532,45,F,2,Doctorate,Married,NY,no,no,yes,cellular,3
+CUST_02534,39,F,1,Graduate,Single,CA,no,no,no,cellular,3
+CUST_02535,63,F,0,Unknown,Single,TX,no,no,no,cellular,3
+CUST_02541,59,F,0,Post-Graduate,Single,TX,yes,no,no,cellular,2
+CUST_02543,31,F,1,Graduate,Single,TX,no,yes,no,unknown,3
+CUST_02546,51,M,4,High School,Single,TX,no,yes,no,cellular,2
+CUST_02555,42,M,5,Unknown,Married,FL,no,no,no,cellular,3
+CUST_02565,30,F,1,Graduate,Married,MI,no,no,no,cellular,1
+CUST_02572,60,M,1,Graduate,Single,NY,yes,no,no,cellular,3
+CUST_02575,55,M,2,Graduate,Married,WA,no,yes,no,unknown,3
+CUST_02587,41,F,3,High School,Single,CA,no,no,no,cellular,3
+CUST_02589,35,F,4,Uneducated,Single,NY,no,no,no,cellular,1
+CUST_02590,39,F,4,High School,Married,NY,yes,no,no,cellular,2
+CUST_02593,47,F,2,High School,Unknown,FL,yes,yes,no,unknown,3
+CUST_02603,43,F,2,Graduate,Married,TX,yes,yes,no,cellular,1
+CUST_02610,40,F,2,Uneducated,Unknown,FL,no,no,no,cellular,2
+CUST_02612,46,M,4,Unknown,Married,TX,yes,no,no,cellular,3
+CUST_02615,43,F,4,Unknown,Single,FL,yes,no,no,unknown,1
+CUST_02616,51,F,4,Graduate,Single,CA,yes,no,no,cellular,1
+CUST_02620,46,M,3,High School,Single,CA,no,yes,no,cellular,1
+CUST_02621,46,M,4,Graduate,Single,CA,no,no,no,cellular,1
+CUST_02626,57,M,2,Uneducated,Unknown,NY,no,yes,no,cellular,2
+CUST_02628,63,M,2,Graduate,Married,NY,no,no,no,cellular,1
+CUST_02639,34,M,5,Post-Graduate,Single,NJ,no,no,no,cellular,2
+CUST_02649,48,M,3,High School,Unknown,CA,no,yes,no,telephone,3
+CUST_02651,39,F,2,High School,Married,FL,yes,yes,no,cellular,3
+CUST_02652,49,M,3,Post-Graduate,Unknown,CA,no,no,no,telephone,3
+CUST_02665,53,F,1,Graduate,Married,FL,yes,yes,no,cellular,3
+CUST_02674,46,F,3,Graduate,Married,NY,no,yes,no,cellular,3
+CUST_02677,52,F,1,Uneducated,Single,CA,yes,yes,no,cellular,3
+CUST_02679,60,M,0,Graduate,Married,CA,no,no,no,cellular,1
+CUST_02681,34,F,1,Unknown,Married,CA,no,yes,no,cellular,1
+CUST_02685,42,F,4,Graduate,Single,NY,yes,yes,no,unknown,1
+CUST_02686,39,M,4,Unknown,Married,NY,no,yes,no,cellular,2
+CUST_02689,39,M,3,Uneducated,Single,TX,yes,no,no,telephone,3
+CUST_02690,35,M,2,Uneducated,Unknown,NY,yes,no,no,cellular,3
+CUST_02692,65,M,0,Unknown,Single,FL,no,yes,no,telephone,2
+CUST_02693,45,F,3,Graduate,Married,FL,no,yes,yes,cellular,3
+CUST_02698,48,F,3,Graduate,Unknown,TX,yes,yes,no,unknown,1
+CUST_02699,56,M,2,Graduate,Single,FL,no,no,no,cellular,2
+CUST_02702,49,F,5,Unknown,Married,CA,no,no,no,unknown,1
+CUST_02708,53,M,3,Post-Graduate,Married,NY,no,yes,no,cellular,1
+CUST_02710,40,M,4,Uneducated,Single,CA,yes,no,yes,cellular,1
+CUST_02716,60,F,1,Graduate,Married,NJ,no,no,no,cellular,3
+CUST_02719,57,F,2,Post-Graduate,Single,TX,no,yes,no,cellular,2
+CUST_02725,38,F,4,Uneducated,Married,CA,yes,no,no,unknown,3
+CUST_02730,46,M,3,Graduate,Married,TX,no,yes,no,cellular,3
+CUST_02733,34,F,2,High School,Single,FL,yes,yes,no,cellular,1
+CUST_02738,43,F,3,Graduate,Married,NJ,no,no,no,cellular,3
+CUST_02743,50,F,2,Graduate,Married,NJ,no,no,no,unknown,3
+CUST_02749,38,M,2,Graduate,Married,CA,no,no,no,cellular,2
+CUST_02751,47,F,4,Post-Graduate,Unknown,FL,no,no,yes,unknown,2
+CUST_02752,32,F,2,High School,Single,TX,no,yes,no,cellular,3
+CUST_02754,37,F,1,Graduate,Married,FL,no,no,no,unknown,3
+CUST_02755,39,F,1,Graduate,Single,TX,no,no,no,cellular,3
+CUST_02756,35,M,4,High School,Married,NY,yes,no,no,cellular,3
+CUST_02759,59,F,1,High School,Married,TX,yes,no,no,unknown,2
+CUST_02761,52,F,3,Graduate,Single,NY,yes,yes,no,telephone,2
+CUST_02767,49,F,1,Unknown,Married,CA,no,yes,no,cellular,3
+CUST_02770,50,F,1,High School,Single,NY,no,yes,no,cellular,3
+CUST_02771,52,M,1,Doctorate,Married,NJ,yes,no,no,cellular,3
+CUST_02772,61,M,0,Graduate,Married,NY,no,no,no,cellular,1
+CUST_02778,48,F,1,High School,Married,CA,no,yes,no,cellular,1
+CUST_02795,38,F,1,Graduate,Married,TX,no,yes,no,cellular,3
+CUST_02803,47,M,3,Graduate,Single,TX,no,no,no,cellular,3
+CUST_02808,51,F,3,Graduate,Married,IA,no,no,no,cellular,2
+CUST_02817,51,F,4,Unknown,Married,TX,yes,yes,no,cellular,3
+CUST_02819,43,F,3,Graduate,Married,NY,no,no,no,cellular,3
+CUST_02821,58,F,3,Graduate,Married,TX,no,no,no,unknown,3
+CUST_02824,36,F,2,Graduate,Married,CA,yes,yes,no,telephone,2
+CUST_02827,44,F,3,Uneducated,Married,FL,no,yes,no,unknown,2
+CUST_02834,51,F,1,Graduate,Single,FL,yes,yes,no,cellular,2
+CUST_02836,46,F,4,Graduate,Single,MN,yes,no,yes,cellular,2
+CUST_02841,58,M,0,High School,Unknown,FL,no,yes,no,cellular,2
+CUST_02847,48,F,3,High School,Single,CA,no,yes,no,cellular,3
+CUST_02849,50,F,3,Graduate,Married,CA,no,no,no,cellular,3
+CUST_02856,32,M,2,High School,Single,NY,no,no,no,cellular,2
+CUST_02860,51,F,2,Graduate,Married,NY,no,no,no,cellular,3
+CUST_02863,47,M,5,Unknown,Single,FL,no,no,no,cellular,2
+CUST_02865,44,M,4,Graduate,Married,NY,no,no,no,cellular,3
+CUST_02868,45,M,5,Unknown,Married,CA,no,no,no,cellular,3
+CUST_02869,61,M,0,Post-Graduate,Single,TX,no,no,no,unknown,3
+CUST_02871,55,F,2,Graduate,Married,CA,no,no,no,cellular,2
+CUST_02875,29,F,0,Uneducated,Married,CA,no,no,no,unknown,2
+CUST_02877,56,M,3,High School,Married,FL,no,yes,no,unknown,2
+CUST_02883,44,F,1,Uneducated,Single,FL,no,yes,no,cellular,3
+CUST_02885,51,F,2,Graduate,Married,FL,yes,yes,no,cellular,2
+CUST_02886,48,M,3,Graduate,Married,FL,yes,yes,yes,cellular,2
+CUST_02887,39,F,1,Unknown,Married,CA,no,no,no,cellular,2
+CUST_02890,65,F,0,Graduate,Married,NJ,no,yes,yes,cellular,2
+CUST_02895,43,M,4,Unknown,Unknown,CA,no,yes,yes,unknown,1
+CUST_02904,43,F,4,Unknown,Single,TX,yes,yes,no,unknown,3
+CUST_02907,46,F,2,Graduate,Single,FL,no,no,no,cellular,3
+CUST_02908,39,F,3,Graduate,Married,FL,yes,no,no,cellular,2
+CUST_02909,49,F,3,High School,Married,CA,yes,yes,yes,cellular,3
+CUST_02911,47,M,3,Graduate,Married,TX,no,no,no,cellular,1
+CUST_02914,37,M,3,High School,Married,FL,no,yes,no,cellular,1
+CUST_02920,40,F,3,High School,Unknown,CA,yes,yes,no,unknown,1
+CUST_02923,44,F,2,Graduate,Married,CA,yes,yes,no,unknown,2
+CUST_02927,28,M,1,Post-Graduate,Single,TX,no,yes,no,cellular,3
+CUST_02928,42,F,2,Uneducated,Single,CA,no,yes,no,unknown,2
+CUST_02931,52,F,3,Uneducated,Unknown,CA,no,yes,yes,cellular,2
+CUST_02933,35,F,4,High School,Single,TX,no,yes,no,cellular,3
+CUST_02936,51,F,2,Unknown,Married,CA,no,no,no,cellular,3
+CUST_02944,43,M,3,Uneducated,Married,CA,yes,no,no,cellular,3
+CUST_02949,47,F,2,Uneducated,Married,NY,yes,yes,no,cellular,3
+CUST_02955,56,M,0,High School,Unknown,NY,yes,yes,no,unknown,3
+CUST_02956,34,M,1,Unknown,Married,TX,no,yes,no,cellular,3
+CUST_02957,58,F,0,Uneducated,Single,MI,no,no,no,unknown,3
+CUST_02958,52,M,2,Doctorate,Married,CA,no,no,no,cellular,3
+CUST_02961,65,F,0,Graduate,Married,FL,no,no,yes,cellular,1
+CUST_02964,64,M,1,Graduate,Married,TX,no,yes,no,unknown,1
+CUST_02969,59,F,1,Graduate,Single,TX,yes,no,no,cellular,3
+CUST_02971,65,M,0,Graduate,Single,CA,no,no,no,unknown,3
+CUST_02974,49,M,3,Graduate,Married,FL,yes,no,no,cellular,3
+CUST_02983,43,F,3,Graduate,Married,NJ,no,no,no,cellular,1
+CUST_02985,52,M,3,Graduate,Married,FL,no,yes,no,unknown,2
+CUST_02987,26,M,0,Graduate,Single,FL,no,yes,no,cellular,1
+CUST_02992,59,M,0,High School,Married,NY,no,yes,no,cellular,3
+CUST_02996,57,F,3,Graduate,Unknown,TX,yes,no,no,cellular,1
+CUST_02997,32,M,1,High School,Single,FL,yes,yes,no,cellular,3
+CUST_02998,53,M,1,Graduate,Married,NJ,yes,no,no,telephone,2
+CUST_03001,53,F,1,Unknown,Married,TX,no,yes,no,cellular,3
+CUST_03003,54,F,4,High School,Married,NY,yes,yes,no,telephone,3
+CUST_03007,45,M,5,Doctorate,Married,CA,no,no,no,unknown,2
+CUST_03008,57,F,2,Doctorate,Married,CA,no,yes,no,unknown,3
+CUST_03012,50,M,1,Graduate,Married,NJ,no,no,no,cellular,2
+CUST_03013,34,M,3,Graduate,Married,FL,no,no,no,cellular,1
+CUST_03015,64,F,0,Unknown,Married,NJ,no,no,no,cellular,3
+CUST_03016,49,F,4,Uneducated,Unknown,IL,yes,no,no,unknown,1
+CUST_03017,53,M,3,Graduate,Single,FL,no,no,no,cellular,3
+CUST_03018,42,F,2,Unknown,Single,CA,no,yes,no,cellular,1
+CUST_03022,39,F,1,Uneducated,Single,TX,no,yes,no,cellular,3
+CUST_03025,43,M,4,Graduate,Unknown,TX,yes,no,no,telephone,3
+CUST_03027,45,F,3,Unknown,Unknown,TX,no,no,yes,cellular,3
+CUST_03028,63,M,1,High School,Single,CA,yes,no,no,cellular,1
+CUST_03033,48,M,2,Graduate,Married,FL,no,yes,no,cellular,3
+CUST_03035,53,M,2,Unknown,Single,CA,yes,yes,no,cellular,2
+CUST_03038,49,F,1,High School,Married,TX,no,no,no,cellular,3
+CUST_03039,57,F,2,Graduate,Single,CA,no,no,no,cellular,3
+CUST_03040,48,F,4,Uneducated,Married,TX,no,yes,no,unknown,3
+CUST_03044,50,M,3,High School,Single,NJ,yes,yes,no,cellular,2
+CUST_03045,45,F,4,Graduate,Unknown,FL,yes,yes,no,cellular,2
+CUST_03046,41,F,3,High School,Married,NY,no,yes,no,cellular,5
+CUST_03048,48,F,4,Unknown,Married,TX,no,yes,yes,cellular,2
+CUST_03051,47,M,4,Graduate,Unknown,NY,no,no,no,unknown,3
+CUST_03056,48,F,4,Graduate,Married,TX,yes,no,no,cellular,3
+CUST_03058,51,F,2,Graduate,Single,CA,no,yes,no,cellular,5
+CUST_03059,51,F,4,Graduate,Married,VA,no,yes,yes,cellular,2
+CUST_03060,36,F,3,High School,Married,FL,no,no,no,cellular,5
+CUST_03061,49,F,3,High School,Married,NY,yes,no,no,telephone,3
+CUST_03062,40,M,3,High School,Married,VA,yes,no,no,cellular,5
+CUST_03064,56,M,3,High School,Single,NJ,yes,no,no,cellular,3
+CUST_03065,45,M,3,Uneducated,Single,NJ,yes,no,no,telephone,5
+CUST_03066,48,F,2,Graduate,Single,CA,no,no,no,unknown,2
+CUST_03071,50,F,1,Unknown,Single,CA,yes,yes,no,telephone,3
+CUST_03072,45,M,2,Graduate,Married,CA,yes,no,yes,cellular,5
+CUST_03078,53,F,2,Unknown,Married,FL,yes,no,no,unknown,2
+CUST_03079,40,F,4,Post-Graduate,Married,NY,no,no,no,unknown,2
+CUST_03080,51,M,2,Graduate,Married,CA,yes,yes,no,unknown,5
+CUST_03081,43,F,2,Doctorate,Single,CA,yes,yes,no,cellular,5
+CUST_03083,41,F,2,Unknown,Single,NJ,yes,yes,yes,unknown,2
+CUST_03095,35,M,3,Uneducated,Married,NY,no,yes,no,cellular,5
+CUST_03096,35,M,0,High School,Single,CA,no,no,no,cellular,3
+CUST_03101,37,M,1,Graduate,Single,NY,no,no,no,cellular,5
+CUST_03102,59,M,2,Graduate,Single,FL,no,yes,no,cellular,5
+CUST_03106,47,M,3,Graduate,Single,NY,yes,no,no,cellular,3
+CUST_03108,39,F,1,Graduate,Single,CA,no,no,no,cellular,3
+CUST_03111,46,F,3,High School,Married,NY,no,no,no,unknown,5
+CUST_03112,59,F,2,High School,Single,FL,no,no,no,cellular,3
+CUST_03119,52,M,2,Graduate,Single,FL,no,yes,no,cellular,2
+CUST_03124,55,M,2,Uneducated,Single,CA,no,no,no,cellular,3
+CUST_03127,51,F,3,Graduate,Married,NJ,yes,no,no,cellular,2
+CUST_03128,57,F,4,High School,Single,FL,no,yes,no,cellular,3
+CUST_03129,47,F,1,Graduate,Married,NJ,yes,no,no,cellular,2
+CUST_03131,51,F,2,Unknown,Married,NY,no,yes,no,cellular,3
+CUST_03132,49,F,4,Graduate,Single,FL,no,no,no,cellular,3
+CUST_03133,57,M,2,Uneducated,Married,VA,yes,yes,no,cellular,1
+CUST_03134,52,M,3,Doctorate,Married,UT,no,no,no,cellular,3
+CUST_03140,62,M,1,High School,Married,NY,yes,yes,no,cellular,3
+CUST_03144,35,F,3,Graduate,Single,NY,yes,no,no,cellular,1
+CUST_03146,34,M,1,Uneducated,Single,NY,yes,yes,yes,cellular,3
+CUST_03147,41,F,4,Graduate,Married,MI,no,no,yes,unknown,1
+CUST_03149,36,F,1,Unknown,Single,FL,no,no,no,unknown,2
+CUST_03150,41,M,4,Uneducated,Single,TX,no,no,no,cellular,3
+CUST_03152,44,F,3,Unknown,Single,FL,yes,no,no,cellular,2
+CUST_03155,41,M,1,Post-Graduate,Single,MI,no,no,no,cellular,3
+CUST_03161,49,M,4,Graduate,Married,NY,no,yes,no,cellular,1
+CUST_03173,43,M,3,Graduate,Single,CA,no,no,no,cellular,3
+CUST_03182,31,F,0,Uneducated,Married,CA,no,no,no,cellular,3
+CUST_03185,46,F,2,Graduate,Married,TX,yes,yes,no,cellular,3
+CUST_03188,49,F,2,Unknown,Unknown,CA,no,no,no,cellular,3
+CUST_03195,37,F,1,Graduate,Married,FL,no,yes,no,unknown,3
+CUST_03205,33,F,0,Unknown,Single,FL,yes,yes,no,cellular,3
+CUST_03207,51,F,2,Graduate,Single,NY,yes,no,no,unknown,3
+CUST_03208,49,M,2,Graduate,Single,CA,no,no,no,cellular,3
+CUST_03209,41,M,3,High School,Married,CT,yes,yes,no,cellular,3
+CUST_03210,41,M,2,Graduate,Unknown,VA,yes,yes,no,cellular,1
+CUST_03211,39,F,2,Post-Graduate,Single,TX,yes,yes,no,cellular,1
+CUST_03232,45,M,3,High School,Married,TX,yes,no,no,cellular,1
+CUST_03236,44,M,2,Graduate,Married,NY,no,yes,no,unknown,3
+CUST_03239,42,M,2,High School,Single,NY,yes,no,no,cellular,2
+CUST_03245,43,M,3,Graduate,Unknown,NY,no,no,yes,cellular,3
+CUST_03246,64,F,1,Graduate,Single,NY,no,yes,no,cellular,2
+CUST_03252,46,M,3,Graduate,Single,CA,no,no,no,cellular,1
+CUST_03258,39,F,2,Graduate,Married,FL,yes,yes,yes,cellular,3
+CUST_03266,51,F,4,Graduate,Single,NY,no,no,no,cellular,3
+CUST_03273,51,M,1,Graduate,Married,NY,no,yes,no,cellular,3
+CUST_03275,48,M,2,Uneducated,Single,NY,yes,yes,no,cellular,2
+CUST_03280,45,F,2,Graduate,Single,NY,no,no,no,unknown,3
+CUST_03282,64,M,0,Graduate,Single,CA,yes,no,no,cellular,3
+CUST_03288,40,M,3,Graduate,Single,TX,no,no,no,cellular,1
+CUST_03289,40,M,2,Graduate,Married,FL,no,yes,no,cellular,2
+CUST_03291,47,M,3,Uneducated,Married,TX,no,yes,no,unknown,2
+CUST_03296,56,M,2,Graduate,Married,NJ,yes,yes,no,cellular,3
+CUST_03298,37,F,1,Graduate,Married,FL,no,yes,no,cellular,1
+CUST_03299,53,F,2,Graduate,Married,NY,no,no,no,unknown,3
+CUST_03300,35,F,1,Graduate,Single,CA,yes,no,no,cellular,3
+CUST_03306,42,M,2,Uneducated,Single,NY,no,no,no,cellular,2
+CUST_03308,38,M,3,High School,Married,NY,yes,no,no,cellular,3
+CUST_03310,53,M,2,Uneducated,Single,FL,yes,no,no,cellular,1
+CUST_03313,49,F,3,Graduate,Single,TX,yes,no,no,cellular,3
+CUST_03315,65,F,0,Graduate,Married,NY,no,no,no,cellular,1
+CUST_03317,41,M,3,Graduate,Single,FL,yes,no,no,cellular,2
+CUST_03318,40,F,3,High School,Single,TX,no,no,no,unknown,3
+CUST_03320,32,F,0,Unknown,Single,NY,no,no,yes,unknown,1
+CUST_03321,38,M,3,Uneducated,Married,FL,no,no,no,cellular,3
+CUST_03326,58,F,3,Graduate,Married,NJ,no,no,no,cellular,3
+CUST_03329,54,F,0,Graduate,Married,NY,yes,yes,no,unknown,3
+CUST_03330,37,M,3,Unknown,Single,FL,yes,no,no,cellular,2
+CUST_03334,68,M,1,Graduate,Married,NY,yes,yes,yes,telephone,1
+CUST_03335,41,F,4,Graduate,Married,TX,no,no,no,cellular,3
+CUST_03351,51,F,3,Graduate,Married,CA,no,no,no,cellular,1
+CUST_03352,59,F,0,Uneducated,Married,FL,yes,yes,no,cellular,3
+CUST_03353,50,F,1,Graduate,Single,CA,yes,no,no,cellular,1
+CUST_03354,30,M,0,Graduate,Single,TX,no,yes,no,cellular,2
+CUST_03356,56,F,1,High School,Married,TX,yes,yes,no,cellular,2
+CUST_03371,39,F,5,Graduate,Single,TX,no,no,no,unknown,1
+CUST_03376,31,M,0,High School,Single,TX,no,yes,no,cellular,2
+CUST_03379,49,M,2,Uneducated,Married,FL,no,no,no,cellular,3
+CUST_03380,40,F,1,High School,Single,CA,no,no,no,telephone,3
+CUST_03383,41,F,4,Graduate,Married,FL,no,no,no,unknown,3
+CUST_03384,35,M,2,Graduate,Married,IL,no,no,no,cellular,3
+CUST_03388,32,M,1,Uneducated,Single,NY,no,no,no,cellular,1
+CUST_03393,38,F,1,Graduate,Married,FL,no,yes,no,cellular,3
+CUST_03394,41,F,3,Graduate,Unknown,TX,no,yes,yes,cellular,2
+CUST_03397,55,F,2,Graduate,Married,FL,no,yes,yes,cellular,5
+CUST_03398,43,F,5,High School,Married,CA,no,yes,yes,cellular,2
+CUST_03400,50,F,2,Post-Graduate,Married,NY,no,yes,no,cellular,3
+CUST_03401,51,F,1,Graduate,Married,CA,no,no,no,cellular,3
+CUST_03405,50,M,1,Uneducated,Married,CA,yes,no,no,cellular,3
+CUST_03406,44,F,3,Doctorate,Single,TX,no,no,yes,cellular,2
+CUST_03411,40,F,4,Graduate,Single,TX,yes,no,no,cellular,3
+CUST_03413,47,F,3,Unknown,Unknown,NY,no,no,no,cellular,3
+CUST_03423,44,F,3,High School,Married,MI,no,yes,yes,telephone,5
+CUST_03425,51,M,1,Uneducated,Single,CA,no,no,no,cellular,3
+CUST_03429,45,M,1,Unknown,Single,FL,yes,no,no,cellular,3
+CUST_03430,46,M,2,Graduate,Single,NY,no,no,no,telephone,3
+CUST_03434,44,M,3,Graduate,Unknown,NY,yes,yes,no,cellular,5
+CUST_03435,36,F,2,Graduate,Unknown,TX,no,no,no,cellular,5
+CUST_03439,53,F,1,Graduate,Married,FL,no,yes,no,cellular,3
+CUST_03442,39,F,2,High School,Single,CA,no,yes,no,cellular,3
+CUST_03444,40,M,3,Graduate,Married,FL,no,no,no,cellular,3
+CUST_03456,50,F,2,High School,Married,TX,yes,no,no,cellular,5
+CUST_03458,42,F,4,Uneducated,Married,NY,yes,no,yes,unknown,3
+CUST_03460,43,M,4,High School,Single,FL,no,no,no,cellular,3
+CUST_03461,39,F,1,Graduate,Single,TX,no,yes,no,cellular,3
+CUST_03464,39,F,0,Unknown,Married,NJ,no,no,no,cellular,2
+CUST_03465,48,F,2,Post-Graduate,Single,CA,yes,yes,no,unknown,3
+CUST_03466,58,M,2,Doctorate,Married,NY,yes,no,no,unknown,3
+CUST_03468,36,M,2,Graduate,Single,NY,no,yes,no,cellular,2
+CUST_03470,42,F,2,Graduate,Married,TX,no,yes,no,telephone,3
+CUST_03471,46,M,2,Graduate,Married,CA,no,yes,no,cellular,1
+CUST_03474,35,F,3,Doctorate,Married,FL,yes,no,no,cellular,3
+CUST_03482,45,M,2,Graduate,Single,TX,no,yes,no,cellular,3
+CUST_03483,49,F,3,Graduate,Married,CA,yes,no,no,cellular,1
+CUST_03486,39,M,3,Graduate,Married,CA,no,yes,no,cellular,3
+CUST_03488,43,F,3,High School,Married,CA,no,no,no,unknown,2
+CUST_03496,35,M,1,Post-Graduate,Married,NJ,yes,yes,no,unknown,1
+CUST_03498,47,F,3,Graduate,Unknown,CA,no,no,no,unknown,3
+CUST_03502,44,M,3,Graduate,Single,VA,yes,no,yes,cellular,2
+CUST_03509,39,M,1,Graduate,Married,NY,no,yes,no,cellular,3
+CUST_03510,51,F,1,Unknown,Married,NV,no,yes,no,cellular,3
+CUST_03519,44,M,4,High School,Single,TX,yes,no,yes,cellular,3
+CUST_03521,37,M,3,High School,Single,NJ,yes,no,no,cellular,3
+CUST_03523,32,M,2,Graduate,Married,NY,no,no,no,cellular,1
+CUST_03525,44,F,4,Graduate,Married,TX,no,yes,no,cellular,3
+CUST_03527,45,F,4,Uneducated,Married,NJ,yes,yes,no,telephone,1
+CUST_03528,42,F,4,Graduate,Married,CA,no,yes,no,cellular,1
+CUST_03533,49,F,1,Unknown,Married,FL,yes,yes,yes,cellular,1
+CUST_03534,39,F,2,Doctorate,Married,TX,yes,no,no,telephone,3
+CUST_03539,53,F,2,Uneducated,Married,FL,no,yes,no,cellular,1
+CUST_03542,61,F,0,Unknown,Single,TX,yes,no,no,cellular,3
+CUST_03543,41,F,5,Graduate,Married,TX,no,yes,no,unknown,2
+CUST_03544,59,F,2,Unknown,Married,CA,yes,yes,no,cellular,3
+CUST_03551,38,M,3,Graduate,Single,NY,yes,no,no,cellular,3
+CUST_03556,42,F,4,Post-Graduate,Single,CA,no,no,no,cellular,3
+CUST_03567,52,F,1,Graduate,Married,CA,yes,no,no,unknown,2
+CUST_03575,61,F,2,Graduate,Single,NY,no,yes,yes,cellular,2
+CUST_03579,34,F,2,Graduate,Unknown,NY,no,no,yes,cellular,2
+CUST_03583,36,M,2,Post-Graduate,Single,NJ,no,yes,no,cellular,1
+CUST_03596,39,F,4,Unknown,Single,NJ,no,no,yes,cellular,3
+CUST_03598,58,F,0,High School,Married,TX,yes,no,no,telephone,3
+CUST_03602,39,F,0,Unknown,Single,TX,yes,no,no,cellular,1
+CUST_03603,53,F,2,High School,Single,CA,yes,yes,no,unknown,2
+CUST_03609,63,M,0,Graduate,Married,NJ,no,no,no,telephone,2
+CUST_03615,42,M,3,Graduate,Single,TX,yes,no,no,cellular,1
+CUST_03616,43,M,2,Graduate,Single,FL,no,no,no,cellular,3
+CUST_03617,56,M,4,Graduate,Single,CA,no,no,no,telephone,1
+CUST_03618,33,F,2,High School,Single,NJ,yes,no,no,unknown,1
+CUST_03621,44,M,3,High School,Single,FL,no,no,no,telephone,3
+CUST_03622,47,M,1,Graduate,Single,VA,yes,no,yes,cellular,3
+CUST_03626,47,F,3,Graduate,Married,FL,yes,no,no,cellular,3
+CUST_03636,58,M,1,Graduate,Married,NY,no,no,yes,cellular,2
+CUST_03644,40,M,2,High School,Unknown,TX,yes,no,no,cellular,3
+CUST_03647,39,F,3,Uneducated,Single,CA,no,yes,no,cellular,1
+CUST_03650,53,F,2,Unknown,Single,CA,yes,no,no,cellular,3
+CUST_03652,46,M,3,Graduate,Married,TX,no,no,no,cellular,2
+CUST_03657,51,M,1,Graduate,Married,TX,no,no,yes,cellular,1
+CUST_03662,55,F,2,Graduate,Married,CA,yes,yes,no,cellular,3
+CUST_03667,51,F,3,Graduate,Married,NY,no,no,no,unknown,2
+CUST_03669,50,F,2,Uneducated,Married,CA,yes,no,no,cellular,1
+CUST_03678,39,M,1,Uneducated,Single,NY,no,yes,yes,cellular,3
+CUST_03680,31,F,2,Unknown,Married,CA,no,no,no,cellular,1
+CUST_03681,49,F,4,High School,Married,TX,no,no,no,cellular,2
+CUST_03685,36,F,4,Graduate,Married,FL,yes,no,no,unknown,3
+CUST_03687,53,M,2,Post-Graduate,Married,UT,no,no,no,telephone,2
+CUST_03689,41,F,3,Graduate,Married,CA,yes,no,no,cellular,3
+CUST_03690,49,F,2,Unknown,Single,TX,yes,yes,yes,cellular,1
+CUST_03694,51,M,1,Unknown,Married,TX,yes,yes,yes,cellular,3
+CUST_03704,38,F,3,Unknown,Married,NY,yes,no,no,cellular,2
+CUST_03705,51,M,2,Graduate,Married,CA,yes,yes,no,cellular,3
+CUST_03707,42,F,2,Uneducated,Married,CA,no,no,yes,cellular,2
+CUST_03708,31,F,0,Graduate,Single,TX,yes,yes,no,cellular,2
+CUST_03718,59,F,1,Graduate,Single,NY,no,yes,no,cellular,1
+CUST_03721,48,F,5,Graduate,Single,TX,yes,yes,yes,unknown,3
+CUST_03722,56,F,4,High School,Married,NY,no,no,no,cellular,3
+CUST_03724,44,M,2,Unknown,Single,NY,yes,no,no,cellular,1
+CUST_03729,35,M,3,Graduate,Married,NJ,yes,no,no,cellular,2
+CUST_03740,44,M,3,Graduate,Married,NY,no,yes,no,cellular,2
+CUST_03750,56,M,1,Unknown,Unknown,TX,no,yes,no,unknown,2
+CUST_03754,39,F,5,Graduate,Single,NY,no,no,no,cellular,3
+CUST_03756,33,F,0,Graduate,Single,CA,yes,no,no,unknown,2
+CUST_03762,51,M,1,Uneducated,Married,TX,yes,yes,no,cellular,3
+CUST_03768,52,M,2,Graduate,Single,AK,yes,yes,yes,cellular,2
+CUST_03769,47,M,1,High School,Married,TX,yes,no,no,cellular,5
+CUST_03773,47,F,5,High School,Single,CA,yes,no,no,cellular,3
+CUST_03774,43,F,3,Graduate,Single,CA,yes,no,no,unknown,3
+CUST_03777,38,M,1,Uneducated,Unknown,MI,yes,no,no,cellular,5
+CUST_03778,56,M,1,Graduate,Married,NJ,no,no,no,unknown,2
+CUST_03781,58,M,1,Uneducated,Single,NY,no,no,no,cellular,5
+CUST_03785,55,M,2,Unknown,Single,FL,no,no,no,unknown,5
+CUST_03786,50,F,2,Unknown,Single,NY,no,no,yes,cellular,5
+CUST_03788,41,F,4,Uneducated,Married,CA,no,yes,no,cellular,2
+CUST_03791,39,M,2,Unknown,Single,NY,no,no,no,cellular,2
+CUST_03795,34,M,1,Unknown,Single,NY,no,no,no,cellular,5
+CUST_03796,43,F,3,Graduate,Single,FL,no,no,no,cellular,5
+CUST_03800,34,F,2,Doctorate,Single,CA,no,no,no,cellular,3
+CUST_03814,58,F,3,Post-Graduate,Single,NY,no,no,no,telephone,5
+CUST_03816,56,M,1,Uneducated,Married,NY,yes,no,no,cellular,3
+CUST_03818,39,M,2,Graduate,Single,TX,no,no,no,cellular,3
+CUST_03827,31,M,2,Graduate,Single,TX,yes,yes,no,unknown,3
+CUST_03828,37,F,3,Graduate,Single,CA,yes,no,no,unknown,2
+CUST_03834,35,F,1,High School,Single,NY,yes,yes,no,cellular,1
+CUST_03835,48,F,3,Graduate,Single,NY,no,no,no,telephone,1
+CUST_03843,42,M,3,High School,Single,CA,yes,no,no,unknown,3
+CUST_03845,52,F,1,High School,Married,FL,no,yes,no,cellular,3
+CUST_03847,44,M,2,Graduate,Married,NJ,yes,yes,yes,cellular,1
+CUST_03849,52,F,1,Unknown,Married,TX,no,yes,no,cellular,3
+CUST_03853,43,F,3,Graduate,Married,NY,yes,no,no,cellular,3
+CUST_03854,45,F,0,Graduate,Married,FL,yes,no,no,unknown,2
+CUST_03856,43,F,5,High School,Single,TX,no,no,no,unknown,3
+CUST_03858,43,F,2,Uneducated,Single,CA,no,no,no,cellular,3
+CUST_03860,57,F,2,Graduate,Married,CA,no,no,no,cellular,3
+CUST_03861,36,F,4,Uneducated,Unknown,TX,no,yes,no,cellular,3
+CUST_03870,41,M,3,Graduate,Single,FL,yes,no,no,cellular,3
+CUST_03871,46,F,4,Unknown,Single,FL,no,no,no,cellular,3
+CUST_03873,49,F,3,High School,Married,CA,yes,no,no,unknown,3
+CUST_03874,40,F,3,High School,Unknown,NJ,yes,no,no,cellular,3
+CUST_03880,36,F,5,Unknown,Single,TX,no,yes,no,unknown,3
+CUST_03881,53,F,3,Post-Graduate,Married,NY,yes,no,no,cellular,1
+CUST_03882,43,M,3,High School,Married,CA,no,yes,no,cellular,3
+CUST_03885,34,F,0,High School,Married,CA,no,no,no,cellular,3
+CUST_03886,41,F,3,Graduate,Married,TX,no,yes,no,telephone,2
+CUST_03887,44,M,3,High School,Married,TX,yes,no,yes,telephone,3
+CUST_03888,56,M,1,Doctorate,Married,NY,no,no,no,cellular,2
+CUST_03890,46,M,4,Graduate,Single,TX,no,yes,no,cellular,3
+CUST_03895,61,F,1,Graduate,Married,NJ,yes,yes,no,cellular,2
+CUST_03903,39,M,3,Graduate,Married,NY,no,yes,yes,cellular,1
+CUST_03904,39,M,2,Uneducated,Single,CA,yes,yes,yes,cellular,2
+CUST_03906,36,F,0,Unknown,Married,TX,no,yes,no,unknown,3
+CUST_03910,51,F,0,Doctorate,Single,FL,yes,no,yes,cellular,2
+CUST_03911,42,M,3,Unknown,Single,CA,no,no,yes,telephone,2
+CUST_03913,55,M,3,Unknown,Single,CA,no,yes,yes,cellular,3
+CUST_03915,58,F,0,Graduate,Married,CA,no,no,no,cellular,3
+CUST_03919,44,F,5,Unknown,Married,NY,yes,no,yes,cellular,3
+CUST_03920,57,F,2,Graduate,Single,NY,yes,yes,no,unknown,1
+CUST_03922,55,M,0,High School,Married,TX,no,yes,no,cellular,3
+CUST_03929,47,M,2,Uneducated,Married,FL,no,no,no,cellular,3
+CUST_03934,33,M,1,Graduate,Married,NY,yes,no,no,cellular,3
+CUST_03935,54,F,4,Post-Graduate,Married,CA,no,yes,yes,unknown,1
+CUST_03937,45,M,3,Uneducated,Unknown,NY,yes,no,no,cellular,3
+CUST_03938,40,F,3,Uneducated,Married,TX,no,yes,no,cellular,2
+CUST_03942,48,F,4,Graduate,Single,PA,no,yes,no,cellular,1
+CUST_03943,45,M,5,Graduate,Married,TX,yes,no,no,cellular,1
+CUST_03945,49,M,4,Graduate,Single,FL,yes,no,no,unknown,2
+CUST_03946,46,F,2,Graduate,Single,FL,no,yes,no,cellular,2
+CUST_03947,56,M,1,Graduate,Single,NY,yes,yes,no,cellular,1
+CUST_03949,56,F,2,Graduate,Married,NY,yes,yes,no,cellular,3
+CUST_03950,51,M,1,Unknown,Single,NY,no,no,no,cellular,1
+CUST_03953,30,M,2,Post-Graduate,Single,NJ,no,yes,no,cellular,1
+CUST_03961,46,M,5,Doctorate,Single,TX,yes,yes,no,cellular,1
+CUST_03964,62,M,0,Uneducated,Single,NY,no,no,no,cellular,1
+CUST_03965,51,F,1,High School,Married,TX,yes,no,no,cellular,1
+CUST_03972,55,F,2,Graduate,Unknown,NY,no,no,no,unknown,3
+CUST_03974,52,M,0,Uneducated,Unknown,NY,yes,no,no,cellular,2
+CUST_03980,52,M,2,High School,Married,FL,yes,no,no,cellular,2
+CUST_03985,48,M,3,High School,Married,PA,no,yes,no,cellular,3
+CUST_03990,50,F,2,Unknown,Married,CA,no,no,no,cellular,3
+CUST_03992,52,M,2,Graduate,Single,CA,yes,no,no,cellular,3
+CUST_03995,39,M,1,Unknown,Single,NY,no,yes,no,cellular,2
+CUST_03996,52,M,3,Graduate,Married,FL,yes,yes,no,cellular,3
+CUST_03998,53,F,1,Graduate,Single,VA,no,no,no,unknown,2
+CUST_04000,53,F,5,Unknown,Married,NY,yes,no,no,cellular,3
+CUST_04002,35,F,2,High School,Married,CA,no,no,no,unknown,3
+CUST_04003,51,M,2,Uneducated,Married,NY,no,no,no,telephone,2
+CUST_04004,46,M,2,Graduate,Married,TX,no,yes,no,cellular,2
+CUST_04008,56,F,1,Graduate,Married,FL,yes,no,no,cellular,1
+CUST_04011,42,F,2,Doctorate,Married,TX,no,no,no,cellular,3
+CUST_04012,48,M,2,Graduate,Married,NY,no,yes,no,cellular,1
+CUST_04013,50,F,3,High School,Single,CA,yes,yes,yes,unknown,3
+CUST_04023,49,M,1,Doctorate,Married,OR,no,yes,no,cellular,1
+CUST_04029,48,M,4,High School,Married,NY,no,yes,no,cellular,3
+CUST_04030,48,M,3,Graduate,Single,VA,yes,no,no,cellular,1
+CUST_04032,44,F,2,Graduate,Single,NY,no,yes,no,cellular,1
+CUST_04033,39,M,2,Uneducated,Single,NY,yes,no,no,cellular,3
+CUST_04036,50,F,4,Post-Graduate,Married,FL,yes,no,no,unknown,3
+CUST_04044,40,M,2,Graduate,Married,NJ,yes,no,no,cellular,1
+CUST_04047,37,F,3,Unknown,Married,NY,yes,yes,no,unknown,3
+CUST_04048,50,M,2,Uneducated,Married,TX,yes,yes,no,cellular,3
+CUST_04049,35,M,2,High School,Unknown,CA,no,no,no,cellular,3
+CUST_04050,37,M,2,Graduate,Married,TX,yes,yes,yes,unknown,3
+CUST_04054,33,F,2,High School,Single,FL,no,no,no,telephone,2
+CUST_04056,60,F,1,Post-Graduate,Single,NY,yes,no,no,telephone,3
+CUST_04059,39,M,2,Graduate,Married,NY,no,no,no,cellular,2
+CUST_04066,45,F,2,Graduate,Single,NY,no,yes,no,unknown,2
+CUST_04068,48,M,5,Unknown,Single,FL,yes,no,no,cellular,2
+CUST_04072,35,M,2,High School,Married,FL,no,yes,no,cellular,1
+CUST_04075,58,M,1,High School,Married,NJ,no,no,no,cellular,2
+CUST_04076,48,F,4,Graduate,Married,TX,yes,no,no,cellular,2
+CUST_04081,48,M,2,Graduate,Married,TX,yes,yes,yes,cellular,3
+CUST_04082,44,F,2,Doctorate,Married,TX,no,yes,no,cellular,3
+CUST_04088,49,F,1,Unknown,Married,FL,yes,no,no,cellular,3
+CUST_04090,44,F,1,Unknown,Single,NY,no,no,no,cellular,1
+CUST_04092,61,M,0,Doctorate,Single,CA,yes,yes,no,telephone,1
+CUST_04093,55,F,1,Unknown,Married,FL,yes,no,no,cellular,3
+CUST_04098,51,F,2,High School,Single,TX,no,no,no,unknown,3
+CUST_04099,47,F,3,Doctorate,Married,TX,no,yes,yes,unknown,2
+CUST_04100,38,F,1,High School,Married,CA,no,yes,no,unknown,3
+CUST_04101,42,M,5,High School,Unknown,CA,no,yes,yes,cellular,3
+CUST_04103,38,F,3,Uneducated,Single,NY,no,no,no,cellular,1
+CUST_04105,48,F,5,Unknown,Married,CA,no,yes,no,cellular,2
+CUST_04111,50,F,2,Graduate,Single,TX,no,yes,yes,cellular,2
+CUST_04113,40,F,4,Graduate,Single,TX,no,yes,no,unknown,1
+CUST_04116,60,F,2,Unknown,Married,TX,no,yes,no,unknown,1
+CUST_04120,49,M,2,Graduate,Married,NY,yes,yes,no,cellular,3
+CUST_04122,42,F,1,Graduate,Single,TX,yes,no,no,unknown,3
+CUST_04123,51,M,0,High School,Single,CA,no,yes,no,cellular,3
+CUST_04128,63,M,0,Uneducated,Single,TX,no,yes,no,cellular,1
+CUST_04129,46,F,1,Post-Graduate,Married,NY,no,no,no,cellular,2
+CUST_04130,44,M,1,Uneducated,Married,CA,yes,yes,yes,cellular,2
+CUST_04133,47,F,1,Unknown,Married,CA,yes,yes,yes,cellular,1
+CUST_04138,59,F,1,Graduate,Single,TX,no,no,no,cellular,2
+CUST_04140,40,F,2,Graduate,Single,TX,no,yes,no,unknown,3
+CUST_04141,46,M,4,High School,Married,IL,no,no,no,telephone,3
+CUST_04148,41,M,4,Graduate,Married,CA,no,no,no,cellular,1
+CUST_04149,41,F,3,Graduate,Single,FL,no,no,no,unknown,3
+CUST_04150,51,F,3,High School,Married,CA,no,no,no,unknown,2
+CUST_04152,44,M,2,Graduate,Single,TX,no,yes,no,cellular,2
+CUST_04154,49,M,2,Unknown,Unknown,NJ,yes,yes,no,cellular,1
+CUST_04157,40,F,2,Graduate,Single,NY,yes,yes,no,cellular,1
+CUST_04158,43,M,5,Graduate,Single,NY,no,no,no,telephone,3
+CUST_04162,54,M,5,Graduate,Married,CA,no,no,no,unknown,2
+CUST_04163,59,F,0,Graduate,Single,NY,yes,yes,no,unknown,1
+CUST_04166,47,M,4,Graduate,Married,FL,no,no,no,cellular,3
+CUST_04170,44,M,5,Unknown,Married,NY,no,no,no,cellular,3
+CUST_04177,43,F,3,Graduate,Married,NY,yes,no,no,telephone,3
+CUST_04181,55,M,3,Graduate,Married,NY,yes,yes,no,cellular,1
+CUST_04182,37,F,2,High School,Single,CA,no,no,no,unknown,2
+CUST_04190,55,M,0,Graduate,Married,FL,no,yes,no,cellular,2
+CUST_04191,49,F,3,Unknown,Married,FL,no,yes,no,unknown,1
+CUST_04192,52,F,0,Graduate,Single,NJ,no,no,no,cellular,2
+CUST_04197,50,M,2,High School,Married,FL,no,yes,yes,cellular,3
+CUST_04202,57,F,3,Uneducated,Married,FL,no,yes,no,cellular,3
+CUST_04206,33,M,2,Doctorate,Single,CA,yes,yes,yes,cellular,3
+CUST_04210,62,F,1,Uneducated,Married,NJ,yes,no,no,cellular,3
+CUST_04211,54,M,3,High School,Married,NY,yes,no,yes,unknown,2
+CUST_04216,53,M,2,Doctorate,Married,NJ,no,no,no,cellular,2
+CUST_04218,37,F,2,Unknown,Single,FL,yes,yes,no,cellular,1
+CUST_04221,49,M,3,Graduate,Married,TX,no,no,no,cellular,3
+CUST_04223,39,F,1,Graduate,Unknown,NY,yes,yes,no,unknown,2
+CUST_04225,38,F,2,Graduate,Married,TX,no,no,no,telephone,1
+CUST_04231,61,M,1,Unknown,Single,NJ,no,no,no,cellular,2
+CUST_04234,49,F,4,High School,Married,FL,yes,no,no,cellular,2
+CUST_04238,43,F,3,Graduate,Single,VA,yes,no,no,cellular,1
+CUST_04239,43,F,4,Graduate,Single,FL,yes,no,no,unknown,3
+CUST_04242,47,F,2,High School,Married,FL,yes,yes,yes,cellular,2
+CUST_04246,47,F,3,Unknown,Married,NY,yes,no,no,cellular,1
+CUST_04247,46,M,2,High School,Married,CA,no,no,no,cellular,1
+CUST_04249,45,M,4,Unknown,Married,TX,yes,no,no,cellular,2
+CUST_04253,26,M,1,High School,Single,FL,no,yes,no,telephone,5
+CUST_04254,49,M,3,High School,Married,NY,no,no,no,cellular,3
+CUST_04265,42,M,3,Uneducated,Single,TX,no,yes,yes,cellular,5
+CUST_04266,47,F,4,Graduate,Single,NY,no,no,no,cellular,3
+CUST_04268,41,M,1,Graduate,Married,CA,yes,yes,no,cellular,5
+CUST_04274,40,M,3,Graduate,Married,CA,no,yes,yes,cellular,3
+CUST_04278,46,M,5,Uneducated,Married,FL,no,no,yes,cellular,3
+CUST_04280,42,F,2,Unknown,Married,TX,no,no,no,telephone,5
+CUST_04281,54,M,3,Graduate,Married,CA,no,yes,no,cellular,5
+CUST_04282,42,F,3,Graduate,Married,NY,no,no,no,cellular,5
+CUST_04285,50,M,4,Graduate,Married,TX,no,yes,no,cellular,5
+CUST_04289,57,M,3,Graduate,Married,NJ,no,yes,no,cellular,2
+CUST_04292,42,F,4,Graduate,Single,CA,no,no,no,unknown,5
+CUST_04293,49,F,4,High School,Single,TX,no,no,no,unknown,3
+CUST_04296,51,M,3,Graduate,Married,TX,no,no,no,telephone,3
+CUST_04303,50,M,1,Graduate,Married,NY,no,no,yes,cellular,5
+CUST_04304,48,M,2,Doctorate,Single,NY,no,no,no,cellular,5
+CUST_04305,49,M,1,Graduate,Single,FL,yes,no,no,cellular,2
+CUST_04310,33,M,3,High School,Single,NJ,yes,no,no,cellular,2
+CUST_04314,58,M,1,Graduate,Married,NY,yes,yes,no,cellular,3
+CUST_04316,52,F,1,Uneducated,Single,CA,no,yes,no,cellular,3
+CUST_04318,48,F,4,Graduate,Married,MI,no,no,yes,cellular,1
+CUST_04322,47,M,4,Unknown,Single,NY,no,yes,no,cellular,1
+CUST_04327,47,M,2,Unknown,Unknown,CA,yes,no,no,cellular,1
+CUST_04329,39,M,4,Graduate,Married,FL,no,no,no,cellular,3
+CUST_04330,55,F,0,Uneducated,Unknown,NY,no,no,no,unknown,2
+CUST_04333,52,F,1,Graduate,Single,TX,yes,yes,yes,unknown,3
+CUST_04334,48,F,1,Graduate,Single,NY,no,no,no,telephone,3
+CUST_04337,49,F,2,Unknown,Single,TX,no,yes,no,unknown,3
+CUST_04338,45,F,4,Graduate,Single,FL,yes,yes,no,cellular,3
+CUST_04342,53,F,1,Graduate,Single,NY,yes,no,no,cellular,3
+CUST_04343,35,F,2,Graduate,Married,TX,yes,no,no,cellular,2
+CUST_04344,35,F,3,Uneducated,Married,CA,yes,yes,no,cellular,2
+CUST_04345,56,F,2,Uneducated,Unknown,TX,yes,no,yes,unknown,3
+CUST_04354,62,F,1,Unknown,Single,TX,yes,yes,yes,unknown,1
+CUST_04355,54,F,3,Unknown,Married,FL,yes,yes,no,unknown,2
+CUST_04367,39,M,1,Post-Graduate,Single,FL,no,no,no,cellular,1
+CUST_04368,48,M,4,High School,Married,FL,yes,no,no,cellular,3
+CUST_04369,46,F,3,Uneducated,Single,FL,no,yes,no,unknown,3
+CUST_04375,45,M,3,Graduate,Married,TX,no,no,no,telephone,3
+CUST_04377,45,F,4,Uneducated,Married,TX,no,yes,yes,cellular,2
+CUST_04380,38,F,0,Graduate,Single,NY,no,no,yes,unknown,2
+CUST_04382,42,F,1,High School,Married,CA,no,yes,no,cellular,3
+CUST_04383,45,F,3,Graduate,Married,TX,no,no,no,unknown,2
+CUST_04386,54,M,3,Post-Graduate,Single,NY,yes,no,yes,cellular,1
+CUST_04387,39,M,2,Unknown,Married,TX,no,yes,no,cellular,2
+CUST_04395,52,M,3,Doctorate,Married,TX,yes,no,no,unknown,3
+CUST_04396,37,F,3,Graduate,Single,NJ,yes,no,no,cellular,1
+CUST_04398,55,M,4,High School,Married,FL,no,no,no,cellular,3
+CUST_04399,49,F,2,High School,Married,FL,yes,no,no,cellular,2
+CUST_04402,37,F,1,High School,Single,TX,yes,yes,no,cellular,1
+CUST_04405,63,F,0,Graduate,Married,CA,no,no,no,unknown,1
+CUST_04408,48,F,2,Unknown,Married,AR,no,no,no,unknown,2
+CUST_04416,41,M,3,Graduate,Single,NY,no,no,no,cellular,1
+CUST_04420,53,F,2,Graduate,Married,CA,yes,no,no,unknown,2
+CUST_04421,60,F,0,High School,Single,NJ,no,no,no,unknown,3
+CUST_04422,43,F,3,Uneducated,Married,MI,yes,yes,no,cellular,1
+CUST_04429,48,F,2,Post-Graduate,Married,CA,yes,yes,no,cellular,2
+CUST_04430,55,F,1,High School,Unknown,TX,no,yes,no,cellular,2
+CUST_04437,35,M,3,Graduate,Single,NJ,no,no,no,cellular,2
+CUST_04440,57,F,4,Uneducated,Single,CA,yes,no,no,cellular,3
+CUST_04442,47,M,3,Graduate,Unknown,FL,yes,no,no,cellular,2
+CUST_04443,31,F,1,Unknown,Married,NJ,no,no,no,cellular,3
+CUST_04448,42,F,3,Graduate,Single,TX,no,no,no,cellular,2
+CUST_04451,47,M,3,Graduate,Single,CA,no,yes,no,cellular,3
+CUST_04454,30,F,0,Graduate,Married,CA,no,no,no,cellular,3
+CUST_04455,38,F,2,Uneducated,Married,TX,no,yes,no,cellular,3
+CUST_04460,41,M,3,Doctorate,Single,TX,no,no,no,unknown,2
+CUST_04462,58,M,2,Graduate,Single,NY,yes,no,no,cellular,1
+CUST_04464,37,F,1,High School,Married,NJ,no,no,no,cellular,1
+CUST_04473,38,F,3,Graduate,Married,NY,yes,no,no,cellular,2
+CUST_04477,63,F,1,Graduate,Single,NY,yes,no,no,telephone,2
+CUST_04478,41,F,2,High School,Single,CA,no,yes,no,unknown,2
+CUST_04485,59,F,1,High School,Single,TX,no,yes,no,cellular,3
+CUST_04487,42,M,4,Uneducated,Married,NY,no,yes,no,cellular,1
+CUST_04490,31,M,0,Graduate,Single,TX,no,no,yes,telephone,1
+CUST_04504,44,M,0,High School,Married,CA,no,yes,no,cellular,2
+CUST_04505,44,M,2,Graduate,Single,NY,yes,no,no,cellular,2
+CUST_04506,48,M,2,Unknown,Married,NY,no,no,no,cellular,2
+CUST_04507,46,F,3,Uneducated,Married,NY,no,no,no,unknown,2
+CUST_04511,54,M,3,Post-Graduate,Single,VA,yes,no,yes,cellular,1
+CUST_04512,40,M,4,Graduate,Single,FL,no,no,no,cellular,2
+CUST_04514,57,M,2,Unknown,Married,TX,no,yes,no,cellular,3
+CUST_04515,38,M,3,Graduate,Married,CA,no,no,no,cellular,3
+CUST_04523,56,M,4,High School,Married,CA,no,no,no,cellular,3
+CUST_04529,55,F,1,Uneducated,Single,NY,no,no,no,cellular,3
+CUST_04534,47,M,4,Uneducated,Single,NY,no,yes,yes,cellular,1
+CUST_04540,55,F,4,Unknown,Married,TX,no,yes,no,cellular,2
+CUST_04542,35,F,2,Doctorate,Married,FL,no,yes,no,cellular,1
+CUST_04555,54,M,3,Graduate,Married,TX,no,yes,no,unknown,3
+CUST_04561,50,F,1,Uneducated,Unknown,NM,no,yes,no,cellular,1
+CUST_04562,61,M,0,High School,Married,NY,yes,yes,no,cellular,3
+CUST_04563,39,F,2,Doctorate,Married,NY,no,yes,no,unknown,3
+CUST_04569,49,M,0,Unknown,Married,TX,yes,yes,no,cellular,1
+CUST_04575,48,M,1,Graduate,Single,CA,yes,no,no,cellular,3
+CUST_04576,48,M,3,Unknown,Unknown,NY,no,yes,no,cellular,3
+CUST_04583,42,F,4,Graduate,Single,CA,no,no,no,cellular,3
+CUST_04585,50,M,2,Uneducated,Single,CA,no,no,no,cellular,3
+CUST_04588,52,F,1,High School,Single,CA,yes,no,no,cellular,3
+CUST_04589,44,M,2,High School,Single,NY,yes,no,no,cellular,1
+CUST_04594,57,M,1,Unknown,Single,CA,yes,yes,no,cellular,1
+CUST_04598,42,F,4,Unknown,Married,CA,no,yes,yes,cellular,3
+CUST_04599,63,F,1,Unknown,Single,CA,yes,no,no,cellular,1
+CUST_04602,53,F,3,Unknown,Single,CA,yes,yes,no,cellular,2
+CUST_04605,53,F,3,High School,Unknown,NY,yes,no,no,cellular,1
+CUST_04608,52,F,2,Doctorate,Married,MA,no,no,no,cellular,2
+CUST_04610,53,M,4,Graduate,Single,CA,no,no,no,cellular,3
+CUST_04614,36,F,4,Graduate,Married,CA,yes,yes,no,cellular,1
+CUST_04615,40,F,3,High School,Married,NY,no,yes,no,cellular,3
+CUST_04618,41,M,4,Graduate,Single,IL,no,no,no,cellular,1
+CUST_04619,51,F,3,Graduate,Married,FL,yes,no,no,cellular,1
+CUST_04620,26,F,0,Unknown,Single,FL,no,no,no,unknown,2
+CUST_04623,63,M,0,Graduate,Married,CA,no,yes,no,cellular,1
+CUST_04627,35,F,2,Uneducated,Single,CA,yes,no,no,telephone,3
+CUST_04630,49,M,3,Graduate,Single,CA,yes,yes,no,cellular,3
+CUST_04632,46,F,2,Graduate,Married,TX,yes,yes,no,cellular,2
+CUST_04634,43,F,5,Graduate,Married,NY,no,no,no,cellular,1
+CUST_04635,49,F,2,High School,Married,NY,no,no,no,unknown,1
+CUST_04636,33,M,3,High School,Married,TX,yes,no,no,cellular,3
+CUST_04639,47,M,1,Graduate,Married,NY,no,yes,no,cellular,2
+CUST_04640,54,M,3,Post-Graduate,Single,CA,no,no,no,cellular,1
+CUST_04641,26,M,0,Graduate,Single,FL,no,yes,no,cellular,1
+CUST_04642,46,F,3,High School,Single,IA,no,no,no,cellular,3
+CUST_04650,46,F,1,Uneducated,Married,FL,no,yes,no,cellular,2
+CUST_04657,60,F,1,High School,Married,TX,no,yes,no,unknown,3
+CUST_04658,51,F,1,Graduate,Married,NJ,no,no,no,telephone,2
+CUST_04662,53,M,3,Uneducated,Married,FL,no,yes,no,cellular,1
+CUST_04668,55,F,1,High School,Single,TX,yes,no,no,unknown,3
+CUST_04672,37,F,3,Graduate,Single,CA,no,yes,no,unknown,1
+CUST_04681,42,F,2,Unknown,Single,NY,yes,yes,no,cellular,2
+CUST_04682,45,F,3,High School,Single,CA,yes,no,yes,cellular,3
+CUST_04683,53,M,3,Graduate,Single,NY,yes,no,no,unknown,2
+CUST_04685,52,F,1,High School,Married,TX,yes,no,no,cellular,2
+CUST_04690,57,M,1,Graduate,Single,TX,yes,no,no,cellular,2
+CUST_04695,36,F,5,Graduate,Married,NY,no,no,no,unknown,3
+CUST_04697,43,F,4,Graduate,Unknown,CA,no,yes,yes,cellular,1
+CUST_04699,53,M,4,Graduate,Single,NJ,no,yes,yes,cellular,1
+CUST_04701,48,M,1,High School,Single,CA,no,no,no,cellular,3
+CUST_04703,26,F,1,Unknown,Single,FL,yes,yes,yes,cellular,3
+CUST_04705,46,M,4,Doctorate,Unknown,NV,yes,yes,no,cellular,1
+CUST_04706,53,F,2,Graduate,Married,NY,yes,yes,no,cellular,3
+CUST_04709,48,F,3,Graduate,Single,TX,yes,no,no,unknown,1
+CUST_04711,54,F,0,Uneducated,Married,NY,no,yes,yes,cellular,2
+CUST_04713,41,M,2,Uneducated,Single,TX,no,yes,no,cellular,5
+CUST_04716,56,M,2,Doctorate,Married,IL,yes,no,no,cellular,5
+CUST_04719,51,F,1,High School,Married,NY,no,no,no,cellular,5
+CUST_04731,54,M,2,Uneducated,Single,NY,no,no,no,cellular,3
+CUST_04732,46,F,0,Graduate,Single,TX,no,no,no,cellular,2
+CUST_04739,43,F,4,Graduate,Married,NV,yes,no,no,unknown,3
+CUST_04746,53,F,2,High School,Single,TX,yes,yes,no,cellular,2
+CUST_04748,48,M,3,Graduate,Married,CA,no,no,no,cellular,5
+CUST_04752,53,F,1,Graduate,Married,NY,yes,no,no,cellular,3
+CUST_04756,45,M,4,Graduate,Married,NY,no,no,no,cellular,2
+CUST_04760,52,F,2,Graduate,Single,TX,no,yes,no,cellular,3
+CUST_04763,55,M,1,High School,Married,NJ,no,no,no,cellular,2
+CUST_04767,50,M,1,Unknown,Married,CA,no,no,no,cellular,3
+CUST_04768,44,F,4,Uneducated,Single,CA,no,no,no,cellular,3
+CUST_04769,44,F,4,Graduate,Married,CA,yes,yes,yes,cellular,2
+CUST_04771,38,F,3,High School,Single,TX,no,yes,no,cellular,5
+CUST_04773,42,M,3,Uneducated,Married,TX,no,yes,no,cellular,2
+CUST_04774,37,F,1,Graduate,Single,CA,yes,yes,no,cellular,3
+CUST_04776,38,F,3,Graduate,Married,CA,no,no,no,cellular,5
+CUST_04780,43,F,3,Unknown,Single,TX,yes,no,yes,cellular,3
+CUST_04783,52,M,1,Unknown,Married,TX,no,yes,no,cellular,5
+CUST_04784,36,F,2,Graduate,Single,CA,no,no,no,unknown,3
+CUST_04787,40,F,3,Uneducated,Married,TX,yes,yes,no,unknown,2
+CUST_04792,55,F,1,Unknown,Married,CA,no,yes,no,cellular,5
+CUST_04794,41,M,4,High School,Unknown,CA,no,no,no,cellular,2
+CUST_04798,48,F,2,Graduate,Married,CA,no,no,no,unknown,2
+CUST_04802,54,F,1,High School,Married,NY,no,no,no,unknown,5
+CUST_04803,45,M,3,Post-Graduate,Married,TX,no,yes,no,cellular,5
+CUST_04804,38,F,1,Post-Graduate,Single,NY,no,no,yes,cellular,5
+CUST_04808,51,M,3,Doctorate,Married,NJ,yes,no,no,telephone,3
+CUST_04809,44,M,2,High School,Unknown,TX,yes,yes,no,cellular,3
+CUST_04813,54,F,1,Graduate,Single,CA,yes,no,no,cellular,1
+CUST_04814,41,M,4,High School,Married,CA,no,no,no,telephone,2
+CUST_04817,40,F,4,High School,Married,CA,yes,no,no,cellular,3
+CUST_04818,54,M,1,Uneducated,Single,TX,yes,no,no,cellular,1
+CUST_04819,54,F,1,High School,Single,TX,yes,no,no,cellular,3
+CUST_04820,40,M,3,Graduate,Single,SC,no,no,no,cellular,2
+CUST_04823,45,M,3,Graduate,Married,CA,no,no,no,cellular,3
+CUST_04824,53,F,1,High School,Married,TX,no,yes,no,cellular,3
+CUST_04829,61,F,0,Unknown,Unknown,NY,yes,no,no,telephone,1
+CUST_04831,35,F,2,Graduate,Married,NY,yes,yes,no,cellular,1
+CUST_04833,38,F,3,Uneducated,Married,FL,yes,no,no,cellular,3
+CUST_04834,39,M,2,Uneducated,Married,FL,yes,yes,yes,cellular,3
+CUST_04837,37,M,3,High School,Single,CA,no,no,no,cellular,3
+CUST_04843,37,F,2,Uneducated,Single,CA,yes,yes,no,cellular,3
+CUST_04844,38,F,2,Unknown,Married,TX,no,no,no,cellular,1
+CUST_04846,31,F,0,Graduate,Married,CA,yes,yes,no,unknown,2
+CUST_04848,44,F,1,Unknown,Married,FL,no,no,no,cellular,1
+CUST_04852,65,F,0,Graduate,Single,CA,yes,yes,no,cellular,1
+CUST_04861,33,F,3,Graduate,Single,FL,no,yes,no,cellular,1
+CUST_04865,45,M,3,Unknown,Single,CA,no,no,yes,cellular,3
+CUST_04868,57,F,3,High School,Single,NY,yes,yes,yes,cellular,3
+CUST_04869,50,M,1,Doctorate,Single,CA,yes,no,no,cellular,2
+CUST_04873,40,M,3,Graduate,Single,CA,yes,yes,no,cellular,1
+CUST_04878,49,F,2,Unknown,Married,CA,no,no,no,cellular,1
+CUST_04881,49,F,3,Uneducated,Married,TX,no,yes,yes,cellular,1
+CUST_04884,49,F,2,Post-Graduate,Single,CA,no,no,no,unknown,3
+CUST_04885,28,M,0,Uneducated,Single,FL,yes,no,no,unknown,2
+CUST_04886,57,F,3,Graduate,Unknown,FL,no,yes,no,telephone,2
+CUST_04890,40,M,3,High School,Unknown,CA,yes,yes,no,cellular,2
+CUST_04891,55,M,2,Unknown,Single,CA,no,yes,no,cellular,1
+CUST_04895,48,M,1,Unknown,Married,CA,no,yes,no,cellular,3
+CUST_04900,42,M,2,Graduate,Single,FL,yes,yes,yes,cellular,2
+CUST_04901,44,F,3,Unknown,Single,CA,yes,no,no,cellular,3
+CUST_04903,50,F,2,High School,Married,CA,no,yes,no,cellular,1
+CUST_04904,46,F,3,Graduate,Unknown,CA,yes,yes,no,unknown,3
+CUST_04907,55,M,2,High School,Single,TX,no,yes,no,unknown,3
+CUST_04908,42,F,4,Graduate,Married,FL,no,no,no,cellular,3
+CUST_04909,38,M,1,Uneducated,Unknown,TX,no,yes,no,unknown,1
+CUST_04915,54,M,2,Graduate,Married,FL,yes,no,yes,cellular,3
+CUST_04919,40,M,3,Uneducated,Married,NJ,no,no,no,cellular,3
+CUST_04923,28,F,0,Unknown,Single,CA,no,yes,no,cellular,3
+CUST_04925,47,F,4,High School,Married,CA,no,no,no,unknown,3
+CUST_04930,46,M,3,High School,Single,MO,no,no,no,cellular,1
+CUST_04933,43,F,5,Graduate,Single,CA,no,yes,no,cellular,3
+CUST_04935,38,M,3,Graduate,Single,FL,yes,no,no,cellular,1
+CUST_04937,59,F,2,High School,Married,CA,no,yes,no,cellular,3
+CUST_04950,49,F,2,High School,Married,NY,no,yes,no,unknown,3
+CUST_04951,51,F,2,Graduate,Single,CA,no,no,yes,cellular,3
+CUST_04953,37,M,3,Graduate,Single,FL,yes,no,no,cellular,3
+CUST_04956,42,M,4,Graduate,Married,NJ,yes,no,no,unknown,3
+CUST_04962,40,F,3,Graduate,Married,CA,no,no,no,cellular,1
+CUST_04964,62,F,0,Graduate,Married,FL,no,yes,no,telephone,3
+CUST_04966,40,M,3,Graduate,Single,NY,no,yes,no,unknown,1
+CUST_04978,40,F,3,Unknown,Married,FL,yes,yes,no,cellular,3
+CUST_04982,49,F,4,High School,Married,CA,yes,yes,no,cellular,3
+CUST_04986,56,M,1,Graduate,Single,FL,yes,yes,no,cellular,3
+CUST_04996,48,M,5,Graduate,Married,CA,yes,no,no,cellular,1
+CUST_05000,46,F,2,Graduate,Single,NY,yes,yes,no,unknown,1
+CUST_05004,39,F,3,Graduate,Married,TX,no,yes,no,telephone,3
+CUST_05008,31,M,0,Graduate,Married,TX,yes,no,no,unknown,1
+CUST_05013,39,M,2,High School,Unknown,CA,yes,no,no,cellular,3
+CUST_05014,46,F,1,Uneducated,Single,CA,no,no,no,cellular,1
+CUST_05015,56,F,0,Graduate,Single,FL,no,yes,no,cellular,3
+CUST_05021,59,M,0,Graduate,Single,NY,yes,yes,no,cellular,3
+CUST_05023,51,F,2,Graduate,Married,TX,no,yes,no,unknown,2
+CUST_05024,44,M,3,Graduate,Married,FL,no,no,no,cellular,2
+CUST_05027,47,F,4,Post-Graduate,Single,CA,no,yes,no,cellular,2
+CUST_05028,50,F,4,High School,Married,CA,no,yes,no,cellular,3
+CUST_05031,56,F,4,Post-Graduate,Unknown,CA,no,yes,no,unknown,1
+CUST_05033,46,F,5,Graduate,Married,CA,no,yes,no,cellular,3
+CUST_05034,44,M,3,Graduate,Married,SC,yes,yes,no,cellular,3
+CUST_05035,39,F,1,High School,Single,NJ,yes,no,no,cellular,3
+CUST_05047,55,M,4,High School,Single,CA,no,yes,no,cellular,2
+CUST_05050,47,F,4,Post-Graduate,Unknown,TX,yes,yes,yes,unknown,3
+CUST_05051,44,M,4,Unknown,Married,AK,yes,yes,yes,cellular,1
+CUST_05061,40,F,4,Graduate,Single,NJ,yes,yes,no,cellular,3
+CUST_05065,45,F,3,High School,Married,CA,yes,no,no,cellular,2
+CUST_05066,41,F,5,Graduate,Married,CA,yes,yes,yes,cellular,1
+CUST_05072,50,F,5,Graduate,Married,TX,yes,yes,no,cellular,1
+CUST_05073,35,F,1,Graduate,Married,CA,yes,no,no,telephone,3
+CUST_05077,53,F,3,Uneducated,Single,CA,yes,no,no,cellular,3
+CUST_05082,35,M,3,Graduate,Married,CA,yes,no,no,unknown,3
+CUST_05083,41,F,5,High School,Single,CA,no,no,no,cellular,3
+CUST_05091,43,F,4,Unknown,Married,TX,yes,yes,yes,cellular,3
+CUST_05093,49,M,2,Unknown,Married,CA,yes,no,no,cellular,3
+CUST_05095,54,F,2,Graduate,Married,NY,yes,yes,no,unknown,2
+CUST_05112,55,M,3,Graduate,Married,CA,no,yes,no,cellular,3
+CUST_05115,45,F,4,High School,Single,NY,no,no,yes,cellular,1
+CUST_05118,50,F,3,Graduate,Married,TX,yes,no,yes,cellular,1
+CUST_05119,58,F,2,Uneducated,Married,NY,no,no,no,cellular,3
+CUST_05121,50,F,3,Graduate,Married,CA,no,no,no,unknown,3
+CUST_05122,53,M,4,Graduate,Married,NY,no,no,no,cellular,3
+CUST_05124,34,F,1,Uneducated,Married,FL,yes,yes,no,cellular,3
+CUST_05130,42,F,4,Graduate,Married,NY,yes,yes,no,cellular,3
+CUST_05131,33,M,1,Uneducated,Married,FL,no,yes,no,telephone,1
+CUST_05138,52,F,2,Unknown,Single,TX,yes,no,yes,cellular,3
+CUST_05139,46,F,3,Graduate,Single,NJ,yes,no,yes,unknown,5
+CUST_05144,48,M,5,Uneducated,Single,CA,no,no,no,cellular,2
+CUST_05146,46,F,2,High School,Single,NY,yes,no,no,unknown,5
+CUST_05152,36,M,3,Graduate,Married,CA,no,no,no,cellular,3
+CUST_05160,56,F,1,Uneducated,Unknown,FL,no,no,no,cellular,5
+CUST_05169,47,F,3,Unknown,Unknown,CA,no,yes,no,cellular,3
+CUST_05170,47,F,2,High School,Single,NY,yes,no,no,unknown,3
+CUST_05172,59,F,0,Unknown,Single,TX,no,yes,no,unknown,3
+CUST_05181,42,M,4,Unknown,Married,FL,no,no,no,cellular,3
+CUST_05182,27,F,0,High School,Single,CA,no,no,no,unknown,5
+CUST_05184,33,M,3,High School,Married,IA,yes,yes,no,cellular,3
+CUST_05194,62,F,1,High School,Married,NJ,yes,no,no,cellular,3
+CUST_05200,65,F,2,High School,Married,NJ,yes,yes,no,cellular,3
+CUST_05203,50,F,3,High School,Single,IL,no,no,yes,cellular,2
+CUST_05205,41,F,3,High School,Single,TX,yes,no,no,unknown,3
+CUST_05207,50,F,2,Graduate,Married,CA,yes,yes,no,cellular,3
+CUST_05212,44,F,3,Graduate,Single,NY,yes,no,no,cellular,3
+CUST_05217,52,M,2,Graduate,Married,FL,yes,no,no,cellular,3
+CUST_05218,42,F,5,Unknown,Married,TX,yes,yes,no,unknown,5
+CUST_05219,43,F,3,High School,Married,NY,no,no,yes,cellular,3
+CUST_05222,46,F,4,High School,Unknown,TX,yes,yes,no,cellular,5
+CUST_05227,31,M,0,Graduate,Married,NY,no,no,no,cellular,2
+CUST_05228,34,F,1,Doctorate,Married,NJ,no,no,no,cellular,3
+CUST_05229,44,M,4,Unknown,Married,CT,no,no,no,cellular,2
+CUST_05230,49,M,5,Post-Graduate,Single,NV,yes,yes,no,cellular,3
+CUST_05240,30,F,0,Uneducated,Married,TX,no,yes,no,cellular,3
+CUST_05246,44,F,3,Unknown,Married,NY,no,yes,no,cellular,3
+CUST_05258,55,F,3,High School,Married,CA,no,yes,no,telephone,3
+CUST_05260,53,F,1,Unknown,Single,FL,no,yes,no,unknown,2
+CUST_05265,45,F,3,Uneducated,Single,FL,no,yes,no,cellular,3
+CUST_05266,50,F,1,High School,Married,FL,no,no,no,cellular,4
+CUST_05267,46,M,3,Unknown,Married,TX,no,no,no,unknown,4
+CUST_05268,52,F,3,Graduate,Single,FL,yes,no,no,cellular,4
+CUST_05270,65,M,1,Doctorate,Single,FL,yes,no,no,cellular,4
+CUST_05271,57,F,3,Doctorate,Single,NY,no,no,no,unknown,5
+CUST_05272,50,F,4,Doctorate,Single,MO,yes,no,no,cellular,3
+CUST_05273,53,F,2,Unknown,Married,TX,yes,yes,no,cellular,4
+CUST_05275,49,F,3,Graduate,Unknown,CA,no,yes,no,cellular,4
+CUST_05279,41,F,4,High School,Single,HI,yes,no,no,unknown,3
+CUST_05282,47,M,5,Graduate,Single,CA,no,yes,no,cellular,3
+CUST_05287,50,F,3,Unknown,Married,NJ,yes,no,no,unknown,4
+CUST_05291,52,F,2,Graduate,Married,TX,yes,no,no,cellular,4
+CUST_05293,43,F,2,Post-Graduate,Married,NJ,no,no,no,unknown,4
+CUST_05295,51,F,3,High School,Married,CA,yes,yes,no,unknown,4
+CUST_05297,53,M,3,Uneducated,Married,FL,no,yes,yes,cellular,4
+CUST_05299,51,M,0,Uneducated,Single,CA,no,no,no,cellular,4
+CUST_05305,50,F,2,Graduate,Married,TX,no,yes,no,cellular,5
+CUST_05309,38,F,2,Graduate,Married,CA,no,yes,no,cellular,5
+CUST_05314,31,F,1,Unknown,Single,TX,no,yes,no,unknown,5
+CUST_05315,46,M,2,Uneducated,Unknown,FL,yes,yes,no,cellular,3
+CUST_05322,49,F,4,High School,Married,CA,no,no,no,cellular,5
+CUST_05324,46,F,4,Post-Graduate,Single,TX,no,no,yes,cellular,4
+CUST_05327,41,M,3,High School,Single,TX,no,yes,no,cellular,3
+CUST_05329,51,M,2,Uneducated,Single,NJ,yes,no,no,cellular,4
+CUST_05338,50,F,2,High School,Single,TX,no,no,no,unknown,4
+CUST_05339,59,M,1,Graduate,Single,FL,no,yes,no,cellular,4
+CUST_05341,65,F,1,Unknown,Single,CA,no,yes,no,unknown,4
+CUST_05350,39,F,2,Graduate,Married,TX,no,no,no,cellular,3
+CUST_05351,44,M,2,Graduate,Unknown,NV,no,no,no,cellular,5
+CUST_05352,47,F,2,Graduate,Single,IA,no,yes,yes,cellular,4
+CUST_05355,51,M,4,Graduate,Single,NY,no,yes,no,cellular,3
+CUST_05359,55,M,3,Unknown,Married,NY,no,yes,no,cellular,5
+CUST_05360,37,M,1,Graduate,Single,FL,no,yes,no,cellular,3
+CUST_05363,55,M,3,High School,Single,TX,no,no,no,cellular,5
+CUST_05364,52,F,0,Graduate,Unknown,NY,no,no,no,cellular,5
+CUST_05365,51,F,0,High School,Married,CA,no,no,no,cellular,5
+CUST_05369,50,F,4,Graduate,Married,NY,no,no,no,unknown,4
+CUST_05372,56,M,0,Graduate,Married,NJ,no,no,no,cellular,5
+CUST_05373,37,M,3,Graduate,Married,FL,no,yes,no,cellular,5
+CUST_05376,65,F,0,High School,Single,CA,yes,no,no,cellular,3
+CUST_05377,54,F,0,Graduate,Married,CA,no,no,no,cellular,3
+CUST_05378,40,F,4,Uneducated,Single,CA,no,no,no,cellular,5
+CUST_05385,44,F,2,Graduate,Married,NJ,no,yes,no,cellular,3
+CUST_05387,54,F,4,Graduate,Single,TX,no,no,no,unknown,5
+CUST_05390,39,M,2,Uneducated,Single,TX,no,yes,yes,cellular,4
+CUST_05392,47,M,1,Graduate,Married,NY,no,no,no,cellular,5
+CUST_05396,40,M,2,Unknown,Single,NY,yes,yes,no,unknown,3
+CUST_05397,67,F,1,Graduate,Married,TX,yes,yes,no,unknown,3
+CUST_05399,49,M,2,Uneducated,Married,TX,yes,yes,yes,cellular,4
+CUST_05400,62,F,0,Graduate,Single,CA,yes,yes,no,cellular,5
+CUST_05406,46,F,3,Graduate,Single,NJ,yes,yes,yes,unknown,4
+CUST_05412,50,F,0,Graduate,Single,TX,yes,no,no,unknown,4
+CUST_05413,40,F,4,Doctorate,Married,TX,yes,yes,no,cellular,4
+CUST_05415,52,F,2,High School,Single,TX,no,no,no,cellular,4
+CUST_05418,50,M,2,Uneducated,Unknown,NY,no,no,no,unknown,3
+CUST_05419,56,M,1,High School,Married,FL,yes,yes,yes,unknown,4
+CUST_05420,30,M,0,Unknown,Single,NY,yes,no,no,cellular,4
+CUST_05423,41,F,1,Doctorate,Married,TX,yes,no,no,cellular,4
+CUST_05428,44,M,2,Unknown,Unknown,FL,no,no,no,cellular,4
+CUST_05432,43,F,2,Graduate,Single,TX,yes,no,no,cellular,4
+CUST_05442,31,M,2,Unknown,Single,NJ,no,no,no,unknown,4
+CUST_05447,47,F,2,High School,Married,TX,yes,yes,no,cellular,3
+CUST_05448,35,M,1,Unknown,Single,CA,no,yes,no,cellular,4
+CUST_05454,49,F,2,Uneducated,Single,CA,no,yes,no,cellular,3
+CUST_05457,52,F,2,Unknown,Single,TX,no,yes,no,cellular,4
+CUST_05462,50,F,1,Graduate,Single,TX,no,yes,no,cellular,5
+CUST_05465,58,M,3,Unknown,Married,CA,no,yes,no,cellular,4
+CUST_05466,42,F,5,Graduate,Single,CA,yes,yes,no,cellular,5
+CUST_05472,49,M,2,Graduate,Married,NJ,yes,no,no,unknown,4
+CUST_05475,53,F,1,Graduate,Married,WA,no,yes,yes,telephone,4
+CUST_05478,54,M,1,Unknown,Married,NY,no,yes,no,unknown,5
+CUST_05482,48,F,4,High School,Married,NY,yes,yes,no,cellular,4
+CUST_05485,55,M,2,Graduate,Married,NY,yes,yes,no,telephone,4
+CUST_05493,34,M,3,High School,Single,AK,no,yes,no,cellular,5
+CUST_05497,37,F,2,High School,Single,CA,no,yes,yes,cellular,3
+CUST_05502,59,F,1,Post-Graduate,Married,NY,yes,no,yes,cellular,5
+CUST_05504,57,F,3,Graduate,Single,NY,no,yes,no,cellular,5
+CUST_05505,46,M,2,High School,Married,TX,no,yes,no,unknown,5
+CUST_05509,54,F,3,High School,Married,NY,no,no,no,cellular,5
+CUST_05516,31,F,0,Post-Graduate,Single,NY,yes,yes,no,unknown,4
+CUST_05517,44,F,3,Uneducated,Unknown,FL,no,no,no,cellular,4
+CUST_05519,41,M,3,Unknown,Single,NY,yes,yes,no,cellular,4
+CUST_05520,39,M,2,Graduate,Married,FL,yes,yes,yes,cellular,3
+CUST_05530,49,M,2,Uneducated,Married,CA,no,no,no,cellular,4
+CUST_05533,58,F,2,High School,Married,TX,yes,no,no,cellular,4
+CUST_05538,49,F,5,Graduate,Single,NJ,no,yes,no,cellular,4
+CUST_05545,48,F,2,Graduate,Married,NY,no,no,no,cellular,4
+CUST_05546,36,F,3,Graduate,Single,FL,yes,no,no,unknown,4
+CUST_05550,44,F,4,Graduate,Married,NY,yes,no,no,unknown,4
+CUST_05551,43,F,4,Unknown,Single,NY,no,no,no,cellular,4
+CUST_05552,52,M,3,High School,Married,TX,yes,yes,yes,cellular,4
+CUST_05555,38,M,2,High School,Married,FL,yes,no,no,cellular,4
+CUST_05557,47,F,2,Graduate,Married,CA,no,yes,no,cellular,3
+CUST_05560,50,F,1,Uneducated,Married,FL,no,no,no,cellular,4
+CUST_05562,50,F,3,Unknown,Single,NY,yes,yes,no,cellular,3
+CUST_05567,34,F,3,Graduate,Married,CA,yes,yes,yes,cellular,4
+CUST_05573,51,F,1,Unknown,Married,NY,no,yes,no,cellular,4
+CUST_05578,51,M,2,Graduate,Married,CA,no,no,no,unknown,3
+CUST_05582,51,M,3,Uneducated,Unknown,WA,yes,yes,no,cellular,3
+CUST_05584,48,M,5,Unknown,Married,NY,no,yes,no,cellular,5
+CUST_05585,51,M,3,High School,Married,TX,no,no,no,telephone,4
+CUST_05594,26,M,0,Graduate,Single,NY,yes,yes,no,cellular,3
+CUST_05596,61,M,0,High School,Single,FL,yes,no,no,unknown,3
+CUST_05606,41,F,4,Uneducated,Single,TX,no,no,no,cellular,3
+CUST_05607,33,F,2,Doctorate,Married,CA,no,yes,no,cellular,3
+CUST_05616,49,F,3,Post-Graduate,Single,CA,yes,yes,no,cellular,5
+CUST_05617,29,F,1,Uneducated,Married,CA,yes,yes,no,unknown,5
+CUST_05618,43,M,4,Unknown,Married,FL,no,no,no,cellular,4
+CUST_05621,53,M,1,High School,Married,NE,no,yes,no,cellular,5
+CUST_05628,49,M,3,Graduate,Married,CA,no,yes,yes,unknown,3
+CUST_05633,35,F,0,High School,Single,NY,no,no,no,cellular,5
+CUST_05636,52,M,3,Uneducated,Married,CA,yes,no,no,cellular,4
+CUST_05637,56,F,2,Graduate,Married,NY,yes,no,no,cellular,4
+CUST_05640,65,F,0,High School,Married,NJ,yes,no,no,cellular,5
+CUST_05641,45,F,4,Graduate,Unknown,TX,no,no,yes,cellular,4
+CUST_05642,49,F,4,Unknown,Married,NJ,no,no,no,unknown,4
+CUST_05643,36,F,2,Graduate,Unknown,CA,no,no,no,cellular,5
+CUST_05649,37,F,4,Graduate,Single,NY,yes,no,no,cellular,3
+CUST_05653,51,M,3,Graduate,Married,IL,no,yes,no,cellular,4
+CUST_05655,48,M,3,Graduate,Married,FL,no,no,no,cellular,3
+CUST_05664,56,F,1,High School,Married,TX,yes,yes,no,unknown,4
+CUST_05665,64,F,1,High School,Single,CA,no,yes,no,cellular,4
+CUST_05666,51,F,3,Uneducated,Married,CA,no,yes,no,cellular,4
+CUST_05667,62,M,1,Unknown,Single,TX,yes,yes,no,cellular,4
+CUST_05670,45,F,3,High School,Married,NY,yes,no,no,cellular,5
+CUST_05675,34,F,2,Graduate,Married,CA,no,no,no,unknown,3
+CUST_05677,53,F,1,Post-Graduate,Single,CA,no,no,no,cellular,3
+CUST_05681,51,M,3,Graduate,Single,TX,yes,no,no,cellular,4
+CUST_05682,49,M,2,Graduate,Married,FL,yes,yes,no,cellular,3
+CUST_05688,42,F,3,Unknown,Single,NY,no,no,no,cellular,4
+CUST_05689,44,M,4,Unknown,Single,TX,yes,no,no,cellular,3
+CUST_05696,36,M,0,Graduate,Married,NY,no,no,no,cellular,5
+CUST_05697,48,M,3,Graduate,Married,TX,no,yes,no,unknown,4
+CUST_05699,37,F,1,Unknown,Single,FL,no,yes,yes,cellular,4
+CUST_05708,51,M,4,Graduate,Married,NY,no,yes,no,cellular,4
+CUST_05709,31,F,0,Graduate,Single,NY,yes,no,no,cellular,4
+CUST_05710,59,M,1,Unknown,Single,CA,no,yes,no,cellular,3
+CUST_05711,47,M,5,High School,Single,TX,no,yes,no,cellular,4
+CUST_05715,34,F,3,Unknown,Married,CA,yes,yes,no,cellular,4
+CUST_05719,52,F,2,Uneducated,Married,NJ,yes,no,no,cellular,4
+CUST_05720,56,F,2,High School,Single,TX,no,yes,no,cellular,4
+CUST_05728,44,M,3,Graduate,Single,TX,no,yes,no,cellular,3
+CUST_05729,43,M,4,Graduate,Married,TX,yes,yes,no,cellular,5
+CUST_05730,42,F,2,Unknown,Single,TX,yes,no,no,cellular,5
+CUST_05737,52,F,4,Uneducated,Single,TX,no,yes,no,telephone,5
+CUST_05742,58,F,4,Graduate,Single,NM,no,yes,no,unknown,4
+CUST_05750,48,M,3,Graduate,Married,IL,no,no,no,unknown,4
+CUST_05757,61,M,0,Graduate,Single,TX,no,no,no,telephone,5
+CUST_05762,46,M,4,Graduate,Single,FL,no,no,no,unknown,5
+CUST_05763,38,F,3,High School,Single,TX,no,yes,no,cellular,4
+CUST_05764,56,F,2,Uneducated,Married,TX,no,yes,no,cellular,5
+CUST_05765,36,M,3,Graduate,Married,NJ,no,no,no,unknown,5
+CUST_05767,47,F,2,High School,Single,FL,no,no,no,cellular,5
+CUST_05768,54,F,0,Graduate,Married,FL,no,yes,no,cellular,5
+CUST_05770,41,F,3,Graduate,Single,CA,no,yes,no,cellular,5
+CUST_05771,45,F,2,Graduate,Married,TX,yes,yes,no,cellular,5
+CUST_05776,46,F,2,Graduate,Married,NJ,yes,no,no,cellular,5
+CUST_05781,53,F,3,Graduate,Single,FL,yes,no,no,unknown,5
+CUST_05786,57,M,2,High School,Single,FL,yes,no,no,cellular,4
+CUST_05787,57,F,5,Graduate,Married,CA,no,yes,no,cellular,5
+CUST_05791,43,F,2,High School,Married,CA,yes,no,no,unknown,5
+CUST_05793,52,M,2,Unknown,Married,FL,no,no,no,cellular,4
+CUST_05796,54,F,1,Uneducated,Married,TX,no,yes,no,cellular,4
+CUST_05804,55,F,2,Graduate,Single,NY,no,yes,no,telephone,4
+CUST_05810,49,F,1,Unknown,Married,TX,yes,no,no,cellular,5
+CUST_05815,52,F,1,Graduate,Unknown,TX,no,yes,no,cellular,3
+CUST_05817,52,F,0,Doctorate,Married,FL,no,yes,no,telephone,4
+CUST_05818,47,M,4,High School,Single,CA,yes,no,no,cellular,5
+CUST_05820,60,F,1,Graduate,Single,MA,yes,no,no,cellular,3
+CUST_05821,57,F,0,High School,Married,AK,yes,no,no,cellular,4
+CUST_05822,26,M,1,Graduate,Single,NY,yes,yes,no,cellular,4
+CUST_05823,44,F,3,Graduate,Married,TX,yes,no,no,cellular,4
+CUST_05825,34,M,4,Graduate,Single,CA,no,no,no,unknown,4
+CUST_05826,43,M,3,Uneducated,Unknown,NY,yes,no,no,cellular,3
+CUST_05829,39,M,1,Post-Graduate,Single,MI,yes,no,no,cellular,5
+CUST_05830,39,M,2,Post-Graduate,Married,CA,no,no,no,telephone,5
+CUST_05832,44,M,2,Graduate,Married,NY,no,yes,no,cellular,4
+CUST_05835,39,F,1,Uneducated,Single,NJ,no,no,no,cellular,4
+CUST_05837,49,F,3,Post-Graduate,Married,NJ,no,no,no,cellular,5
+CUST_05838,44,M,4,Graduate,Married,NY,no,yes,no,cellular,5
+CUST_05842,52,F,2,Graduate,Single,NY,yes,yes,no,cellular,4
+CUST_05850,50,F,1,High School,Married,TX,no,no,no,cellular,4
+CUST_05853,38,F,3,Graduate,Single,FL,no,no,no,cellular,4
+CUST_05857,45,F,2,Unknown,Married,NY,yes,yes,no,cellular,3
+CUST_05861,40,F,3,Graduate,Single,NY,yes,no,no,cellular,5
+CUST_05862,46,M,1,High School,Single,MI,yes,no,no,cellular,4
+CUST_05863,46,M,4,High School,Married,FL,yes,no,no,cellular,4
+CUST_05876,49,F,4,High School,Single,CA,no,yes,no,cellular,3
+CUST_05895,57,F,3,Unknown,Single,NY,no,no,no,cellular,3
+CUST_05899,62,F,2,Doctorate,Single,TX,yes,no,no,cellular,4
+CUST_05900,46,M,3,Uneducated,Married,TX,yes,yes,no,cellular,4
+CUST_05901,52,F,2,Graduate,Married,CA,yes,yes,no,cellular,4
+CUST_05903,59,F,0,Graduate,Single,TX,no,yes,no,unknown,4
+CUST_05906,45,F,3,Unknown,Married,UT,no,no,no,cellular,3
+CUST_05909,40,F,3,Uneducated,Married,NY,no,yes,no,unknown,5
+CUST_05910,43,M,3,Uneducated,Single,NY,no,no,no,cellular,3
+CUST_05913,58,M,2,Unknown,Married,CA,no,no,no,cellular,5
+CUST_05915,35,F,4,Graduate,Single,CA,yes,no,no,unknown,5
+CUST_05919,63,M,0,High School,Married,NJ,no,no,no,cellular,5
+CUST_05921,56,F,2,Graduate,Single,TX,no,yes,no,cellular,3
+CUST_05922,64,F,0,Graduate,Single,NJ,yes,yes,no,cellular,4
+CUST_05925,55,M,2,Uneducated,Married,NJ,no,yes,no,cellular,4
+CUST_05928,54,M,1,Graduate,Married,CA,yes,no,no,cellular,4
+CUST_05932,52,F,2,Graduate,Married,CA,no,yes,no,cellular,3
+CUST_05937,40,M,3,High School,Married,TX,no,no,no,cellular,4
+CUST_05938,40,F,3,Uneducated,Married,CA,yes,yes,no,cellular,3
+CUST_05939,39,F,2,Unknown,Single,NY,yes,no,no,cellular,5
+CUST_05941,57,M,2,Graduate,Married,NJ,no,no,no,cellular,4
+CUST_05945,51,F,1,Post-Graduate,Married,TX,yes,no,no,unknown,5
+CUST_05946,54,F,3,Unknown,Single,CA,no,yes,no,unknown,5
+CUST_05954,33,M,2,Graduate,Married,FL,no,yes,no,cellular,5
+CUST_05956,58,F,2,Uneducated,Single,NJ,no,yes,no,cellular,5
+CUST_05958,49,M,2,Uneducated,Married,TX,no,yes,yes,unknown,5
+CUST_05964,35,F,2,High School,Married,TX,no,yes,no,cellular,4
+CUST_05965,48,M,2,Graduate,Married,NY,no,yes,no,cellular,5
+CUST_05966,27,F,0,Graduate,Single,CA,yes,yes,no,unknown,4
+CUST_05969,49,F,3,Unknown,Married,TX,yes,no,no,cellular,5
+CUST_05973,60,M,0,Graduate,Single,TX,no,yes,no,unknown,4
+CUST_05980,49,F,3,Graduate,Single,FL,yes,no,no,unknown,3
+CUST_05981,51,M,1,High School,Married,TX,no,yes,no,cellular,3
+CUST_05982,40,M,3,Graduate,Married,CA,yes,no,no,cellular,4
+CUST_05983,54,M,1,Unknown,Single,TX,yes,yes,yes,cellular,5
+CUST_05984,53,M,3,High School,Married,NJ,no,no,no,cellular,3
+CUST_05991,44,M,3,High School,Single,TX,yes,yes,no,cellular,4
+CUST_05994,51,F,2,High School,Single,CA,no,yes,no,telephone,4
+CUST_06009,28,F,0,Unknown,Single,CA,no,yes,no,cellular,4
+CUST_06011,43,F,2,High School,Married,MI,yes,yes,no,cellular,4
+CUST_06014,42,F,2,Uneducated,Married,TX,no,no,no,cellular,4
+CUST_06019,44,F,5,Graduate,Married,NY,yes,yes,no,cellular,4
+CUST_06023,51,M,3,Graduate,Married,TX,no,yes,no,cellular,3
+CUST_06030,52,M,2,Graduate,Married,NY,no,yes,no,cellular,5
+CUST_06038,44,M,4,Graduate,Single,NY,no,no,no,cellular,5
+CUST_06044,40,F,3,Graduate,Unknown,CA,no,no,no,cellular,4
+CUST_06046,40,F,3,Graduate,Single,CA,no,yes,no,cellular,4
+CUST_06052,65,F,0,Uneducated,Single,NY,no,no,no,cellular,5
+CUST_06058,46,F,2,Graduate,Single,TX,yes,no,yes,cellular,5
+CUST_06059,52,F,3,Uneducated,Married,CA,no,no,yes,cellular,4
+CUST_06061,39,F,2,Unknown,Married,CA,no,yes,yes,telephone,4
+CUST_06062,51,M,4,Uneducated,Single,CA,yes,yes,no,cellular,3
+CUST_06063,54,M,3,Graduate,Single,HI,no,no,no,telephone,4
+CUST_06066,58,F,2,High School,Married,NY,no,yes,no,cellular,3
+CUST_06068,48,F,3,Doctorate,Single,NY,no,no,no,unknown,5
+CUST_06072,36,M,2,Graduate,Married,FL,no,yes,no,cellular,5
+CUST_06073,40,F,4,High School,Married,NY,yes,no,no,cellular,3
+CUST_06074,35,F,0,Unknown,Married,CA,no,no,no,cellular,5
+CUST_06077,46,F,4,Graduate,Single,TX,no,yes,no,telephone,3
+CUST_06078,53,F,2,Graduate,Married,CA,yes,no,yes,cellular,5
+CUST_06081,49,F,2,Uneducated,Single,CA,no,yes,no,cellular,4
+CUST_06082,51,M,2,High School,Single,NY,yes,no,no,cellular,5
+CUST_06084,47,F,4,Uneducated,Single,FL,yes,no,no,cellular,5
+CUST_06085,45,M,4,Graduate,Single,NV,yes,yes,no,cellular,5
+CUST_06089,50,F,2,Unknown,Single,CA,yes,no,no,cellular,3
+CUST_06093,32,M,3,Graduate,Married,FL,no,yes,no,unknown,5
+CUST_06097,50,M,1,Graduate,Single,TX,no,yes,no,cellular,3
+CUST_06099,55,F,0,Graduate,Married,NY,yes,no,no,cellular,3
+CUST_06102,40,F,2,Graduate,Single,NJ,yes,no,no,unknown,4
+CUST_06104,40,M,2,Graduate,Single,NY,yes,yes,no,cellular,4
+CUST_06106,52,F,1,Post-Graduate,Single,IA,yes,yes,no,unknown,3
+CUST_06110,32,M,3,Graduate,Married,NY,no,no,no,cellular,3
+CUST_06114,36,M,3,High School,Single,NY,no,no,no,cellular,3
+CUST_06127,26,F,1,Graduate,Single,CA,yes,yes,no,cellular,4
+CUST_06129,26,F,2,High School,Single,NY,no,no,no,unknown,4
+CUST_06130,59,F,0,Graduate,Married,CA,no,yes,no,cellular,4
+CUST_06131,47,F,3,Graduate,Married,CA,yes,yes,no,cellular,4
+CUST_06136,42,M,4,High School,Unknown,FL,no,no,no,cellular,3
+CUST_06138,48,F,2,Graduate,Married,NY,yes,yes,no,cellular,4
+CUST_06146,40,M,2,Graduate,Married,TX,no,yes,no,cellular,4
+CUST_06150,40,F,4,Unknown,Married,TX,yes,no,no,cellular,3
+CUST_06152,56,M,3,Graduate,Married,TX,no,yes,no,cellular,5
+CUST_06157,49,M,2,Uneducated,Married,NY,no,yes,no,cellular,5
+CUST_06158,60,F,2,High School,Married,NJ,yes,no,no,unknown,4
+CUST_06160,40,F,2,Graduate,Unknown,NY,yes,yes,no,unknown,3
+CUST_06161,40,F,2,High School,Single,CA,no,no,no,unknown,5
+CUST_06162,37,M,3,Uneducated,Unknown,TX,yes,no,no,cellular,3
+CUST_06163,34,F,1,High School,Single,CA,no,no,no,cellular,4
+CUST_06164,52,F,1,High School,Married,TX,no,yes,yes,cellular,4
+CUST_06168,44,M,2,Uneducated,Married,CA,no,yes,no,cellular,5
+CUST_06171,36,F,1,High School,Single,NJ,no,no,no,cellular,5
+CUST_06176,44,F,2,Graduate,Unknown,NV,no,yes,no,cellular,4
+CUST_06179,38,M,1,Unknown,Married,TX,yes,yes,no,cellular,4
+CUST_06180,53,F,2,High School,Single,TX,no,yes,yes,unknown,5
+CUST_06181,51,F,2,Unknown,Single,NY,no,no,no,cellular,5
+CUST_06189,29,F,1,Uneducated,Single,CA,no,no,no,unknown,3
+CUST_06192,47,F,1,Uneducated,Married,NY,yes,yes,yes,cellular,4
+CUST_06193,39,F,2,High School,Married,NJ,yes,yes,no,cellular,4
+CUST_06203,36,F,2,High School,Single,NJ,no,no,no,unknown,3
+CUST_06204,57,M,2,Post-Graduate,Married,CA,no,no,yes,cellular,5
+CUST_06205,47,F,3,Graduate,Unknown,NY,yes,yes,no,unknown,4
+CUST_06210,39,M,4,Post-Graduate,Single,CA,yes,no,no,cellular,4
+CUST_06216,40,M,2,Uneducated,Married,TX,no,yes,no,cellular,5
+CUST_06217,47,M,3,High School,Single,CA,no,yes,no,cellular,3
+CUST_06221,46,M,2,Unknown,Single,CA,yes,no,no,cellular,5
+CUST_06225,45,F,4,Graduate,Married,TX,yes,yes,no,cellular,5
+CUST_06226,35,M,0,Unknown,Single,CA,yes,no,no,cellular,4
+CUST_06235,51,F,0,High School,Married,IA,yes,no,no,unknown,5
+CUST_06246,50,F,1,Uneducated,Single,CA,no,yes,no,cellular,5
+CUST_06248,43,M,3,Graduate,Unknown,FL,no,yes,no,cellular,4
+CUST_06249,41,F,3,Graduate,Married,TX,yes,yes,yes,cellular,5
+CUST_06250,47,M,2,Graduate,Married,NY,no,no,no,cellular,5
+CUST_06253,46,M,2,Graduate,Single,TX,yes,yes,no,cellular,4
+CUST_06254,57,M,2,Unknown,Married,TX,yes,yes,no,cellular,4
+CUST_06256,41,F,5,High School,Married,NY,no,yes,no,cellular,5
+CUST_06262,35,F,3,Graduate,Single,TX,no,yes,no,unknown,4
+CUST_06264,39,F,3,High School,Married,FL,no,no,yes,cellular,4
+CUST_06265,41,M,3,High School,Married,TX,no,no,no,cellular,5
+CUST_06274,49,F,2,Unknown,Single,NY,no,yes,no,cellular,4
+CUST_06276,44,F,3,Graduate,Married,CA,no,yes,no,telephone,3
+CUST_06283,34,F,2,Unknown,Single,NJ,yes,no,no,unknown,4
+CUST_06292,34,F,3,Graduate,Single,TX,no,yes,no,unknown,5
+CUST_06293,48,M,3,Unknown,Single,TX,yes,yes,no,cellular,4
+CUST_06301,40,F,5,Unknown,Single,CA,no,no,no,cellular,5
+CUST_06311,54,F,1,Graduate,Married,CA,no,yes,no,unknown,4
+CUST_06312,49,M,3,Graduate,Married,NY,no,no,no,cellular,4
+CUST_06322,54,M,2,Unknown,Married,CA,no,yes,no,cellular,4
+CUST_06323,40,F,3,Uneducated,Single,CA,no,yes,no,cellular,4
+CUST_06324,57,F,1,Unknown,Married,NY,yes,no,no,unknown,5
+CUST_06327,57,F,3,Graduate,Single,CA,no,yes,no,cellular,4
+CUST_06331,41,M,3,Graduate,Married,TX,no,no,no,unknown,4
+CUST_06333,47,M,2,Graduate,Married,NJ,yes,no,no,cellular,5
+CUST_06334,34,F,3,Post-Graduate,Single,FL,no,yes,no,unknown,5
+CUST_06335,58,F,2,High School,Single,TX,no,no,no,cellular,4
+CUST_06337,34,F,3,Graduate,Married,TX,yes,no,yes,telephone,4
+CUST_06344,49,M,0,Uneducated,Married,NY,no,yes,no,cellular,4
+CUST_06350,54,F,2,Graduate,Married,NJ,no,yes,no,cellular,4
+CUST_06352,36,M,3,High School,Married,MI,yes,yes,no,unknown,4
+CUST_06365,56,F,2,High School,Single,FL,yes,yes,no,unknown,4
+CUST_06367,42,F,1,Unknown,Single,NY,no,yes,no,cellular,3
+CUST_06370,32,F,1,Graduate,Married,NY,no,yes,no,cellular,4
+CUST_06373,60,F,0,Uneducated,Single,NY,no,no,no,cellular,4
+CUST_06374,41,F,4,Unknown,Married,TX,no,yes,no,telephone,4
+CUST_06381,48,F,4,Graduate,Married,TX,yes,yes,no,cellular,4
+CUST_06384,54,F,2,Doctorate,Married,NY,no,yes,no,unknown,4
+CUST_06387,49,M,3,Graduate,Unknown,TX,no,yes,no,cellular,5
+CUST_06388,61,M,2,High School,Single,FL,no,yes,yes,cellular,3
+CUST_06390,42,M,3,Uneducated,Married,TX,no,yes,no,cellular,5
+CUST_06391,65,F,0,Graduate,Married,NJ,yes,yes,no,unknown,4
+CUST_06394,49,F,4,High School,Married,CA,yes,yes,no,unknown,5
+CUST_06396,50,F,1,Uneducated,Married,CA,no,yes,no,unknown,4
+CUST_06411,42,M,3,High School,Married,CA,no,no,no,unknown,3
+CUST_06415,39,M,2,Graduate,Married,NJ,no,no,no,cellular,5
+CUST_06419,62,M,1,High School,Married,MN,no,no,yes,cellular,5
+CUST_06423,41,F,3,High School,Married,NY,no,no,no,cellular,3
+CUST_06425,41,F,4,Graduate,Married,FL,yes,no,no,cellular,4
+CUST_06426,57,M,1,Doctorate,Married,FL,no,yes,no,cellular,5
+CUST_06429,48,M,4,Uneducated,Single,NY,yes,no,no,cellular,3
+CUST_06432,47,M,5,Doctorate,Single,FL,no,no,no,cellular,5
+CUST_06433,26,F,0,Graduate,Unknown,CA,yes,no,no,cellular,5
+CUST_06436,42,M,3,Unknown,Single,NY,yes,yes,no,cellular,4
+CUST_06439,46,F,2,Post-Graduate,Single,CA,yes,no,no,unknown,4
+CUST_06450,42,M,2,Graduate,Single,TX,no,yes,no,cellular,4
+CUST_06454,54,M,4,Uneducated,Single,TX,no,yes,no,cellular,4
+CUST_06455,55,F,1,Graduate,Single,NY,no,no,no,cellular,4
+CUST_06456,41,F,3,Post-Graduate,Single,TX,yes,no,no,telephone,5
+CUST_06460,53,F,3,Post-Graduate,Married,TX,yes,yes,yes,cellular,4
+CUST_06461,59,F,1,Unknown,Single,NY,yes,yes,no,cellular,5
+CUST_06462,50,F,4,Unknown,Married,FL,yes,no,no,unknown,5
+CUST_06463,42,F,1,Graduate,Married,NY,no,no,no,unknown,3
+CUST_06475,46,M,2,High School,Single,TX,no,yes,yes,cellular,5
+CUST_06477,45,F,3,High School,Single,CA,yes,yes,no,unknown,4
+CUST_06479,50,F,2,Graduate,Married,FL,no,no,no,cellular,5
+CUST_06481,42,M,3,High School,Married,NY,yes,no,no,cellular,5
+CUST_06484,38,M,2,Graduate,Married,CA,yes,no,no,cellular,4
+CUST_06487,47,F,4,Graduate,Married,TX,yes,yes,no,cellular,3
+CUST_06488,57,M,2,Uneducated,Married,FL,no,no,no,cellular,4
+CUST_06492,54,F,2,High School,Single,NY,no,no,no,cellular,5
+CUST_06493,47,F,3,Post-Graduate,Married,NY,no,no,yes,cellular,4
+CUST_06496,56,F,0,High School,Married,NY,no,no,no,unknown,5
+CUST_06501,48,F,1,Unknown,Unknown,TX,no,no,no,cellular,5
+CUST_06502,51,F,1,Graduate,Single,CA,no,yes,yes,cellular,5
+CUST_06508,49,M,5,Uneducated,Unknown,TX,no,no,no,cellular,4
+CUST_06509,60,F,0,Graduate,Single,CA,no,yes,no,cellular,4
+CUST_06511,57,F,3,High School,Married,MN,no,no,yes,cellular,4
+CUST_06513,50,M,4,Graduate,Single,TX,yes,no,no,cellular,4
+CUST_06514,55,F,4,Doctorate,Single,MI,yes,no,no,telephone,3
+CUST_06517,49,F,4,Unknown,Single,CA,no,no,no,cellular,5
+CUST_06521,49,F,2,Graduate,Married,FL,yes,no,yes,unknown,3
+CUST_06523,50,M,1,Graduate,Single,NY,yes,yes,no,cellular,5
+CUST_06524,46,M,2,Unknown,Married,CA,yes,no,no,cellular,3
+CUST_06537,34,M,2,High School,Unknown,FL,no,no,yes,cellular,4
+CUST_06544,47,F,4,Graduate,Single,CA,no,yes,no,cellular,4
+CUST_06548,39,F,2,Graduate,Married,NJ,yes,no,no,telephone,3
+CUST_06551,53,F,3,Uneducated,Single,CA,yes,yes,no,cellular,4
+CUST_06554,35,F,1,Graduate,Single,FL,no,yes,yes,unknown,5
+CUST_06555,52,F,2,Graduate,Single,FL,yes,yes,yes,cellular,4
+CUST_06559,41,M,2,Uneducated,Single,NY,no,yes,no,unknown,4
+CUST_06562,43,M,1,Graduate,Single,TX,yes,yes,yes,telephone,5
+CUST_06569,61,F,0,Graduate,Single,CA,no,no,no,cellular,4
+CUST_06570,60,M,1,High School,Married,CA,yes,yes,yes,cellular,5
+CUST_06572,46,M,3,Uneducated,Married,NY,no,no,no,cellular,3
+CUST_06573,28,F,1,Graduate,Married,CA,no,no,no,cellular,3
+CUST_06576,45,F,3,High School,Single,FL,no,no,yes,cellular,5
+CUST_06578,39,M,1,High School,Married,NY,no,yes,no,unknown,5
+CUST_06583,45,F,3,High School,Married,NY,no,yes,yes,cellular,4
+CUST_06587,36,F,1,Graduate,Single,NJ,yes,no,no,cellular,3
+CUST_06594,65,F,1,High School,Married,CA,yes,yes,no,unknown,3
+CUST_06597,48,F,3,Graduate,Single,TX,yes,no,no,cellular,4
+CUST_06598,41,M,3,High School,Single,FL,yes,no,no,cellular,5
+CUST_06600,46,F,4,Graduate,Married,TX,no,no,no,unknown,4
+CUST_06604,50,M,0,Doctorate,Single,NJ,yes,no,yes,cellular,3
+CUST_06605,34,M,3,Uneducated,Married,NY,no,yes,no,cellular,4
+CUST_06609,39,F,3,Post-Graduate,Married,CA,no,no,no,cellular,5
+CUST_06621,21,F,1,Graduate,Married,NY,no,no,no,cellular,3
+CUST_06624,52,F,3,Uneducated,Married,CA,no,yes,no,unknown,5
+CUST_06625,42,M,3,High School,Single,TX,yes,yes,no,cellular,4
+CUST_06631,47,F,3,Unknown,Single,TX,yes,no,yes,cellular,5
+CUST_06638,36,M,1,Graduate,Single,TX,yes,no,no,telephone,4
+CUST_06640,40,F,4,Unknown,Married,FL,no,no,yes,unknown,5
+CUST_06647,50,M,2,Uneducated,Single,VA,no,yes,no,cellular,4
+CUST_06649,53,M,5,Uneducated,Married,NY,yes,yes,no,cellular,5
+CUST_06650,38,M,3,Unknown,Single,NY,no,yes,no,cellular,4
+CUST_06652,63,F,0,Unknown,Married,TX,no,no,no,cellular,3
+CUST_06654,46,F,2,High School,Single,TX,no,no,yes,unknown,5
+CUST_06655,49,F,1,High School,Married,FL,no,yes,no,cellular,5
+CUST_06659,44,F,3,Graduate,Single,NJ,no,no,no,cellular,5
+CUST_06664,47,M,3,Graduate,Married,TX,no,yes,yes,cellular,4
+CUST_06667,42,M,4,High School,Single,CA,no,no,no,telephone,5
+CUST_06670,37,F,3,Unknown,Married,NJ,no,no,no,cellular,5
+CUST_06671,41,F,5,Uneducated,Single,NY,no,yes,no,cellular,5
+CUST_06673,41,M,2,Uneducated,Married,FL,no,no,no,cellular,4
+CUST_06682,44,F,4,Graduate,Single,CA,no,no,no,cellular,5
+CUST_06687,65,F,0,Graduate,Married,FL,no,no,no,cellular,4
+CUST_06688,47,F,4,Uneducated,Single,FL,yes,yes,no,unknown,5
+CUST_06690,42,F,5,Unknown,Married,OR,no,yes,no,unknown,5
+CUST_06692,52,F,1,Uneducated,Married,CA,yes,no,yes,telephone,4
+CUST_06693,31,F,0,Uneducated,Single,NJ,yes,no,no,unknown,5
+CUST_06694,42,M,3,Graduate,Single,CA,no,no,no,cellular,5
+CUST_06699,46,M,2,Graduate,Married,CA,no,no,no,cellular,4
+CUST_06700,42,F,2,Post-Graduate,Single,CA,no,no,no,telephone,4
+CUST_06701,53,F,2,Graduate,Married,NY,yes,yes,no,cellular,3
+CUST_06706,38,F,2,Graduate,Single,TX,yes,yes,no,unknown,4
+CUST_06708,42,F,4,Post-Graduate,Married,TX,no,no,no,cellular,5
+CUST_06714,42,F,3,Uneducated,Single,NY,yes,no,no,cellular,4
+CUST_06715,45,M,3,High School,Married,FL,no,no,no,cellular,4
+CUST_06718,45,F,4,Unknown,Married,CA,yes,no,no,cellular,4
+CUST_06719,44,F,2,Unknown,Married,TX,no,no,no,cellular,5
+CUST_06720,52,F,3,Uneducated,Married,NY,no,yes,no,unknown,4
+CUST_06727,39,M,2,Unknown,Married,CA,yes,no,no,cellular,5
+CUST_06731,52,F,1,Unknown,Married,TX,yes,no,no,cellular,3
+CUST_06735,51,F,4,Graduate,Single,CA,no,no,no,unknown,3
+CUST_06736,43,M,4,Graduate,Married,NJ,yes,no,no,cellular,5
+CUST_06740,26,M,0,Graduate,Single,PA,yes,no,no,cellular,5
+CUST_06743,42,F,3,Uneducated,Married,CA,yes,no,no,telephone,5
+CUST_06750,54,F,1,Uneducated,Single,NY,no,no,no,unknown,4
+CUST_06751,56,F,2,Uneducated,Married,TX,no,yes,no,cellular,4
+CUST_06756,48,M,4,Uneducated,Married,NY,no,yes,no,cellular,5
+CUST_06760,36,F,2,Unknown,Married,FL,no,yes,no,cellular,5
+CUST_06761,56,M,2,High School,Married,NY,no,yes,no,cellular,4
+CUST_06769,48,F,1,High School,Married,TX,yes,no,no,unknown,5
+CUST_06775,40,M,5,Graduate,Unknown,CA,no,no,no,unknown,3
+CUST_06776,55,F,2,Graduate,Married,FL,no,yes,no,cellular,4
+CUST_06779,26,F,0,Uneducated,Single,FL,no,yes,no,cellular,4
+CUST_06780,56,M,4,Unknown,Married,TX,no,no,no,cellular,3
+CUST_06785,30,F,2,Graduate,Single,FL,no,yes,no,unknown,4
+CUST_06786,40,F,3,Graduate,Married,TX,no,no,no,unknown,3
+CUST_06798,50,F,2,Graduate,Married,NY,no,no,no,cellular,4
+CUST_06799,58,M,4,Uneducated,Single,NY,no,no,no,cellular,4
+CUST_06801,53,F,2,Graduate,Single,NY,no,yes,no,cellular,5
+CUST_06803,50,F,1,Unknown,Married,TX,no,yes,no,unknown,4
+CUST_06804,39,F,1,Unknown,Married,UT,yes,no,no,cellular,3
+CUST_06806,47,F,3,Graduate,Married,NY,no,no,no,cellular,5
+CUST_06819,34,M,2,Uneducated,Married,FL,no,no,no,unknown,4
+CUST_06821,56,F,3,High School,Single,FL,no,no,no,cellular,4
+CUST_06825,31,F,1,Unknown,Married,TX,yes,yes,yes,cellular,4
+CUST_06828,46,F,3,Doctorate,Single,NY,no,yes,no,unknown,4
+CUST_06829,44,F,2,Unknown,Married,FL,no,no,no,cellular,4
+CUST_06833,40,F,4,Post-Graduate,Married,NJ,yes,yes,no,unknown,4
+CUST_06835,45,F,2,Uneducated,Single,CA,yes,no,no,cellular,4
+CUST_06837,41,M,4,Post-Graduate,Married,TX,no,no,no,cellular,4
+CUST_06840,53,F,2,Unknown,Married,TX,no,no,no,cellular,4
+CUST_06844,46,M,2,Unknown,Single,NY,yes,no,no,cellular,3
+CUST_06848,51,F,4,High School,Single,NY,no,no,no,unknown,4
+CUST_06850,53,M,2,High School,Married,TX,no,yes,no,cellular,4
+CUST_06852,50,F,1,Doctorate,Single,FL,no,no,no,cellular,4
+CUST_06855,43,F,4,Graduate,Single,TX,yes,no,no,cellular,4
+CUST_06860,41,M,3,High School,Married,TX,yes,yes,no,telephone,4
+CUST_06863,36,M,3,Graduate,Married,FL,yes,yes,no,cellular,3
+CUST_06865,45,M,2,High School,Single,CA,no,yes,no,cellular,4
+CUST_06866,48,M,3,High School,Married,TX,no,no,yes,cellular,4
+CUST_06868,46,F,2,Unknown,Married,TX,no,yes,no,cellular,3
+CUST_06876,46,M,4,Doctorate,Married,FL,no,yes,no,cellular,4
+CUST_06877,43,F,3,Graduate,Single,HI,no,no,no,telephone,4
+CUST_06880,56,M,2,Post-Graduate,Married,FL,no,no,no,cellular,4
+CUST_06881,49,F,3,Graduate,Single,MA,no,no,no,cellular,3
+CUST_06897,38,F,3,Graduate,Single,FL,no,yes,no,cellular,4
+CUST_06900,41,F,2,Uneducated,Married,NY,no,no,no,unknown,4
+CUST_06903,43,F,3,High School,Married,GA,no,no,no,cellular,4
+CUST_06904,36,F,1,Post-Graduate,Married,CA,yes,no,no,unknown,4
+CUST_06907,52,M,2,High School,Married,OH,no,no,no,cellular,4
+CUST_06919,52,M,1,Graduate,Single,NV,yes,no,no,cellular,4
+CUST_06920,37,F,4,Uneducated,Married,FL,no,yes,no,cellular,3
+CUST_06926,43,M,4,Unknown,Single,IL,no,no,yes,cellular,3
+CUST_06931,36,M,4,Graduate,Single,FL,no,no,no,cellular,4
+CUST_06932,65,M,1,Graduate,Single,FL,no,no,no,cellular,3
+CUST_06933,42,M,3,Graduate,Married,TX,no,yes,no,cellular,4
+CUST_06934,58,F,3,Doctorate,Married,FL,no,yes,no,cellular,3
+CUST_06935,55,F,2,Graduate,Married,NY,no,no,no,unknown,4
+CUST_06936,50,M,3,Graduate,Single,FL,yes,yes,no,cellular,4
+CUST_06943,43,F,3,Graduate,Single,TX,yes,no,no,cellular,4
+CUST_06948,44,F,5,Graduate,Unknown,TX,no,yes,yes,unknown,4
+CUST_06951,53,F,3,Unknown,Married,CA,no,yes,no,cellular,4
+CUST_06952,39,M,2,Graduate,Married,FL,no,yes,no,cellular,4
+CUST_06953,53,F,4,Unknown,Single,NY,no,no,no,cellular,4
+CUST_06954,63,F,2,Graduate,Married,CA,no,no,no,cellular,4
+CUST_06955,37,F,1,Uneducated,Single,CA,no,yes,no,telephone,4
+CUST_06959,60,F,1,Graduate,Single,CA,no,no,no,unknown,4
+CUST_06960,37,M,1,Graduate,Married,NJ,no,yes,no,cellular,4
+CUST_06962,40,F,3,Unknown,Married,CA,no,no,no,cellular,3
+CUST_06968,43,M,3,Graduate,Single,TX,no,no,no,cellular,3
+CUST_06970,45,M,3,Graduate,Single,CA,no,yes,no,cellular,4
+CUST_06978,37,M,5,Doctorate,Single,FL,yes,no,no,cellular,4
+CUST_06985,49,M,4,Graduate,Single,NY,yes,no,no,cellular,5
+CUST_06988,44,M,4,Graduate,Married,NY,no,no,no,cellular,5
+CUST_06993,44,M,1,Graduate,Single,FL,yes,yes,no,cellular,4
+CUST_06995,49,M,4,High School,Married,NJ,no,yes,yes,cellular,3
+CUST_06998,48,F,3,Graduate,Married,CA,no,yes,no,unknown,3
+CUST_07002,42,F,3,Graduate,Single,FL,no,no,no,cellular,5
+CUST_07007,50,F,2,Graduate,Single,TX,yes,no,no,unknown,3
+CUST_07013,45,M,3,Graduate,Single,TX,no,yes,no,cellular,3
+CUST_07014,53,M,2,Post-Graduate,Unknown,NY,no,yes,yes,cellular,4
+CUST_07016,62,F,1,Uneducated,Unknown,CA,no,no,no,unknown,4
+CUST_07018,33,F,1,Graduate,Unknown,NY,no,no,no,unknown,5
+CUST_07021,50,M,3,Uneducated,Single,NY,yes,no,no,unknown,4
+CUST_07024,54,M,2,Graduate,Married,CT,no,yes,no,cellular,4
+CUST_07029,31,M,2,Graduate,Single,FL,yes,no,no,telephone,5
+CUST_07031,51,M,1,Graduate,Single,CA,no,no,no,cellular,3
+CUST_07034,49,M,4,Unknown,Married,TX,no,yes,no,cellular,4
+CUST_07035,42,F,5,High School,Married,NY,yes,yes,yes,unknown,4
+CUST_07037,40,F,1,High School,Married,CA,no,yes,no,cellular,3
+CUST_07038,47,M,2,Uneducated,Single,FL,yes,no,no,cellular,4
+CUST_07043,47,F,4,Graduate,Unknown,CA,no,no,no,cellular,5
+CUST_07048,52,F,2,Uneducated,Single,NY,yes,no,no,cellular,4
+CUST_07055,55,F,1,Unknown,Unknown,CA,yes,yes,yes,unknown,5
+CUST_07056,44,M,3,Graduate,Single,NY,no,no,no,cellular,5
+CUST_07071,39,M,3,High School,Married,CA,yes,no,no,cellular,4
+CUST_07074,55,M,0,High School,Married,NY,yes,no,no,cellular,5
+CUST_07075,52,F,2,Graduate,Married,TX,yes,no,no,unknown,4
+CUST_07077,52,M,3,Graduate,Single,CA,yes,yes,no,cellular,4
+CUST_07078,53,M,0,Graduate,Married,FL,no,yes,no,cellular,5
+CUST_07082,37,F,2,Unknown,Single,NY,no,no,no,cellular,4
+CUST_07083,65,M,0,Uneducated,Married,NJ,no,no,no,unknown,4
+CUST_07088,60,F,1,Unknown,Unknown,NY,no,no,yes,cellular,5
+CUST_07090,51,F,2,High School,Married,NY,no,yes,no,cellular,5
+CUST_07093,51,F,3,Graduate,Married,CA,no,yes,yes,cellular,3
+CUST_07095,51,M,2,Unknown,Single,TX,no,no,no,cellular,4
+CUST_07101,50,M,3,Unknown,Single,NY,no,no,no,unknown,3
+CUST_07104,43,F,2,Unknown,Unknown,TX,no,no,no,cellular,3
+CUST_07106,37,M,2,Graduate,Single,CA,no,no,no,cellular,3
+CUST_07110,52,F,3,Graduate,Single,NY,yes,yes,no,unknown,5
+CUST_07111,53,F,1,Graduate,Single,TX,no,no,no,cellular,3
+CUST_07112,59,F,1,High School,Single,TX,no,yes,yes,unknown,4
+CUST_07117,40,F,1,High School,Married,CA,no,yes,no,unknown,4
+CUST_07130,38,F,2,Uneducated,Single,TX,no,no,no,unknown,4
+CUST_07133,39,F,1,High School,Married,WA,no,yes,no,cellular,4
+CUST_07136,38,M,0,Unknown,Married,TX,yes,no,no,telephone,4
+CUST_07137,60,F,0,Graduate,Single,TX,no,yes,no,cellular,4
+CUST_07143,52,M,2,Uneducated,Single,CA,no,no,no,telephone,4
+CUST_07150,47,M,2,Unknown,Single,FL,no,yes,no,cellular,4
+CUST_07151,50,M,2,Graduate,Married,TX,yes,no,yes,unknown,5
+CUST_07153,35,F,2,Graduate,Single,CA,no,no,no,cellular,3
+CUST_07154,41,M,0,Graduate,Married,TX,yes,yes,no,cellular,4
+CUST_07160,50,F,2,Graduate,Unknown,CA,no,yes,no,cellular,5
+CUST_07162,41,F,3,Unknown,Married,TX,yes,yes,no,cellular,3
+CUST_07169,52,M,1,Unknown,Married,FL,no,no,no,cellular,4
+CUST_07172,41,M,4,High School,Single,CA,no,no,no,cellular,4
+CUST_07173,53,F,1,Graduate,Married,TX,no,yes,no,cellular,5
+CUST_07174,54,M,2,Post-Graduate,Married,TX,no,no,no,cellular,4
+CUST_07177,44,F,3,Graduate,Single,TX,no,yes,no,cellular,4
+CUST_07181,49,F,2,High School,Married,NY,no,no,no,unknown,5
+CUST_07182,57,F,2,Unknown,Married,NY,yes,no,no,cellular,4
+CUST_07189,43,M,3,Graduate,Single,FL,yes,no,no,cellular,5
+CUST_07190,60,M,0,High School,Married,MO,no,yes,no,cellular,4
+CUST_07196,63,M,1,Graduate,Married,CA,yes,no,no,cellular,5
+CUST_07201,50,F,3,Graduate,Married,CA,yes,no,no,unknown,4
+CUST_07202,52,F,3,Uneducated,Single,NY,no,no,yes,cellular,4
+CUST_07203,50,F,2,Uneducated,Single,TX,yes,yes,no,cellular,5
+CUST_07208,45,M,4,Doctorate,Married,TX,no,no,no,cellular,3
+CUST_07212,40,F,4,Graduate,Single,TX,no,yes,no,cellular,3
+CUST_07220,47,F,3,Doctorate,Single,CA,yes,no,no,unknown,5
+CUST_07232,42,F,1,Uneducated,Married,NY,yes,no,no,unknown,4
+CUST_07236,42,M,1,Uneducated,Married,FL,no,yes,no,cellular,4
+CUST_07237,40,M,3,High School,Unknown,NY,no,no,no,cellular,4
+CUST_07238,58,F,1,Uneducated,Single,CA,no,no,no,cellular,4
+CUST_07249,43,F,3,Unknown,Married,CA,no,no,no,cellular,5
+CUST_07255,53,M,0,Graduate,Single,NY,yes,no,no,cellular,4
+CUST_07257,49,M,3,Unknown,Married,CA,yes,yes,no,cellular,3
+CUST_07258,49,M,2,Unknown,Married,TX,no,yes,no,cellular,4
+CUST_07260,53,M,1,Unknown,Married,NY,no,no,no,cellular,4
+CUST_07264,45,M,4,High School,Married,CA,no,no,no,cellular,3
+CUST_07268,53,M,2,Uneducated,Married,NY,no,yes,no,cellular,5
+CUST_07270,46,M,4,Graduate,Single,NJ,no,yes,no,cellular,5
+CUST_07273,37,F,2,Graduate,Married,CA,yes,yes,no,cellular,5
+CUST_07274,37,F,2,Uneducated,Married,CA,no,yes,no,cellular,3
+CUST_07278,45,F,3,Unknown,Single,NY,yes,no,no,cellular,4
+CUST_07279,53,M,2,Graduate,Married,FL,no,yes,no,cellular,4
+CUST_07297,50,M,2,Unknown,Single,NY,no,no,no,telephone,4
+CUST_07302,62,M,0,Post-Graduate,Married,NY,no,yes,no,cellular,5
+CUST_07303,53,F,4,Graduate,Single,FL,no,no,no,cellular,3
+CUST_07305,41,F,5,Graduate,Married,CA,yes,yes,no,unknown,4
+CUST_07306,50,F,2,High School,Single,FL,no,yes,no,cellular,5
+CUST_07320,45,M,2,Graduate,Married,TX,yes,yes,no,cellular,4
+CUST_07329,42,M,4,Unknown,Single,NY,no,yes,no,cellular,5
+CUST_07332,47,F,2,Uneducated,Married,TX,yes,yes,no,cellular,5
+CUST_07333,38,F,2,High School,Single,NY,yes,no,no,cellular,3
+CUST_07335,53,F,1,High School,Married,NY,yes,no,yes,cellular,5
+CUST_07339,53,F,3,High School,Single,CA,no,no,no,telephone,4
+CUST_07350,44,F,2,Graduate,Married,TX,yes,no,no,cellular,4
+CUST_07353,45,M,2,Graduate,Single,FL,yes,no,no,cellular,4
+CUST_07355,42,F,2,Graduate,Single,TX,no,yes,no,cellular,5
+CUST_07357,35,M,3,Post-Graduate,Married,TX,no,no,no,cellular,5
+CUST_07362,33,F,1,Post-Graduate,Married,CA,yes,yes,no,telephone,4
+CUST_07373,44,M,3,High School,Married,NY,yes,yes,no,telephone,4
+CUST_07377,42,M,3,High School,Married,TX,no,yes,yes,cellular,4
+CUST_07380,41,M,2,Graduate,Single,NJ,yes,no,yes,cellular,5
+CUST_07382,52,F,2,Graduate,Married,NY,yes,yes,no,cellular,5
+CUST_07388,35,M,0,Graduate,Single,TX,no,no,no,cellular,3
+CUST_07390,49,M,3,Unknown,Married,TX,no,yes,no,cellular,3
+CUST_07392,52,F,2,Graduate,Single,WA,no,yes,yes,cellular,3
+CUST_07394,58,M,1,Graduate,Married,FL,no,yes,no,cellular,5
+CUST_07397,34,F,3,Uneducated,Single,NY,no,no,no,cellular,5
+CUST_07402,30,M,1,Graduate,Married,NJ,yes,yes,no,cellular,5
+CUST_07403,49,F,4,High School,Single,FL,no,no,no,unknown,3
+CUST_07404,27,F,0,High School,Married,WA,no,yes,no,cellular,5
+CUST_07407,44,M,4,Uneducated,Single,CA,no,yes,yes,cellular,4
+CUST_07412,49,F,2,Unknown,Married,CA,yes,yes,no,cellular,5
+CUST_07416,53,M,3,Doctorate,Married,TX,no,yes,no,cellular,4
+CUST_07417,51,F,3,Post-Graduate,Married,TX,no,no,yes,cellular,5
+CUST_07418,37,M,1,Doctorate,Single,CA,no,no,no,cellular,4
+CUST_07421,46,M,3,Graduate,Single,TX,no,yes,yes,cellular,4
+CUST_07424,43,F,3,High School,Single,CA,yes,no,no,cellular,5
+CUST_07428,52,M,1,Unknown,Married,TX,yes,yes,no,cellular,4
+CUST_07429,59,F,1,Doctorate,Married,CA,no,yes,no,cellular,3
+CUST_07431,44,M,2,Uneducated,Married,FL,no,yes,no,cellular,5
+CUST_07432,38,F,3,Unknown,Unknown,FL,yes,no,no,cellular,5
+CUST_07433,46,F,2,Post-Graduate,Married,CA,no,yes,yes,cellular,4
+CUST_07434,49,F,1,Doctorate,Single,NY,yes,no,no,cellular,5
+CUST_07435,36,F,3,High School,Married,FL,no,yes,yes,cellular,5
+CUST_07436,40,F,5,Graduate,Married,CA,no,no,no,unknown,5
+CUST_07437,46,M,5,Doctorate,Single,GA,no,no,no,cellular,4
+CUST_07444,61,F,1,Uneducated,Single,TX,yes,no,no,cellular,5
+CUST_07453,47,F,3,Doctorate,Married,NJ,no,no,no,unknown,4
+CUST_07458,40,F,4,Graduate,Married,FL,no,no,no,unknown,4
+CUST_07459,45,F,3,Graduate,Married,TX,yes,yes,no,cellular,5
+CUST_07460,54,F,3,Uneducated,Married,CA,no,no,no,cellular,5
+CUST_07462,31,M,1,Graduate,Single,CA,no,no,no,telephone,5
+CUST_07466,42,M,4,Graduate,Single,TX,no,no,no,cellular,4
+CUST_07471,47,F,3,Uneducated,Unknown,TX,no,no,no,cellular,5
+CUST_07476,47,F,2,Graduate,Single,FL,no,yes,no,cellular,4
+CUST_07477,64,F,0,High School,Single,NY,yes,no,no,cellular,5
+CUST_07478,59,F,1,High School,Single,TX,yes,no,no,cellular,5
+CUST_07481,64,M,0,Graduate,Married,FL,yes,yes,no,cellular,3
+CUST_07482,53,M,2,Graduate,Married,CA,no,no,no,cellular,4
+CUST_07485,53,F,3,Uneducated,Single,CA,no,yes,no,cellular,4
+CUST_07488,44,M,2,Doctorate,Single,IL,yes,no,no,cellular,3
+CUST_07494,61,F,1,High School,Single,CA,no,no,no,cellular,5
+CUST_07516,43,M,1,High School,Single,TX,no,no,yes,cellular,4
+CUST_07525,52,M,3,Graduate,Married,CA,yes,no,no,cellular,5
+CUST_07531,37,M,2,Graduate,Single,NY,no,no,no,cellular,5
+CUST_07533,52,F,3,Post-Graduate,Married,CA,no,yes,yes,cellular,5
+CUST_07534,37,F,0,Unknown,Married,NY,yes,no,no,telephone,4
+CUST_07539,54,F,5,Unknown,Married,NY,no,yes,no,cellular,4
+CUST_07540,53,F,4,Graduate,Married,TX,no,no,no,cellular,3
+CUST_07546,40,M,3,Unknown,Married,CA,no,no,no,cellular,3
+CUST_07558,48,F,2,Graduate,Married,CA,no,yes,no,cellular,3
+CUST_07564,47,M,2,Graduate,Married,TX,yes,yes,no,telephone,4
+CUST_07568,44,F,3,Graduate,Married,TX,no,yes,no,cellular,3
+CUST_07569,49,M,5,Graduate,Married,TX,yes,yes,no,cellular,4
+CUST_07573,55,F,2,Graduate,Married,FL,no,no,no,cellular,3
+CUST_07574,33,F,3,High School,Married,FL,no,no,no,cellular,4
+CUST_07579,41,F,2,Unknown,Single,TX,yes,yes,no,cellular,3
+CUST_07583,49,F,4,High School,Unknown,NY,yes,yes,no,cellular,5
+CUST_07584,50,M,3,Unknown,Single,CA,yes,yes,yes,cellular,4
+CUST_07587,56,M,1,Graduate,Married,NY,yes,no,no,cellular,5
+CUST_07589,37,F,2,Uneducated,Married,NY,yes,yes,no,cellular,4
+CUST_07590,51,F,2,Graduate,Married,NY,no,yes,yes,cellular,3
+CUST_07595,33,F,4,Graduate,Married,CA,no,no,no,cellular,3
+CUST_07597,37,M,1,Doctorate,Unknown,FL,no,yes,no,cellular,5
+CUST_07599,43,M,2,Doctorate,Single,FL,no,yes,no,cellular,5
+CUST_07600,50,M,4,Graduate,Single,FL,yes,no,no,cellular,4
+CUST_07607,44,F,4,Graduate,Married,TX,yes,no,no,cellular,5
+CUST_07609,59,F,0,High School,Single,NY,yes,no,no,cellular,5
+CUST_07612,57,M,5,High School,Married,FL,yes,no,no,cellular,3
+CUST_07617,43,F,3,Unknown,Married,CA,yes,no,no,unknown,5
+CUST_07619,44,F,3,High School,Unknown,CA,no,yes,no,cellular,4
+CUST_07620,37,F,1,Graduate,Unknown,FL,yes,no,no,unknown,4
+CUST_07628,40,F,4,Uneducated,Single,CA,no,no,no,cellular,5
+CUST_07629,44,F,2,Graduate,Married,NJ,no,no,no,cellular,3
+CUST_07632,44,F,1,Graduate,Married,CA,yes,no,no,cellular,3
+CUST_07636,37,F,2,High School,Married,TX,no,no,no,telephone,5
+CUST_07638,39,M,3,Unknown,Single,NY,yes,no,yes,cellular,4
+CUST_07643,40,F,5,Graduate,Unknown,TX,yes,yes,no,cellular,5
+CUST_07648,42,F,2,High School,Married,NY,no,yes,no,telephone,5
+CUST_07656,56,F,3,Graduate,Married,CA,yes,yes,no,cellular,3
+CUST_07657,40,F,3,High School,Single,NY,no,yes,no,cellular,3
+CUST_07663,54,F,2,Uneducated,Married,CA,no,yes,no,cellular,3
+CUST_07664,45,F,2,Unknown,Single,CO,yes,yes,no,unknown,5
+CUST_07666,39,M,2,Unknown,Married,FL,no,yes,no,cellular,3
+CUST_07667,65,F,0,High School,Single,TX,yes,no,no,unknown,4
+CUST_07671,46,F,2,Graduate,Married,NY,no,no,no,unknown,5
+CUST_07679,46,F,4,Graduate,Single,NJ,yes,no,no,unknown,4
+CUST_07681,55,F,1,Graduate,Single,FL,yes,no,no,cellular,3
+CUST_07682,49,M,4,Uneducated,Married,AK,no,yes,no,cellular,4
+CUST_07685,38,F,1,Graduate,Married,NJ,no,no,no,cellular,5
+CUST_07691,58,M,3,High School,Married,NY,no,no,no,cellular,4
+CUST_07692,68,M,0,High School,Married,FL,no,yes,no,unknown,4
+CUST_07693,41,M,2,Uneducated,Married,NJ,yes,no,no,cellular,4
+CUST_07700,35,F,1,Graduate,Married,TX,no,yes,no,cellular,3
+CUST_07701,48,M,3,Doctorate,Married,NY,yes,yes,no,telephone,4
+CUST_07704,45,F,3,High School,Single,FL,yes,no,no,cellular,4
+CUST_07709,42,M,4,Graduate,Married,TX,no,no,no,cellular,5
+CUST_07710,65,F,2,Graduate,Single,CA,no,no,no,cellular,4
+CUST_07711,51,F,2,Graduate,Single,CA,no,yes,no,unknown,5
+CUST_07725,39,M,2,Unknown,Married,WA,yes,yes,no,cellular,4
+CUST_07727,61,F,1,Graduate,Married,TX,no,no,no,cellular,3
+CUST_07728,34,M,2,Graduate,Married,FL,yes,yes,no,cellular,5
+CUST_07732,45,F,3,Unknown,Married,CA,no,no,no,cellular,4
+CUST_07736,54,F,4,Graduate,Married,TX,no,no,no,unknown,3
+CUST_07737,39,F,2,Unknown,Single,CA,yes,no,no,unknown,4
+CUST_07739,40,F,2,Graduate,Single,FL,yes,yes,no,cellular,4
+CUST_07740,50,F,3,Doctorate,Single,FL,no,yes,no,cellular,5
+CUST_07741,56,F,1,Graduate,Married,CA,no,yes,no,cellular,4
+CUST_07744,38,F,2,High School,Married,CA,no,yes,yes,unknown,4
+CUST_07750,56,M,2,Graduate,Married,CA,no,yes,no,cellular,5
+CUST_07758,52,F,4,Graduate,Married,NY,no,yes,no,unknown,5
+CUST_07760,50,F,2,High School,Married,TX,no,no,no,cellular,5
+CUST_07761,46,M,2,High School,Married,FL,yes,yes,yes,cellular,4
+CUST_07765,47,F,4,Graduate,Married,FL,no,no,no,cellular,4
+CUST_07766,42,F,4,Graduate,Single,CA,no,yes,no,cellular,4
+CUST_07767,58,F,1,Uneducated,Married,FL,yes,no,yes,cellular,4
+CUST_07768,37,M,2,Doctorate,Single,CA,yes,no,no,telephone,4
+CUST_07769,44,M,3,Graduate,Single,TX,yes,yes,no,telephone,4
+CUST_07770,50,F,3,Graduate,Single,NY,yes,yes,no,cellular,4
+CUST_07771,44,F,4,Graduate,Married,NY,no,no,yes,cellular,5
+CUST_07772,54,F,1,Unknown,Married,CA,yes,yes,yes,cellular,5
+CUST_07783,48,F,2,Graduate,Single,NY,no,yes,no,cellular,5
+CUST_07787,38,M,2,High School,Married,FL,no,no,no,cellular,5
+CUST_07788,58,F,1,Graduate,Married,CA,no,yes,no,cellular,5
+CUST_07792,44,M,4,Graduate,Married,NY,no,yes,yes,cellular,5
+CUST_07794,63,F,1,Unknown,Married,NY,no,yes,yes,cellular,5
+CUST_07801,48,F,3,Graduate,Married,MI,yes,no,no,cellular,5
+CUST_07802,41,F,2,Graduate,Married,NY,yes,yes,no,cellular,3
+CUST_07808,62,F,1,High School,Married,FL,no,yes,no,cellular,5
+CUST_07812,46,F,1,Graduate,Married,TX,no,yes,yes,unknown,5
+CUST_07816,49,F,2,Uneducated,Married,FL,no,no,no,cellular,5
+CUST_07824,62,F,1,High School,Married,FL,yes,no,yes,cellular,5
+CUST_07825,36,F,1,Uneducated,Married,NY,no,no,no,cellular,5
+CUST_07830,40,M,4,Doctorate,Single,FL,no,no,no,unknown,3
+CUST_07832,43,F,3,Post-Graduate,Single,CA,yes,yes,no,telephone,4
+CUST_07836,39,M,2,Uneducated,Single,NJ,yes,no,no,cellular,5
+CUST_07837,46,F,3,High School,Single,CA,yes,no,no,unknown,4
+CUST_07838,26,M,0,Post-Graduate,Married,FL,no,no,yes,cellular,3
+CUST_07848,57,M,0,Uneducated,Married,NY,yes,no,no,cellular,4
+CUST_07851,42,F,4,Graduate,Married,CA,yes,yes,no,cellular,4
+CUST_07852,32,M,0,Graduate,Unknown,CA,yes,yes,no,cellular,5
+CUST_07863,44,M,3,Graduate,Single,FL,yes,no,no,cellular,4
+CUST_07865,38,F,1,High School,Single,CA,no,no,no,cellular,4
+CUST_07867,40,F,3,Uneducated,Single,TX,no,no,no,telephone,4
+CUST_07869,60,F,1,Uneducated,Single,TX,yes,no,no,cellular,5
+CUST_07873,47,F,1,Uneducated,Single,TX,no,yes,no,cellular,4
+CUST_07877,46,F,3,Graduate,Single,TX,yes,no,no,unknown,4
+CUST_07878,64,F,0,Graduate,Single,TX,yes,no,no,unknown,5
+CUST_07881,47,M,2,Graduate,Married,CA,yes,no,no,cellular,5
+CUST_07882,38,M,3,Graduate,Married,FL,no,no,no,cellular,4
+CUST_07883,50,F,2,Unknown,Married,CA,no,no,no,cellular,4
+CUST_07886,54,F,3,Graduate,Single,CA,yes,yes,no,cellular,4
+CUST_07887,46,F,5,Graduate,Unknown,TX,yes,no,no,cellular,4
+CUST_07890,46,F,3,High School,Married,NY,no,yes,no,telephone,4
+CUST_07894,39,F,2,High School,Married,TX,no,yes,no,cellular,5
+CUST_07896,44,M,0,Graduate,Unknown,TX,yes,yes,no,cellular,3
+CUST_07897,48,F,4,Uneducated,Married,CA,no,yes,no,unknown,5
+CUST_07900,47,F,5,Unknown,Married,TX,yes,no,no,cellular,4
+CUST_07903,39,F,4,Post-Graduate,Married,CA,yes,no,no,cellular,4
+CUST_07904,51,F,3,Graduate,Married,FL,no,no,no,unknown,5
+CUST_07908,49,F,3,Uneducated,Single,CA,yes,no,no,cellular,3
+CUST_07910,50,M,1,Unknown,Unknown,TX,no,no,no,unknown,3
+CUST_07911,43,F,2,Uneducated,Married,FL,yes,yes,no,unknown,5
+CUST_07912,34,F,2,Graduate,Single,TX,no,yes,no,cellular,3
+CUST_07918,53,F,3,Graduate,Single,CA,no,yes,no,cellular,5
+CUST_07919,40,M,4,Graduate,Unknown,NY,yes,yes,yes,cellular,5
+CUST_07923,44,F,5,Unknown,Single,NY,no,yes,no,cellular,3
+CUST_07932,57,F,2,Graduate,Married,TX,no,no,yes,cellular,3
+CUST_07933,34,M,1,Uneducated,Married,TX,no,no,no,cellular,4
+CUST_07935,55,F,2,Post-Graduate,Married,NJ,no,no,no,cellular,5
+CUST_07936,46,F,2,Graduate,Single,NY,no,no,no,cellular,5
+CUST_07941,44,F,4,Graduate,Single,NJ,no,no,yes,cellular,4
+CUST_07946,46,F,3,Graduate,Single,CA,no,no,no,telephone,5
+CUST_07947,50,F,4,Uneducated,Married,OH,no,yes,yes,unknown,3
+CUST_07948,64,M,1,Uneducated,Single,CA,yes,no,no,cellular,5
+CUST_07951,26,M,0,High School,Single,FL,no,no,no,cellular,4
+CUST_07960,43,M,2,Uneducated,Single,NY,yes,yes,no,cellular,4
+CUST_07963,31,M,2,Graduate,Single,FL,no,yes,no,cellular,5
+CUST_07970,36,F,3,Graduate,Single,CA,no,no,no,cellular,3
+CUST_07972,57,F,3,High School,Unknown,CA,yes,yes,no,unknown,4
+CUST_07986,39,F,1,Graduate,Married,NY,no,yes,no,cellular,4
+CUST_07989,44,F,4,Graduate,Single,CA,no,no,no,cellular,5
+CUST_07991,38,F,2,High School,Married,NY,yes,no,no,cellular,5
+CUST_07996,38,F,3,High School,Married,NJ,yes,no,no,cellular,4
+CUST_07999,44,F,3,Graduate,Married,FL,no,yes,no,cellular,4
+CUST_08014,39,F,1,Graduate,Single,CA,no,no,no,cellular,5
+CUST_08019,36,M,3,Uneducated,Married,CA,no,no,no,cellular,4
+CUST_08022,41,M,2,Graduate,Married,NY,no,yes,no,cellular,5
+CUST_08023,59,F,1,Graduate,Single,TX,yes,no,no,cellular,4
+CUST_08024,44,M,2,Graduate,Married,MO,no,no,no,cellular,3
+CUST_08026,47,F,3,Uneducated,Single,NV,no,yes,no,cellular,4
+CUST_08031,52,F,1,Uneducated,Single,SC,no,no,no,telephone,5
+CUST_08032,41,M,4,Unknown,Married,TX,yes,yes,no,cellular,4
+CUST_08036,49,M,5,Unknown,Single,NY,no,yes,no,cellular,5
+CUST_08044,44,F,5,High School,Unknown,FL,no,yes,no,cellular,5
+CUST_08046,52,F,0,Doctorate,Married,TX,no,no,no,unknown,5
+CUST_08052,51,M,1,Graduate,Single,NY,no,yes,no,cellular,5
+CUST_08053,47,F,4,Doctorate,Single,TX,no,yes,no,cellular,5
+CUST_08068,39,F,1,Graduate,Married,FL,yes,no,no,cellular,5
+CUST_08070,48,F,1,Doctorate,Married,NJ,yes,yes,no,unknown,4
+CUST_08072,54,F,1,Graduate,Married,NY,yes,no,no,cellular,4
+CUST_08075,46,M,5,Uneducated,Single,FL,yes,yes,yes,cellular,3
+CUST_08077,61,M,1,Graduate,Single,FL,yes,yes,yes,unknown,5
+CUST_08078,52,F,3,Unknown,Married,CA,no,no,no,cellular,5
+CUST_08080,40,M,3,Uneducated,Single,FL,no,no,no,cellular,5
+CUST_08084,51,F,3,Graduate,Married,NJ,no,no,no,cellular,4
+CUST_08086,60,M,1,Unknown,Single,FL,no,no,no,cellular,3
+CUST_08087,45,M,3,Uneducated,Married,NJ,no,no,no,telephone,4
+CUST_08088,27,F,0,Uneducated,Single,TX,yes,yes,no,unknown,4
+CUST_08092,47,M,3,Doctorate,Single,NY,no,yes,no,cellular,5
+CUST_08094,58,M,1,High School,Married,CA,yes,no,no,telephone,4
+CUST_08105,65,F,0,Post-Graduate,Married,TX,no,yes,no,cellular,4
+CUST_08110,45,F,2,Uneducated,Single,CA,no,yes,no,unknown,4
+CUST_08113,46,M,3,Doctorate,Married,CA,no,yes,no,cellular,4
+CUST_08115,58,F,3,High School,Married,NY,no,yes,no,unknown,4
+CUST_08122,39,F,3,Uneducated,Single,TX,yes,no,no,unknown,5
+CUST_08128,40,F,4,Graduate,Married,CA,no,yes,yes,cellular,4
+CUST_08129,50,F,1,Graduate,Unknown,NY,no,no,no,unknown,4
+CUST_08130,41,M,2,High School,Married,NY,no,yes,no,cellular,3
+CUST_08132,42,F,3,High School,Unknown,CA,no,yes,no,unknown,4
+CUST_08133,42,F,4,High School,Married,FL,no,yes,no,unknown,5
+CUST_08135,53,F,0,Graduate,Married,CA,no,yes,yes,telephone,5
+CUST_08137,45,F,1,Graduate,Single,CA,no,yes,no,cellular,4
+CUST_08141,35,F,1,Unknown,Single,CA,yes,yes,no,cellular,4
+CUST_08142,64,F,1,Graduate,Unknown,NJ,yes,no,no,unknown,4
+CUST_08144,54,F,3,Graduate,Married,CA,yes,no,no,cellular,5
+CUST_08148,52,M,2,Unknown,Single,NY,yes,no,no,cellular,5
+CUST_08150,48,F,3,Uneducated,Single,TX,yes,no,no,cellular,5
+CUST_08158,40,M,3,Post-Graduate,Single,CA,yes,yes,yes,cellular,4
+CUST_08171,58,F,5,Unknown,Married,NY,yes,yes,no,unknown,3
+CUST_08180,53,F,2,Uneducated,Single,CA,no,no,no,cellular,4
+CUST_08182,41,M,3,Post-Graduate,Unknown,CA,no,yes,no,cellular,4
+CUST_08183,45,M,4,Graduate,Unknown,NY,yes,no,no,unknown,5
+CUST_08184,43,F,4,Graduate,Unknown,TX,no,yes,yes,cellular,5
+CUST_08193,54,F,3,Graduate,Married,MI,no,no,no,cellular,4
+CUST_08194,60,M,1,High School,Single,NY,no,no,no,cellular,5
+CUST_08198,46,F,4,Doctorate,Single,NY,no,no,no,cellular,5
+CUST_08201,36,M,3,Unknown,Married,FL,yes,yes,no,cellular,4
+CUST_08204,47,M,3,Uneducated,Married,FL,no,no,no,cellular,5
+CUST_08205,38,M,2,Graduate,Single,CA,yes,no,no,cellular,5
+CUST_08206,39,M,3,High School,Single,CA,yes,no,no,cellular,5
+CUST_08210,37,F,3,High School,Married,CA,no,no,no,cellular,4
+CUST_08218,41,F,2,Graduate,Single,TX,yes,no,no,cellular,5
+CUST_08223,37,M,3,High School,Single,CA,yes,yes,yes,cellular,5
+CUST_08224,29,M,1,Graduate,Married,TX,yes,yes,no,cellular,5
+CUST_08226,42,F,1,Graduate,Married,TX,no,yes,no,cellular,5
+CUST_08238,42,M,3,High School,Married,NY,no,yes,no,cellular,5
+CUST_08240,31,M,1,Graduate,Married,CA,no,no,no,cellular,5
+CUST_08241,36,M,2,Uneducated,Married,NY,yes,no,no,cellular,5
+CUST_08243,47,F,2,Graduate,Married,FL,yes,no,no,cellular,4
+CUST_08244,39,M,3,Graduate,Single,CA,no,no,no,cellular,3
+CUST_08247,53,F,1,Graduate,Married,FL,yes,yes,no,unknown,5
+CUST_08248,48,F,2,Graduate,Married,NY,yes,yes,no,cellular,5
+CUST_08250,51,F,2,High School,Single,FL,no,no,no,unknown,5
+CUST_08251,55,F,1,Graduate,Married,FL,yes,yes,no,cellular,4
+CUST_08258,37,F,2,Graduate,Married,NY,yes,no,no,cellular,4
+CUST_08260,58,F,1,Unknown,Married,FL,no,yes,no,cellular,4
+CUST_08263,40,F,4,Unknown,Married,CA,no,no,no,cellular,5
+CUST_08267,43,M,2,High School,Married,NY,yes,no,no,cellular,4
+CUST_08270,43,M,4,Graduate,Married,TX,no,no,no,cellular,5
+CUST_08271,51,F,3,High School,Single,NY,yes,no,no,cellular,4
+CUST_08272,31,F,1,Post-Graduate,Married,TX,yes,yes,no,unknown,4
+CUST_08273,41,M,2,High School,Married,NY,no,no,no,cellular,5
+CUST_08275,52,F,2,Graduate,Married,TX,no,no,yes,cellular,3
+CUST_08280,49,F,4,Uneducated,Unknown,NY,yes,yes,no,unknown,5
+CUST_08281,43,M,1,Post-Graduate,Single,NY,no,no,no,cellular,5
+CUST_08282,27,F,0,Graduate,Married,FL,no,no,yes,cellular,3
+CUST_08283,43,F,3,Graduate,Single,CA,no,yes,no,cellular,3
+CUST_08284,38,F,1,Graduate,Single,CA,yes,yes,no,cellular,5
+CUST_08287,45,F,3,Graduate,Married,NY,no,yes,no,unknown,3
+CUST_08288,37,F,1,Graduate,Single,TX,no,yes,no,unknown,3
+CUST_08295,49,F,3,Uneducated,Single,NY,no,no,no,unknown,4
+CUST_08297,42,M,2,Graduate,Unknown,TX,no,yes,no,cellular,4
+CUST_08298,33,M,3,Graduate,Married,TX,no,no,yes,cellular,3
+CUST_08300,38,F,2,Graduate,Married,TX,yes,no,no,unknown,4
+CUST_08304,65,F,0,Graduate,Married,CA,no,yes,no,cellular,3
+CUST_08306,40,M,5,Post-Graduate,Single,FL,yes,no,no,cellular,4
+CUST_08308,54,F,2,Graduate,Married,TX,no,yes,no,cellular,3
+CUST_08311,52,M,4,Uneducated,Married,NY,no,no,no,telephone,4
+CUST_08315,35,M,3,Graduate,Single,CA,no,yes,no,cellular,5
+CUST_08318,54,F,2,Graduate,Married,FL,no,yes,no,cellular,3
+CUST_08324,48,M,3,Doctorate,Married,FL,no,no,no,telephone,5
+CUST_08327,40,M,3,Graduate,Married,FL,no,no,no,unknown,5
+CUST_08332,36,F,3,Unknown,Married,TX,no,no,no,cellular,3
+CUST_08338,49,M,2,Unknown,Married,NY,no,yes,no,cellular,5
+CUST_08340,40,F,4,High School,Unknown,AZ,no,yes,no,unknown,4
+CUST_08342,54,F,2,Graduate,Married,NY,no,no,no,unknown,5
+CUST_08347,48,M,2,Unknown,Married,FL,no,yes,no,cellular,3
+CUST_08348,48,F,3,High School,Married,NY,no,yes,no,unknown,4
+CUST_08349,41,M,4,Doctorate,Unknown,NY,no,no,no,cellular,4
+CUST_08354,46,M,2,Uneducated,Married,FL,no,no,no,cellular,5
+CUST_08359,37,F,1,Uneducated,Married,NY,yes,no,no,cellular,5
+CUST_08361,48,F,4,Graduate,Unknown,TX,yes,no,no,cellular,4
+CUST_08362,47,M,2,Uneducated,Married,CA,yes,yes,no,cellular,5
+CUST_08363,40,M,4,Graduate,Single,FL,yes,yes,no,cellular,4
+CUST_08370,56,F,1,Graduate,Single,CA,yes,yes,no,unknown,5
+CUST_08375,49,F,0,Unknown,Married,FL,no,yes,no,telephone,5
+CUST_08376,57,F,2,High School,Married,NJ,no,no,no,cellular,5
+CUST_08377,51,F,2,Graduate,Single,CA,no,no,no,unknown,5
+CUST_08378,41,M,3,Doctorate,Single,FL,no,no,no,cellular,3
+CUST_08381,37,F,3,High School,Married,FL,no,yes,no,cellular,5
+CUST_08382,60,M,0,High School,Married,FL,no,no,no,cellular,4
+CUST_08384,26,M,0,Graduate,Single,NJ,no,yes,no,cellular,5
+CUST_08386,36,F,5,High School,Married,CA,no,no,no,cellular,3
+CUST_08388,35,F,3,Graduate,Single,CA,no,no,no,cellular,5
+CUST_08391,61,M,0,Post-Graduate,Married,NJ,no,no,no,cellular,5
+CUST_08397,43,M,4,Graduate,Married,NY,no,yes,no,telephone,3
+CUST_08402,54,M,3,Graduate,Married,FL,no,no,no,cellular,5
+CUST_08411,48,F,3,Unknown,Married,FL,no,no,no,cellular,4
+CUST_08412,53,F,3,Graduate,Married,TX,no,yes,no,cellular,5
+CUST_08413,55,F,2,Unknown,Married,IA,no,no,yes,cellular,4
+CUST_08414,40,F,3,Uneducated,Single,NY,yes,yes,no,unknown,5
+CUST_08417,54,M,3,High School,Married,NJ,no,yes,no,cellular,4
+CUST_08424,46,F,4,Graduate,Single,NY,no,no,no,cellular,3
+CUST_08426,43,F,2,Unknown,Married,CA,yes,no,no,cellular,5
+CUST_08427,46,M,4,Graduate,Single,FL,yes,no,no,cellular,5
+CUST_08431,48,F,3,Unknown,Married,CA,no,yes,yes,cellular,5
+CUST_08439,36,F,2,Graduate,Married,FL,no,no,no,unknown,4
+CUST_08447,53,M,1,Unknown,Single,TX,yes,no,no,unknown,5
+CUST_08450,40,F,3,Graduate,Single,NY,yes,no,no,cellular,3
+CUST_08452,46,F,2,Graduate,Unknown,FL,yes,yes,no,unknown,4
+CUST_08453,47,M,4,Unknown,Single,NJ,yes,no,no,cellular,4
+CUST_08458,40,M,4,High School,Married,TX,yes,no,no,cellular,4
+CUST_08459,53,F,3,High School,Married,FL,yes,no,no,cellular,4
+CUST_08462,50,F,1,Graduate,Married,FL,no,no,no,cellular,5
+CUST_08467,42,F,5,Unknown,Married,CA,yes,yes,yes,cellular,4
+CUST_08470,48,M,2,Graduate,Single,TX,no,yes,no,cellular,3
+CUST_08471,45,F,1,High School,Married,NJ,no,no,no,cellular,5
+CUST_08474,48,M,4,Graduate,Single,TX,yes,yes,no,unknown,5
+CUST_08475,46,F,4,Graduate,Married,FL,no,yes,yes,unknown,4
+CUST_08476,45,F,4,Unknown,Married,TX,yes,no,yes,unknown,5
+CUST_08479,41,F,3,Graduate,Married,CA,yes,yes,yes,unknown,3
+CUST_08480,51,F,2,Uneducated,Married,TX,yes,no,no,cellular,5
+CUST_08481,47,M,4,Graduate,Unknown,NY,yes,no,no,cellular,4
+CUST_08483,34,M,2,Unknown,Married,CA,yes,yes,no,cellular,5
+CUST_08492,56,M,3,Graduate,Single,FL,yes,no,no,cellular,5
+CUST_08501,60,F,1,Uneducated,Single,TX,no,yes,no,cellular,5
+CUST_08511,46,F,1,Unknown,Single,NY,no,no,no,unknown,5
+CUST_08519,55,M,3,Graduate,Single,FL,yes,no,no,cellular,4
+CUST_08521,52,F,2,Uneducated,Single,NY,no,no,no,telephone,4
+CUST_08527,41,F,4,Doctorate,Single,NY,no,yes,no,telephone,5
+CUST_08535,34,M,3,Graduate,Married,TX,no,yes,no,cellular,4
+CUST_08536,35,F,2,Uneducated,Single,CA,yes,no,no,unknown,5
+CUST_08537,40,M,1,Uneducated,Married,FL,no,no,yes,cellular,5
+CUST_08538,62,F,1,Graduate,Single,NY,yes,yes,no,cellular,5
+CUST_08544,57,F,4,Post-Graduate,Married,NY,no,no,no,cellular,4
+CUST_08545,41,F,2,Unknown,Married,NY,no,yes,yes,unknown,5
+CUST_08552,34,F,0,Unknown,Married,TX,no,yes,no,cellular,4
+CUST_08556,38,F,4,Graduate,Married,AK,yes,no,no,cellular,4
+CUST_08558,57,F,1,High School,Married,FL,no,yes,no,unknown,5
+CUST_08561,54,F,2,Graduate,Married,OH,yes,no,no,cellular,4
+CUST_08565,43,F,5,Graduate,Married,NY,yes,yes,no,cellular,5
+CUST_08573,48,F,3,Post-Graduate,Married,CA,no,yes,no,cellular,4
+CUST_08575,61,M,1,Graduate,Married,IA,no,no,no,cellular,4
+CUST_08577,40,M,4,High School,Married,TX,yes,no,no,cellular,5
+CUST_08580,52,M,3,Graduate,Married,TX,yes,yes,yes,cellular,4
+CUST_08582,44,F,2,Uneducated,Married,TX,no,no,no,cellular,4
+CUST_08585,36,F,4,Graduate,Single,CA,yes,no,no,cellular,5
+CUST_08586,47,M,4,Doctorate,Married,AK,yes,yes,yes,cellular,5
+CUST_08591,51,F,4,High School,Single,CA,no,no,no,cellular,5
+CUST_08600,54,M,1,Graduate,Unknown,CA,no,yes,no,cellular,4
+CUST_08602,64,F,1,Graduate,Single,NY,yes,no,no,cellular,4
+CUST_08607,43,M,3,Graduate,Single,NY,no,no,no,cellular,5
+CUST_08611,42,M,4,High School,Married,CA,yes,yes,no,cellular,5
+CUST_08612,57,F,0,High School,Married,FL,yes,yes,no,cellular,5
+CUST_08614,44,F,4,Graduate,Married,CA,no,no,no,cellular,3
+CUST_08618,45,F,3,Graduate,Single,CA,no,yes,no,cellular,5
+CUST_08619,40,M,2,High School,Married,CA,yes,no,no,cellular,5
+CUST_08622,41,M,4,Unknown,Married,NY,yes,no,no,cellular,3
+CUST_08623,40,M,4,High School,Unknown,TX,no,no,yes,cellular,4
+CUST_08625,38,F,2,Graduate,Single,NY,no,yes,yes,cellular,4
+CUST_08626,37,M,3,Graduate,Married,CA,no,no,no,telephone,5
+CUST_08635,40,F,2,Graduate,Unknown,TX,no,no,no,unknown,3
+CUST_08636,52,F,1,Uneducated,Married,NJ,yes,no,no,cellular,4
+CUST_08637,39,M,2,High School,Single,TX,yes,no,no,cellular,5
+CUST_08639,41,F,3,High School,Married,FL,yes,yes,yes,telephone,4
+CUST_08640,26,M,0,Unknown,Unknown,TX,yes,no,no,cellular,3
+CUST_08654,49,F,2,Graduate,Married,TX,yes,no,no,cellular,5
+CUST_08657,44,M,4,Uneducated,Single,CA,no,no,no,cellular,3
+CUST_08659,54,M,2,Unknown,Married,MN,no,no,no,cellular,5
+CUST_08661,48,M,1,Post-Graduate,Single,TX,yes,no,no,cellular,5
+CUST_08669,44,F,3,High School,Single,CA,no,no,no,unknown,4
+CUST_08671,57,F,2,Uneducated,Married,NY,no,no,yes,cellular,4
+CUST_08672,39,M,2,High School,Married,NJ,yes,no,no,cellular,4
+CUST_08673,45,M,2,Uneducated,Married,MO,yes,no,no,cellular,5
+CUST_08675,36,F,1,Graduate,Single,NY,no,no,no,cellular,3
+CUST_08676,38,F,2,High School,Married,TX,yes,no,no,cellular,4
+CUST_08682,40,M,3,Post-Graduate,Married,NJ,yes,yes,no,cellular,3
+CUST_08694,35,F,3,Graduate,Single,CA,no,yes,no,cellular,4
+CUST_08697,37,M,3,Graduate,Married,FL,no,yes,no,unknown,3
+CUST_08699,47,F,3,High School,Single,NM,yes,yes,no,cellular,5
+CUST_08700,44,F,4,Uneducated,Married,IA,yes,no,no,cellular,4
+CUST_08704,39,F,2,Graduate,Single,CA,yes,no,no,cellular,3
+CUST_08705,44,F,3,Graduate,Single,TX,no,yes,no,cellular,4
+CUST_08708,35,F,1,Graduate,Single,CA,yes,yes,no,cellular,5
+CUST_08713,39,M,2,Graduate,Single,MI,no,no,no,cellular,5
+CUST_08715,55,F,1,Graduate,Unknown,FL,yes,no,no,unknown,5
+CUST_08719,37,F,3,Post-Graduate,Married,NY,yes,no,no,cellular,5
+CUST_08721,51,M,3,High School,Married,TX,no,yes,no,cellular,4
+CUST_08723,49,F,5,Graduate,Married,TX,no,no,yes,unknown,5
+CUST_08729,37,F,3,Graduate,Single,NY,yes,no,no,cellular,5
+CUST_08730,40,F,2,Graduate,Married,CA,no,no,no,cellular,4
+CUST_08731,51,M,2,Unknown,Single,CA,no,no,no,cellular,4
+CUST_08739,38,M,4,High School,Single,FL,yes,yes,no,cellular,3
+CUST_08741,59,F,2,Uneducated,Married,FL,no,yes,no,cellular,5
+CUST_08745,49,M,3,Post-Graduate,Single,NY,no,no,no,cellular,5
+CUST_08748,43,M,4,Graduate,Single,TX,yes,no,no,cellular,5
+CUST_08749,37,F,4,High School,Single,CA,no,no,no,cellular,3
+CUST_08751,38,M,2,Uneducated,Married,NJ,yes,no,no,cellular,4
+CUST_08753,48,M,4,Graduate,Married,NY,no,yes,no,cellular,4
+CUST_08760,38,F,1,High School,Single,FL,yes,no,no,cellular,3
+CUST_08764,36,M,2,Graduate,Single,FL,yes,yes,no,cellular,4
+CUST_08765,46,M,3,High School,Single,CA,yes,yes,yes,cellular,4
+CUST_08766,50,F,2,Graduate,Single,NY,yes,yes,no,cellular,5
+CUST_08769,42,M,2,Graduate,Single,CA,yes,yes,no,unknown,4
+CUST_08775,38,F,2,Graduate,Married,FL,no,yes,no,unknown,5
+CUST_08781,42,M,3,Post-Graduate,Married,TX,yes,yes,no,cellular,4
+CUST_08782,26,M,0,Graduate,Single,NY,yes,no,no,unknown,5
+CUST_08784,44,F,3,High School,Married,TX,yes,yes,no,cellular,5
+CUST_08786,51,M,3,Graduate,Married,CA,no,yes,no,cellular,5
+CUST_08791,39,F,0,Graduate,Single,TX,yes,no,no,unknown,5
+CUST_08797,43,F,4,Graduate,Unknown,CA,no,yes,no,cellular,4
+CUST_08800,38,F,3,Graduate,Single,TX,yes,yes,no,cellular,4
+CUST_08804,40,F,3,High School,Single,NY,no,yes,no,cellular,3
+CUST_08805,49,M,3,Graduate,Single,TX,no,no,no,cellular,5
+CUST_08807,52,F,2,High School,Single,CA,no,no,no,cellular,4
+CUST_08813,33,M,2,Graduate,Married,NY,yes,no,no,unknown,4
+CUST_08814,42,F,3,High School,Married,NV,no,no,no,cellular,5
+CUST_08815,48,F,2,High School,Married,VA,no,yes,no,unknown,4
+CUST_08817,49,M,2,Unknown,Single,NY,no,no,no,unknown,5
+CUST_08823,60,M,2,High School,Married,NY,yes,no,no,unknown,4
+CUST_08825,37,F,2,Unknown,Single,NY,no,yes,no,unknown,5
+CUST_08830,46,F,3,Graduate,Married,TX,no,yes,yes,cellular,4
+CUST_08832,48,F,5,Post-Graduate,Single,TX,yes,yes,no,cellular,4
+CUST_08835,44,F,4,High School,Married,NY,no,no,no,unknown,4
+CUST_08837,51,M,2,Doctorate,Single,NJ,yes,yes,yes,cellular,3
+CUST_08840,61,F,1,Graduate,Single,GA,yes,no,no,cellular,5
+CUST_08846,48,M,4,Unknown,Single,FL,yes,no,no,telephone,3
+CUST_08848,51,F,1,Doctorate,Single,CA,yes,no,yes,cellular,4
+CUST_08850,42,F,4,Uneducated,Married,NY,no,no,yes,cellular,4
+CUST_08856,59,F,1,Unknown,Married,NJ,no,no,no,cellular,4
+CUST_08857,45,F,3,High School,Married,NY,yes,yes,no,unknown,5
+CUST_08858,46,F,4,Graduate,Married,FL,no,yes,yes,unknown,4
+CUST_08862,60,M,1,Post-Graduate,Single,NJ,yes,no,no,unknown,4
+CUST_08865,45,M,4,Graduate,Single,TX,no,no,no,cellular,4
+CUST_08872,63,M,0,Graduate,Single,CA,no,yes,yes,cellular,3
+CUST_08874,43,F,4,Graduate,Married,CA,no,yes,no,unknown,4
+CUST_08877,52,F,3,Graduate,Married,TX,yes,no,no,unknown,5
+CUST_08882,48,F,3,Unknown,Married,TX,no,yes,yes,telephone,3
+CUST_08884,42,M,2,Unknown,Single,NY,no,no,no,cellular,4
+CUST_08887,46,F,2,Unknown,Married,NY,no,no,yes,cellular,5
+CUST_08888,43,F,3,Unknown,Single,NY,yes,yes,no,cellular,5
+CUST_08894,58,M,2,Graduate,Married,FL,no,no,no,cellular,5
+CUST_08896,49,M,2,Unknown,Married,TX,no,no,no,cellular,3
+CUST_08898,43,M,4,Graduate,Single,FL,yes,no,no,cellular,5
+CUST_08905,58,M,3,Graduate,Married,NJ,no,no,no,cellular,3
+CUST_08910,43,M,4,Uneducated,Single,FL,yes,no,no,cellular,4
+CUST_08922,44,F,2,High School,Married,TX,yes,no,no,cellular,5
+CUST_08926,48,M,3,Graduate,Married,CA,no,yes,no,cellular,5
+CUST_08928,51,M,2,Graduate,Single,FL,no,yes,yes,cellular,4
+CUST_08931,43,F,5,Graduate,Married,FL,yes,yes,no,cellular,5
+CUST_08936,50,M,0,Uneducated,Married,FL,no,no,no,cellular,5
+CUST_08937,36,M,2,High School,Married,TX,no,no,no,cellular,5
+CUST_08942,38,M,4,Uneducated,Married,TX,yes,yes,no,cellular,5
+CUST_08944,57,F,1,Graduate,Single,TX,yes,yes,no,cellular,5
+CUST_08947,39,M,4,High School,Married,FL,no,no,no,cellular,4
+CUST_08948,49,M,3,Uneducated,Single,NY,no,yes,yes,cellular,4
+CUST_08949,52,F,3,Graduate,Single,TX,yes,no,no,unknown,5
+CUST_08952,36,M,4,Unknown,Single,NJ,yes,no,no,cellular,5
+CUST_08953,62,M,1,Graduate,Unknown,TX,no,no,yes,cellular,4
+CUST_08955,57,F,1,Unknown,Married,NJ,yes,no,no,cellular,4
+CUST_08956,58,M,4,Graduate,Married,FL,no,yes,no,cellular,5
+CUST_08957,50,F,2,High School,Married,AK,yes,yes,no,unknown,4
+CUST_08958,33,M,1,Unknown,Married,CA,yes,yes,no,cellular,5
+CUST_08960,42,M,3,Graduate,Married,CA,no,no,no,cellular,4
+CUST_08969,48,M,4,Post-Graduate,Married,TX,yes,yes,no,cellular,5
+CUST_08970,49,M,4,Graduate,Single,NY,no,no,no,cellular,3
+CUST_08974,41,F,2,Uneducated,Single,NY,yes,yes,no,unknown,5
+CUST_08977,54,M,5,High School,Married,NY,no,yes,yes,cellular,4
+CUST_08981,45,M,2,Graduate,Married,TX,no,no,yes,telephone,5
+CUST_08983,42,F,4,High School,Married,CA,no,no,no,cellular,4
+CUST_08984,47,M,3,Uneducated,Single,TX,yes,no,no,cellular,5
+CUST_08987,41,M,4,High School,Married,NJ,yes,no,no,cellular,4
+CUST_08992,45,F,4,Doctorate,Single,TX,no,yes,no,telephone,4
+CUST_08996,54,F,3,Doctorate,Single,NY,yes,no,no,cellular,3
+CUST_08999,43,F,4,Graduate,Married,SC,yes,no,no,cellular,4
+CUST_09001,50,F,1,Doctorate,Single,CA,yes,no,no,cellular,4
+CUST_09011,42,F,3,Doctorate,Married,NY,no,no,no,cellular,4
+CUST_09012,46,F,1,Graduate,Married,TX,no,no,no,telephone,5
+CUST_09019,50,M,2,Graduate,Single,TX,no,no,no,cellular,5
+CUST_09021,48,F,1,Uneducated,Single,NY,yes,no,yes,cellular,4
+CUST_09022,54,F,2,High School,Married,TX,yes,yes,no,telephone,3
+CUST_09023,27,F,0,Graduate,Single,CA,no,no,no,unknown,4
+CUST_09024,51,F,2,Graduate,Married,TX,yes,no,no,unknown,3
+CUST_09025,38,F,1,Graduate,Unknown,TX,no,yes,no,unknown,4
+CUST_09027,50,M,1,Uneducated,Married,CA,no,yes,no,cellular,4
+CUST_09031,54,M,0,Graduate,Single,CA,no,no,no,cellular,4
+CUST_09033,56,F,5,Graduate,Single,CA,no,yes,no,cellular,5
+CUST_09036,51,F,1,Graduate,Married,NV,yes,no,no,unknown,3
+CUST_09049,53,F,4,Unknown,Single,CA,no,yes,no,cellular,4
+CUST_09050,52,M,1,Uneducated,Married,TX,yes,yes,no,cellular,3
+CUST_09053,39,M,4,High School,Married,CA,yes,yes,no,cellular,5
+CUST_09058,55,M,1,Doctorate,Married,NJ,no,yes,no,cellular,4
+CUST_09059,49,F,1,Post-Graduate,Single,CA,yes,yes,no,cellular,5
+CUST_09064,44,F,2,Graduate,Married,TX,no,yes,no,cellular,4
+CUST_09068,54,F,1,High School,Married,FL,no,no,no,cellular,5
+CUST_09071,45,F,3,High School,Single,WA,no,no,no,cellular,3
+CUST_09073,58,F,2,Graduate,Single,NY,yes,no,no,telephone,4
+CUST_09076,56,F,1,Graduate,Married,TX,no,no,yes,cellular,4
+CUST_09082,36,F,3,Graduate,Single,NJ,no,no,no,cellular,5
+CUST_09083,43,F,3,High School,Unknown,TX,no,yes,no,unknown,5
+CUST_09086,39,F,2,Doctorate,Married,CA,no,no,no,unknown,4
+CUST_09096,53,M,4,Graduate,Unknown,CA,no,yes,no,cellular,5
+CUST_09100,48,M,3,Post-Graduate,Single,CA,yes,no,no,telephone,5
+CUST_09102,65,M,1,High School,Married,NJ,no,yes,no,unknown,5
+CUST_09111,44,M,4,Graduate,Single,CA,no,yes,no,cellular,5
+CUST_09113,52,F,1,Graduate,Single,FL,no,yes,no,cellular,4
+CUST_09114,45,M,2,Graduate,Single,FL,yes,no,no,cellular,4
+CUST_09115,36,M,3,Unknown,Unknown,NY,no,yes,no,cellular,4
+CUST_09121,50,F,3,Graduate,Single,CA,no,no,no,cellular,5
+CUST_09122,52,F,1,Unknown,Single,FL,no,yes,yes,cellular,4
+CUST_09128,54,F,3,Doctorate,Married,NY,no,no,no,cellular,3
+CUST_09129,59,M,2,Graduate,Single,TX,no,no,no,cellular,4
+CUST_09133,62,F,0,Graduate,Single,FL,yes,yes,no,unknown,5
+CUST_09134,59,F,1,Uneducated,Married,TX,no,yes,yes,cellular,3
+CUST_09142,59,M,1,Graduate,Single,NY,yes,yes,no,cellular,5
+CUST_09144,39,M,4,Post-Graduate,Married,CA,yes,no,no,cellular,3
+CUST_09145,39,M,4,Uneducated,Married,FL,no,yes,no,unknown,4
+CUST_09146,41,F,4,High School,Married,NY,no,yes,yes,unknown,4
+CUST_09151,51,F,2,Doctorate,Married,NJ,no,no,yes,telephone,5
+CUST_09153,58,F,1,Unknown,Married,MA,no,yes,no,cellular,5
+CUST_09154,53,M,3,Uneducated,Married,NY,no,yes,no,cellular,5
+CUST_09156,48,F,2,Graduate,Single,NY,no,yes,no,cellular,5
+CUST_09157,65,M,0,High School,Married,NY,no,no,no,telephone,5
+CUST_09159,56,M,2,Doctorate,Single,FL,yes,no,no,cellular,3
+CUST_09160,51,F,3,High School,Single,TX,no,no,no,unknown,5
+CUST_09167,61,F,0,Uneducated,Single,CA,no,yes,no,cellular,3
+CUST_09169,47,M,2,Graduate,Married,FL,no,yes,no,cellular,5
+CUST_09170,65,F,1,Graduate,Single,NJ,no,no,no,cellular,4
+CUST_09186,44,M,1,Unknown,Married,NY,no,no,no,cellular,5
+CUST_09187,49,M,4,High School,Married,CA,yes,yes,no,cellular,3
+CUST_09190,54,F,2,Graduate,Married,NY,no,no,yes,unknown,4
+CUST_09191,35,F,4,Graduate,Married,CA,yes,no,yes,cellular,4
+CUST_09196,46,F,3,Graduate,Married,CA,yes,no,no,cellular,5
+CUST_09199,57,F,3,Graduate,Married,TX,yes,no,no,cellular,3
+CUST_09206,29,F,0,High School,Single,CA,no,no,no,cellular,4
+CUST_09207,54,F,1,Graduate,Single,CA,no,yes,no,cellular,3
+CUST_09210,46,M,0,High School,Single,CA,no,no,no,unknown,4
+CUST_09216,50,F,3,Unknown,Single,CA,yes,no,no,cellular,5
+CUST_09220,38,M,0,Graduate,Married,FL,no,yes,no,cellular,4
+CUST_09224,55,M,1,Graduate,Single,FL,no,no,no,cellular,5
+CUST_09227,44,F,2,Graduate,Unknown,FL,no,no,no,unknown,5
+CUST_09229,42,F,2,Uneducated,Married,NJ,no,yes,no,cellular,3
+CUST_09233,43,M,3,Graduate,Single,FL,no,no,no,cellular,4
+CUST_09234,50,M,4,Unknown,Married,NY,yes,no,no,cellular,4
+CUST_09238,65,M,0,High School,Single,NY,no,no,no,unknown,4
+CUST_09246,47,M,4,Unknown,Unknown,TX,yes,no,no,cellular,5
+CUST_09247,42,M,3,Doctorate,Single,CA,yes,no,no,cellular,3
+CUST_09248,55,M,3,Uneducated,Single,CA,yes,yes,yes,telephone,3
+CUST_09250,47,F,3,Unknown,Single,TX,yes,yes,yes,unknown,4
+CUST_09252,51,F,3,Post-Graduate,Married,FL,no,no,no,telephone,5
+CUST_09253,44,M,2,Graduate,Unknown,NY,yes,no,no,cellular,4
+CUST_09262,61,M,0,High School,Single,CT,yes,yes,no,cellular,4
+CUST_09264,53,F,1,High School,Married,TX,no,yes,no,cellular,4
+CUST_09265,50,F,2,Graduate,Single,TX,no,yes,no,unknown,3
+CUST_09266,41,F,3,Post-Graduate,Unknown,CA,no,yes,no,cellular,5
+CUST_09271,32,M,2,Graduate,Single,TX,yes,no,no,unknown,5
+CUST_09272,38,F,4,Graduate,Married,TX,no,yes,no,cellular,5
+CUST_09280,49,F,2,Uneducated,Married,TX,no,yes,no,cellular,5
+CUST_09281,41,F,2,Graduate,Single,TX,no,no,no,cellular,4
+CUST_09283,52,F,2,Graduate,Single,TX,yes,no,no,cellular,4
+CUST_09286,41,F,2,Unknown,Unknown,CA,no,yes,yes,cellular,5
+CUST_09290,39,F,3,Uneducated,Married,TX,yes,yes,no,cellular,4
+CUST_09291,48,F,1,Graduate,Married,CA,no,no,no,cellular,5
+CUST_09293,62,F,0,Doctorate,Single,FL,no,yes,no,cellular,4
+CUST_09294,48,F,1,Unknown,Single,NY,no,yes,no,unknown,3
+CUST_09304,42,F,3,High School,Single,TX,no,no,no,cellular,4
+CUST_09306,35,F,1,Unknown,Married,TX,yes,no,no,cellular,4
+CUST_09307,36,M,2,Graduate,Married,NJ,no,no,no,cellular,5
+CUST_09309,32,M,0,High School,Single,NY,no,yes,no,cellular,3
+CUST_09312,58,F,1,Graduate,Single,TX,yes,yes,no,cellular,5
+CUST_09313,57,M,2,Uneducated,Single,TX,yes,yes,no,cellular,3
+CUST_09314,45,F,5,Uneducated,Married,CA,yes,yes,no,unknown,4
+CUST_09315,36,M,2,Doctorate,Single,FL,no,no,no,cellular,3
+CUST_09316,48,M,3,Graduate,Married,NY,no,yes,no,cellular,5
+CUST_09318,38,M,1,Unknown,Married,NY,yes,yes,no,unknown,5
+CUST_09322,49,F,4,Graduate,Single,CA,yes,no,no,cellular,4
+CUST_09323,45,F,3,High School,Married,CA,no,yes,no,unknown,5
+CUST_09325,52,F,2,Graduate,Married,NJ,no,yes,no,unknown,4
+CUST_09327,56,F,2,Unknown,Married,AK,no,yes,no,unknown,5
+CUST_09330,41,M,4,High School,Single,CA,yes,yes,yes,cellular,3
+CUST_09337,57,F,3,Unknown,Unknown,NY,yes,no,yes,cellular,5
+CUST_09342,43,M,4,Unknown,Married,FL,no,no,no,cellular,5
+CUST_09343,58,M,2,Uneducated,Single,NY,no,yes,no,cellular,4
+CUST_09353,56,M,1,Graduate,Married,NJ,no,no,no,cellular,5
+CUST_09357,45,M,2,Uneducated,Married,TX,yes,yes,no,cellular,3
+CUST_09358,48,F,3,High School,Married,TX,no,yes,no,unknown,5
+CUST_09376,45,F,2,High School,Married,NJ,yes,no,no,cellular,3
+CUST_09378,54,M,1,Graduate,Married,CA,yes,yes,no,cellular,5
+CUST_09383,51,F,3,Unknown,Single,CA,no,no,no,cellular,4
+CUST_09390,55,F,2,Graduate,Single,CA,no,yes,no,unknown,3
+CUST_09395,32,M,0,Post-Graduate,Married,TX,no,no,no,cellular,3
+CUST_09396,55,F,1,Graduate,Single,TX,no,no,no,cellular,5
+CUST_09402,53,F,3,Uneducated,Married,CA,yes,no,no,unknown,5
+CUST_09408,63,M,2,High School,Married,FL,yes,yes,no,cellular,4
+CUST_09412,43,M,4,High School,Married,TX,no,yes,no,cellular,5
+CUST_09416,43,M,4,Uneducated,Married,NY,no,no,yes,cellular,5
+CUST_09431,36,M,2,Uneducated,Married,NJ,no,no,no,cellular,4
+CUST_09433,44,M,3,Graduate,Single,NY,yes,no,no,cellular,5
+CUST_09434,51,F,1,Graduate,Married,TX,no,yes,yes,cellular,5
+CUST_09438,39,M,1,Graduate,Married,TX,no,no,no,unknown,5
+CUST_09441,51,F,1,Graduate,Married,NY,yes,yes,no,cellular,4
+CUST_09447,52,M,1,Graduate,Single,FL,yes,no,yes,cellular,5
+CUST_09448,55,M,1,Graduate,Single,TX,no,yes,no,cellular,5
+CUST_09450,38,F,1,Graduate,Single,TX,no,no,yes,cellular,4
+CUST_09456,51,M,2,Uneducated,Single,NJ,yes,no,no,telephone,4
+CUST_09459,62,M,1,Uneducated,Married,NJ,yes,no,no,cellular,4
+CUST_09460,43,M,4,Graduate,Single,CA,no,yes,no,unknown,3
+CUST_09461,39,F,3,High School,Single,TX,no,yes,no,unknown,4
+CUST_09462,51,F,4,Graduate,Married,CA,yes,no,no,unknown,5
+CUST_09470,38,F,1,Graduate,Single,FL,no,yes,no,unknown,4
+CUST_09472,35,M,0,Doctorate,Single,NY,no,no,no,cellular,5
+CUST_09495,36,F,3,High School,Married,CA,yes,yes,no,unknown,5
+CUST_09498,36,F,0,Unknown,Married,CA,no,no,no,cellular,5
+CUST_09503,53,F,4,Graduate,Married,CA,no,no,no,cellular,4
+CUST_09504,55,F,1,Graduate,Married,CA,no,yes,yes,cellular,4
+CUST_09505,46,M,2,Uneducated,Unknown,NY,yes,no,no,cellular,4
+CUST_09510,60,F,1,Graduate,Single,NY,yes,no,no,cellular,4
+CUST_09514,35,F,4,High School,Married,CA,no,yes,no,cellular,5
+CUST_09516,40,F,5,Graduate,Married,CA,yes,yes,no,unknown,5
+CUST_09517,42,F,2,Graduate,Unknown,CA,yes,yes,yes,unknown,3
+CUST_09521,42,F,5,High School,Married,WA,no,no,yes,cellular,5
+CUST_09522,50,F,0,Uneducated,Married,CA,yes,yes,no,cellular,3
+CUST_09524,29,M,0,Unknown,Married,NJ,yes,no,no,cellular,4
+CUST_09540,52,M,2,Graduate,Married,CA,no,yes,no,cellular,4
+CUST_09548,41,M,4,Uneducated,Married,TX,no,yes,no,cellular,5
+CUST_09550,27,F,0,Graduate,Unknown,NY,no,no,no,unknown,4
+CUST_09551,39,F,5,Graduate,Single,TX,no,no,no,cellular,3
+CUST_09553,39,F,5,Graduate,Married,FL,no,no,yes,unknown,4
+CUST_09555,48,F,3,Unknown,Married,FL,no,no,no,cellular,5
+CUST_09565,35,F,1,High School,Married,TX,no,no,yes,unknown,5
+CUST_09572,54,M,2,Graduate,Married,NY,yes,yes,no,cellular,4
+CUST_09576,42,F,4,Uneducated,Married,TX,yes,yes,yes,cellular,3
+CUST_09578,35,F,4,Uneducated,Married,CA,yes,no,no,telephone,4
+CUST_09579,46,M,2,Graduate,Married,TX,no,yes,yes,unknown,5
+CUST_09581,53,F,2,Graduate,Single,CA,no,yes,no,telephone,4
+CUST_09582,48,F,4,High School,Married,NY,no,yes,no,cellular,3
+CUST_09583,34,M,3,Uneducated,Married,NJ,no,no,no,cellular,5
+CUST_09594,61,M,1,Graduate,Single,CA,yes,yes,no,cellular,5
+CUST_09595,36,F,3,Uneducated,Single,FL,no,yes,no,telephone,3
+CUST_09600,48,M,4,Graduate,Married,NY,yes,no,yes,cellular,3
+CUST_09601,40,M,4,Unknown,Married,TX,no,no,no,cellular,3
+CUST_09605,35,M,3,Graduate,Single,WA,yes,yes,no,cellular,5
+CUST_09611,46,F,5,Graduate,Married,NY,no,no,no,cellular,3
+CUST_09612,48,M,1,Uneducated,Unknown,FL,yes,no,no,cellular,5
+CUST_09614,39,F,1,Graduate,Single,MI,yes,no,yes,unknown,5
+CUST_09616,46,F,3,Graduate,Married,CA,no,yes,no,telephone,5
+CUST_09618,57,M,1,High School,Married,TX,no,no,no,telephone,3
+CUST_09622,56,F,1,Post-Graduate,Married,CA,no,yes,no,unknown,5
+CUST_09625,38,F,4,Unknown,Single,FL,no,no,no,cellular,4
+CUST_09630,41,F,2,Uneducated,Married,CA,no,no,no,cellular,4
+CUST_09635,38,M,3,Graduate,Single,FL,no,no,no,cellular,5
+CUST_09640,30,M,0,Graduate,Married,NY,no,yes,yes,cellular,5
+CUST_09641,51,M,3,Graduate,Married,CA,no,no,no,cellular,3
+CUST_09643,44,F,2,Unknown,Single,TX,no,yes,no,telephone,4
+CUST_09646,45,M,4,Uneducated,Single,CA,no,yes,no,cellular,3
+CUST_09653,40,M,2,High School,Single,FL,yes,yes,no,cellular,4
+CUST_09654,45,F,3,High School,Married,FL,no,no,no,cellular,5
+CUST_09662,45,F,4,Uneducated,Single,TX,no,no,no,unknown,4
+CUST_09667,53,F,3,Doctorate,Married,TX,no,no,no,unknown,5
+CUST_09679,53,M,4,Graduate,Single,NY,yes,yes,no,cellular,4
+CUST_09680,41,M,3,Graduate,Single,CA,yes,no,no,cellular,5
+CUST_09682,54,M,2,Graduate,Married,NJ,yes,no,no,cellular,4
+CUST_09685,32,F,1,Unknown,Single,NJ,no,yes,no,cellular,4
+CUST_09686,41,M,4,Unknown,Married,FL,yes,yes,no,cellular,5
+CUST_09697,45,F,4,Graduate,Married,NY,yes,yes,no,unknown,4
+CUST_09698,51,F,2,Doctorate,Married,FL,yes,no,no,unknown,4
+CUST_09700,49,M,4,Graduate,Single,UT,no,yes,no,cellular,3
+CUST_09706,49,M,4,Post-Graduate,Married,CA,yes,no,no,cellular,5
+CUST_09723,43,F,2,Uneducated,Single,NJ,no,yes,no,cellular,5
+CUST_09724,51,F,4,High School,Single,FL,yes,yes,no,cellular,5
+CUST_09725,50,F,3,Post-Graduate,Single,TX,yes,no,no,cellular,3
+CUST_09727,57,F,1,High School,Unknown,TX,yes,yes,no,cellular,3
+CUST_09733,28,M,1,Uneducated,Single,CA,no,no,no,cellular,5
+CUST_09736,44,F,3,Doctorate,Married,NY,no,no,no,cellular,4
+CUST_09742,65,M,0,High School,Single,CA,no,no,yes,cellular,3
+CUST_09744,43,M,3,Graduate,Single,NJ,no,yes,no,cellular,5
+CUST_09745,48,M,4,Post-Graduate,Single,NY,no,yes,no,cellular,5
+CUST_09751,38,F,3,Graduate,Single,TX,yes,yes,no,unknown,5
+CUST_09752,54,F,4,Graduate,Single,NY,no,no,no,unknown,5
+CUST_09757,54,M,2,Graduate,Married,TX,no,no,yes,cellular,4
+CUST_09764,37,M,3,Uneducated,Single,TX,no,no,no,cellular,5
+CUST_09770,55,F,2,High School,Married,NY,no,yes,no,cellular,4
+CUST_09787,49,F,4,High School,Married,TX,no,no,no,cellular,4
+CUST_09792,63,M,1,High School,Married,CA,yes,no,no,cellular,4
+CUST_09796,34,M,2,Uneducated,Single,NJ,yes,no,no,cellular,4
+CUST_09800,46,F,4,High School,Married,CA,yes,yes,no,telephone,4
+CUST_09803,44,F,3,Unknown,Married,TX,no,no,no,cellular,4
+CUST_09806,57,F,3,High School,Single,PA,no,yes,no,cellular,4
+CUST_09807,40,F,2,Graduate,Married,NY,no,no,no,cellular,3
+CUST_09808,34,M,1,Graduate,Married,NY,no,yes,yes,cellular,5
+CUST_09810,35,M,1,High School,Married,NY,no,no,no,cellular,4
+CUST_09816,32,F,0,High School,Single,TX,no,yes,yes,unknown,3
+CUST_09820,37,F,4,High School,Single,NY,no,no,no,cellular,3
+CUST_09827,43,F,5,Uneducated,Married,NY,yes,no,no,cellular,4
+CUST_09832,55,F,2,Unknown,Single,TX,no,yes,no,unknown,5
+CUST_09836,39,M,1,Uneducated,Married,NY,no,no,no,cellular,4
+CUST_09838,42,M,3,Graduate,Single,TX,no,no,yes,unknown,4
+CUST_09840,40,F,4,Graduate,Married,NY,yes,no,no,unknown,5
+CUST_09841,50,M,1,Post-Graduate,Unknown,TX,no,yes,no,unknown,5
+CUST_09844,43,F,2,Graduate,Single,TX,no,no,yes,cellular,5
+CUST_09852,47,M,3,Doctorate,Unknown,FL,yes,yes,no,cellular,4
+CUST_09853,44,M,2,High School,Married,FL,no,no,no,telephone,5
+CUST_09860,35,F,3,Doctorate,Single,TX,no,yes,no,unknown,4
+CUST_09869,53,F,1,Graduate,Single,FL,yes,no,no,unknown,5
+CUST_09870,44,M,3,Unknown,Married,NY,yes,no,no,cellular,5
+CUST_09872,52,F,4,Graduate,Married,TX,yes,yes,no,unknown,5
+CUST_09878,44,F,3,Graduate,Married,CA,yes,yes,no,cellular,5
+CUST_09879,53,F,2,High School,Single,TX,no,yes,no,cellular,4
+CUST_09890,48,M,2,Graduate,Married,NY,no,no,no,cellular,5
+CUST_09891,56,M,3,Unknown,Single,TX,yes,no,no,cellular,4
+CUST_09892,53,F,1,High School,Single,NJ,yes,no,no,cellular,5
+CUST_09893,50,M,2,High School,Single,FL,no,no,no,cellular,5
+CUST_09896,41,F,5,Uneducated,Single,TX,no,yes,yes,cellular,5
+CUST_09898,48,M,2,High School,Married,TX,no,yes,no,cellular,3
+CUST_09903,48,M,2,High School,Married,CA,no,yes,no,cellular,3
+CUST_09905,59,F,1,Graduate,Unknown,TX,yes,yes,no,unknown,4
+CUST_09906,26,M,0,Uneducated,Single,NY,no,no,no,cellular,4
+CUST_09908,33,M,2,Graduate,Married,TX,yes,yes,no,cellular,4
+CUST_09910,40,F,3,Uneducated,Single,IL,no,yes,no,cellular,5
+CUST_09920,59,M,0,Uneducated,Single,NJ,yes,no,no,cellular,4
+CUST_09933,43,F,2,Graduate,Married,TX,no,yes,no,cellular,3
+CUST_09934,50,F,1,Graduate,Single,TX,yes,no,no,cellular,4
+CUST_09935,38,M,3,Graduate,Married,CA,no,no,no,telephone,4
+CUST_09936,39,F,2,Uneducated,Single,AR,no,yes,yes,cellular,5
+CUST_09939,57,F,2,Graduate,Married,TX,no,no,no,cellular,4
+CUST_09941,47,M,3,High School,Married,FL,yes,yes,no,cellular,4
+CUST_09953,47,F,4,Graduate,Single,NY,no,yes,no,cellular,5
+CUST_09957,48,F,4,Graduate,Married,FL,yes,no,no,cellular,4
+CUST_09958,48,F,2,Uneducated,Married,NY,yes,no,no,unknown,5
+CUST_09963,46,M,4,Graduate,Single,FL,no,no,no,telephone,4
+CUST_09966,47,F,3,Graduate,Married,TX,yes,yes,no,cellular,3
+CUST_09968,43,M,2,High School,Single,NJ,no,no,no,cellular,3
+CUST_09970,44,M,4,Graduate,Single,FL,no,no,no,cellular,5
+CUST_09977,43,M,4,Unknown,Married,FL,no,no,no,cellular,5
+CUST_09978,51,M,2,Graduate,Married,CA,yes,yes,no,cellular,5
+CUST_09979,61,F,1,Doctorate,Married,CA,no,yes,no,telephone,4
+CUST_09980,57,F,2,Graduate,Married,FL,no,no,no,cellular,3
+CUST_09981,54,M,2,Uneducated,Married,TX,no,yes,no,cellular,4
+CUST_09983,36,M,1,Uneducated,Married,NY,yes,no,no,cellular,5
+CUST_09985,46,F,4,Unknown,Unknown,FL,yes,yes,no,cellular,4
+CUST_09987,44,M,4,Graduate,Married,TX,yes,no,no,cellular,5
+CUST_09993,56,F,2,Doctorate,Single,NY,no,no,no,cellular,3
+CUST_09994,45,M,3,Uneducated,Single,TX,yes,yes,no,cellular,5
+CUST_09996,47,M,4,Unknown,Single,NY,yes,no,no,telephone,5
+CUST_09998,44,M,1,Graduate,Married,FL,yes,yes,no,cellular,4
+CUST_10000,39,F,0,High School,Single,CA,yes,yes,no,cellular,5
+CUST_10001,43,F,4,Graduate,Married,NY,no,no,no,unknown,5
+CUST_10002,43,F,3,Unknown,Married,NY,yes,yes,yes,cellular,5
+CUST_10004,55,F,2,Graduate,Single,FL,no,yes,no,unknown,5
+CUST_10006,54,F,2,Unknown,Married,IL,no,no,no,cellular,5
+CUST_10008,41,F,2,High School,Married,AR,no,yes,no,cellular,4
+CUST_10011,48,M,3,Post-Graduate,Married,CA,no,no,no,telephone,5
+CUST_10016,26,M,0,High School,Single,FL,no,no,no,cellular,5
+CUST_10017,54,F,3,High School,Married,TX,no,yes,no,unknown,3
+CUST_10025,48,M,3,High School,Married,NY,yes,no,yes,cellular,5
+CUST_10028,27,M,0,High School,Married,TX,yes,no,no,cellular,5
+CUST_10029,54,F,1,Graduate,Single,FL,yes,no,no,unknown,3
+CUST_10030,41,M,4,High School,Unknown,NY,yes,no,no,cellular,5
+CUST_10031,40,M,3,High School,Married,NY,no,no,no,telephone,5
+CUST_10032,48,M,3,Graduate,Married,NY,yes,no,no,cellular,5
+CUST_10043,43,F,2,High School,Unknown,NY,yes,no,no,unknown,3
+CUST_10047,50,M,1,Graduate,Married,FL,no,yes,no,cellular,3
+CUST_10048,46,M,3,Unknown,Unknown,NY,no,yes,no,cellular,5
+CUST_10050,43,M,4,Uneducated,Married,TX,no,yes,no,cellular,4
+CUST_10053,56,M,2,Graduate,Single,TX,no,no,no,cellular,3
+CUST_10055,45,F,3,Uneducated,Married,TX,no,yes,yes,unknown,4
+CUST_10056,45,M,3,Uneducated,Unknown,TX,yes,yes,no,cellular,3
+CUST_10058,56,F,3,Graduate,Single,TX,no,yes,yes,unknown,4
+CUST_10065,61,M,0,High School,Married,NY,yes,no,no,cellular,4
+CUST_10068,42,M,5,High School,Married,NY,no,yes,no,cellular,5
+CUST_10070,47,F,4,Unknown,Single,FL,no,no,yes,cellular,3
+CUST_10072,52,F,2,Graduate,Single,FL,no,yes,no,cellular,5
+CUST_10073,41,M,4,Graduate,Unknown,NJ,no,no,no,cellular,5
+CUST_10074,40,F,2,Graduate,Unknown,GA,yes,no,no,cellular,4
+CUST_10083,44,M,5,Uneducated,Married,IA,no,yes,yes,cellular,3
+CUST_10086,47,F,1,Graduate,Married,TX,no,no,yes,cellular,4
+CUST_10094,50,F,3,Graduate,Single,TX,no,yes,yes,cellular,4
+CUST_10098,49,F,1,Uneducated,Single,CA,no,yes,yes,cellular,5
+CUST_10102,42,F,3,Uneducated,Married,TX,no,yes,yes,cellular,3
+CUST_10105,48,M,3,Unknown,Unknown,TX,no,yes,no,cellular,3
+CUST_10107,42,F,3,Graduate,Married,TX,no,no,no,cellular,4
+CUST_10108,47,M,4,High School,Married,NY,no,yes,no,cellular,4
